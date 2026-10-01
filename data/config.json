@@ -29,6 +29,6 @@
   "opener_min_books": 3,
   "_opener_min_books_comment": "A game's Opener line is locked in from the first pull where at least this many sportsbooks have a price posted for that market.",
 
-  "monthly_api_call_limit": 10000,
-  "_monthly_api_call_limit_comment": "Enter your plan's monthly call budget here. The admin page compares actual usage against this and warns at 80%."
+  "monthly_api_call_limit": 2500,
+  "_monthly_api_call_limit_comment": "Confirmed live: your plan's real quota is on 'entities' (roughly events/odds rows returned), not raw requests, and the API reports it as unlimited-requests / 2500-entities per month. The admin page pulls your actual current usage from GET /account/usage each run, not a self-counted tally, and compares it against whichever is lower: this number or your plan's own cap. Leave this at your plan's real limit, or set it lower as your own self-imposed budget."
 }
