@@ -41,6 +41,7 @@ def main() -> int:
         odds_available=True,
         include_open_close_odds=True,
         limit=1,
+        max_total=1,
     )
     finalized = client.get_events(
         league_id=args.league,
@@ -49,6 +50,7 @@ def main() -> int:
         finalized=True,
         include_open_close_odds=True,
         limit=1,
+        max_total=1,
     )
 
     up_path = os.path.join(args.out_dir, f"sgo_sample_upcoming_{args.league}.json")

@@ -89,12 +89,30 @@ class SportsGameOddsClient:
         odds_available: bool | None = None,
         include_open_close_odds: bool = False,
         limit: int = 100,
+        max_total: int | None = None,
+        max_pages: int = 25,
     ) -> list[dict]:
-        """Returns all events for one league matching the filters, paging
-        through `cursor` automatically. One underlying HTTP call per page."""
+        """Returns events for one league matching the filters, paging through
+        `cursor` automatically. One underlying HTTP call per page.
+
+        IMPORTANT: the API returns a `nextCursor` whenever more data exists
+        beyond the current page, REGARDLESS of `limit` -- `limit` only caps
+        page size, it does not cap the total result count. A naive "follow
+        cursor until it's empty" loop with a small `limit` (e.g. a limit=1
+        diagnostic call) will happily page through every matching event,
+        burning through the per-minute request cap in seconds. That bug is
+        exactly what tripped the rate limit during testing.
+
+        So: pass `max_total` whenever you want "just a few events" (e.g.
+        inspect_api.py, verify_leagues.py) -- pagination stops as soon as
+        that many have been collected. Leave it None for a real pull, where
+        we deliberately want every event in the window regardless of how
+        many pages that takes. `max_pages` is an unconditional safety cap
+        either way, so a misbehaving response can't loop forever.
+        """
         events: list[dict] = []
         cursor = None
-        while True:
+        for _ in range(max_pages):
             params = {"leagueID": league_id, "limit": limit}
             if starts_after:
                 params["startsAfter"] = starts_after
@@ -112,6 +130,10 @@ class SportsGameOddsClient:
             payload = self._get("/events", params)
             batch = payload.get("data", payload if isinstance(payload, list) else [])
             events.extend(batch)
+
+            if max_total is not None and len(events) >= max_total:
+                events = events[:max_total]
+                break
 
             cursor = payload.get("nextCursor") if isinstance(payload, dict) else None
             if not cursor or not batch:
