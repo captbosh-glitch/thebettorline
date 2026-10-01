@@ -1,0 +1,90 @@
+name: Pull odds and publish
+
+on:
+  schedule:
+    # Runs every 10 minutes, every day. fetch_odds.py itself decides whether
+    # "now" actually matches one of data/config.json's pull_times -- so the
+    # pull schedule, the 36-hour window, and the league list are all admin
+    # settings you edit in that file, never here.
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      note:
+        description: 'Optional note for the manual-pull log'
+        required: false
+  repository_dispatch:
+    # Fired by worker/pull-now-worker.js when someone clicks "Pull now" on
+    # the admin page. payload.client_payload.note is logged the same way.
+    types: [pull_now]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: thebettorline-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine trigger
+        id: trigger
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "mode=schedule" >> "$GITHUB_OUTPUT"
+            echo "note=" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=manual" >> "$GITHUB_OUTPUT"
+            echo "note=${{ github.event.inputs.note }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=manual" >> "$GITHUB_OUTPUT"
+            echo "note=${{ github.event.client_payload.note }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run pull
+        env:
+          SPORTSGAMEODDS_API_KEY: ${{ secrets.SPORTSGAMEODDS_API_KEY }}
+        run: |
+          if [ -n "${{ steps.trigger.outputs.note }}" ]; then
+            python3 scripts/fetch_odds.py --trigger ${{ steps.trigger.outputs.mode }} --note "${{ steps.trigger.outputs.note }}"
+          else
+            python3 scripts/fetch_odds.py --trigger ${{ steps.trigger.outputs.mode }}
+          fi
+
+      - name: Rebuild admin page
+        run: python3 scripts/build_admin.py
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "thebettorline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data admin
+          if git diff --cached --quiet; then
+            echo "No changes, skipping commit."
+            exit 0
+          fi
+          git commit -m "Pull odds data $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          # Retry with rebase in case something else pushed in between --
+          # same approach as the RTYB workflow.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              break
+            fi
+            echo "Push rejected (attempt $attempt) -- rebasing onto latest remote and retrying..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 3
+          done

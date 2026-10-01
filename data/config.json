@@ -1,0 +1,34 @@
+{
+  "_comment": "Admin settings. Edit this file and push -- no code changes needed. The workflow re-reads it on every run.",
+
+  "timezone": "America/New_York",
+
+  "pull_times": ["09:00", "14:00", "18:30"],
+  "pull_window_minutes": 20,
+  "_pull_window_minutes_comment": "How close to a scheduled pull_time the workflow's cron tick has to land to count as that pull. The workflow runs every 10 minutes, so 20 gives it two tries to catch each scheduled time.",
+
+  "morning_pull_time": "09:00",
+  "_morning_pull_time_comment": "Must exactly match one entry in pull_times. This is the pull that also fetches closing odds + final scores + grading for yesterday's games.",
+
+  "pull_window_hours": 36,
+  "_pull_window_hours_comment": "How far ahead each pull looks for upcoming games (startsAfter=now, startsBefore=now+this many hours).",
+
+  "leagues": [
+    { "league_id": "NFL",   "sport_id": "FOOTBALL",   "enabled": true },
+    { "league_id": "NCAAF", "sport_id": "FOOTBALL",   "enabled": true },
+    { "league_id": "NBA",   "sport_id": "BASKETBALL", "enabled": true },
+    { "league_id": "NCAAB", "sport_id": "BASKETBALL", "enabled": true },
+    { "league_id": "NHL",   "sport_id": "HOCKEY",     "enabled": true },
+    { "league_id": "MLB",   "sport_id": "BASEBALL",   "enabled": true }
+  ],
+  "_leagues_comment": "league_id/sport_id values are SportsGameOdds API identifiers. NFL, NBA, and MLB are confirmed against the docs; NCAAF, NCAAB, and NHL follow the same naming convention but haven't been confirmed against a live response yet -- run scripts/verify_leagues.py once you have an API key and fix any that don't match. Set enabled:false to stop pulling a league without deleting it.",
+
+  "markets": ["sp", "ml", "ou"],
+  "_markets_comment": "sp=spread, ml=moneyline, ou=total(over/under). Full game only (periodID=game) for Prompt 1.",
+
+  "opener_min_books": 3,
+  "_opener_min_books_comment": "A game's Opener line is locked in from the first pull where at least this many sportsbooks have a price posted for that market.",
+
+  "monthly_api_call_limit": 10000,
+  "_monthly_api_call_limit_comment": "Enter your plan's monthly call budget here. The admin page compares actual usage against this and warns at 80%."
+}

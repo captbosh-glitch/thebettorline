@@ -1,0 +1,7 @@
+name = "thebettorline-pull-now"
+main = "pull-now-worker.js"
+compatibility_date = "2024-09-01"
+
+# Secrets (set these with `wrangler secret put <NAME>`, not here):
+#   GITHUB_TOKEN   fine-grained PAT, Contents:write only, scoped to the thebettorline repo
+#   ADMIN_SECRET   shared password the admin page prompts for before calling this worker

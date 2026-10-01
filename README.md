@@ -1,0 +1,120 @@
+# thebettorline.com -- odds data layer
+
+Prompt 1 of the launch sequence: pulls full-game spread/total/moneyline
+odds from the [SportsGameOdds API](https://sportsgameodds.com/docs) for
+NFL, NCAAF, NBA, NCAAB, NHL, and MLB, tracks opener/current/close/consensus
+per game and market, grades completed games, and gives you an admin page
+for usage and pull health. No front page / Top 10 / Who Was Right yet --
+that's Prompts 2+, once this has been collecting data for a week or two.
+
+Same architecture as RTYB: a static site on GitHub Pages, a GitHub Actions
+workflow on a schedule that pulls data, computes everything, and commits
+the results. The API key never leaves GitHub Actions -- it's a repo secret,
+read only by the workflow, never shipped to the browser.
+
+## One-time setup
+
+1. **Create the GitHub repo** (e.g. `captbosh-glitch/thebettorline`), push
+   everything in this folder to it, and turn on **Pages: Deploy from a
+   branch** (`main` / root) in repo Settings, same as RTYB.
+
+2. **Add the repo secret** `SPORTSGAMEODDS_API_KEY` (Settings -> Secrets and
+   variables -> Actions). Get a key at sportsgameodds.com -- the free
+   "Amateur" tier is fine to start.
+
+3. **Verify the league IDs.** `NFL`, `NBA`, and `MLB` are confirmed against
+   the published docs; `NCAAF`, `NCAAB`, and `NHL` follow the same naming
+   pattern but hadn't been confirmed against a live response when this was
+   built. Run once, locally, with your real key:
+
+   ```
+   pip install -r requirements.txt
+   SPORTSGAMEODDS_API_KEY=xxx python3 scripts/verify_leagues.py
+   ```
+
+   Fix anything it flags by editing the `league_id` in `data/config.json`
+   -- no code changes needed.
+
+4. **Confirm the final-score field names.** The public docs didn't show a
+   full example of a completed game's `results` object, so
+   `sgo_client.extract_final_score()` tries a few plausible shapes and
+   quietly skips grading (logged as `missing_score` in the pull log) if
+   none match. Once you have a key and there's a recently-completed game in
+   a league you care about, run:
+
+   ```
+   SPORTSGAMEODDS_API_KEY=xxx python3 scripts/inspect_api.py --league NFL
+   ```
+
+   and send me (or paste into the next session) the printed
+   `sgo_sample_finalized_*.json` file. I'll lock `extract_final_score()` to
+   the real field names -- it's the one function that touches that part of
+   the schema, so it's a small, contained fix.
+
+5. **(Optional, for the "Pull now" button) Deploy the Cloudflare Worker.**
+   The admin page can't call the SportsGameOdds API or trigger a GitHub
+   Actions run directly without exposing a credential, so a tiny Worker
+   sits in between:
+
+   ```
+   cd worker
+   npm install -g wrangler      # if you don't have it
+   wrangler secret put GITHUB_TOKEN     # fine-grained PAT, "Contents: write" only, scoped to this repo
+   wrangler secret put ADMIN_SECRET     # whatever password you want the button to ask for
+   wrangler deploy
+   ```
+
+   Then edit the `WORKER_URL` line in `scripts/build_admin.py`'s template
+   (search for `const WORKER_URL = ""`) to the deployed URL, and double
+   check `REPO_OWNER`/`REPO_NAME` at the top of
+   `worker/pull-now-worker.js` match your actual repo. Until this is set
+   up, trigger a manual pull from the repo's **Actions** tab instead
+   (`workflow_dispatch`) -- that still logs normally.
+
+## How a pull works
+
+- The workflow runs every 10 minutes. `scripts/fetch_odds.py` checks
+  whether "now" (America/New_York, or whatever `data/config.json` says)
+  is within `pull_window_minutes` of one of `pull_times` -- if not, it
+  exits immediately and nothing is committed. This is what makes the pull
+  schedule an admin setting instead of a cron edit.
+- For each enabled league, it asks for events in the next
+  `pull_window_hours`. A league with nothing in that window (off-season,
+  bye week) comes back empty and nothing further is fetched for it -- the
+  single "any games?" query doubles as the actual odds fetch when there
+  are games, so an idle league costs nothing extra.
+- `data/config.json` is the only file you should need to touch to change
+  pull times, the lookahead window, which leagues are active, which
+  markets are pulled, how many books define an opener, or the monthly API
+  budget.
+- The pull configured as `morning_pull_time` additionally fetches
+  yesterday's finalized games with the API's own closing odds, locks in
+  "Close" from that, and grades each side.
+
+## Data layout
+
+- `data/config.json` -- admin settings (see above).
+- `data/games/<LEAGUE>.json` -- current/upcoming games for that league.
+- `data/keynumbers/<LEAGUE>.json` -- per game/market: opener, current,
+  close, consensus history, and movement.
+- `data/snapshots/<LEAGUE>.jsonl` -- append-only log, one row per
+  (game, market, sportsbook) whenever its line or price actually changed.
+  `<LEAGUE>_last.json` next to it is just the diffing cache, not meant to
+  be read directly.
+- `data/results/<LEAGUE>.json` -- final scores and grading for completed
+  games.
+- `data/usage.json`, `data/pull_log.json`, `data/status.json` -- feed the
+  admin page.
+- `admin/index.html` -- rebuilt after every pull by `scripts/build_admin.py`.
+
+## Checking it before moving to Prompt 2
+
+- Trigger a manual pull (`workflow_dispatch` from the Actions tab) and
+  confirm `data/games/<LEAGUE>.json` and `data/keynumbers/<LEAGUE>.json`
+  show up for whichever leagues are in season.
+- Open `/admin/` on the published site and confirm usage numbers and
+  per-league status look right.
+- After the next morning pull following a game, check
+  `data/results/<LEAGUE>.json` for that game -- if `grading` is missing
+  and `missing_score` shows up in that pull's `data/pull_log.json` entry,
+  that's the final-score schema needing confirmation (step 4 above).

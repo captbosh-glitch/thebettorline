@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>thebettorline admin</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+         max-width: 920px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.4rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #8884; padding-bottom: .25rem; }
+  table { border-collapse: collapse; width: 100%; margin-top: .5rem; }
+  th, td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid #8883; font-size: .92rem; }
+  .ok { color: #1a7f37; }
+  .err { color: #c0392b; }
+  .banner { background: #c0392b; color: white; padding: .75rem 1rem; border-radius: 6px; margin: 1rem 0; }
+  .muted { color: #888; font-size: .85rem; }
+  .pull-now { padding: .5rem 1rem; font-size: 1rem; cursor: pointer; }
+  code { font-size: .85em; }
+</style>
+</head>
+<body>
+<h1>thebettorline &mdash; data layer admin</h1>
+<p class="muted">Generated 2026-10-01 01:46:00 UTC</p>
+
+
+
+<h2>API usage</h2>
+<table>
+  <tr><th>Today</th><th>This week</th><th>This month</th><th>Monthly limit</th><th>% of limit</th></tr>
+  <tr><td>0</td><td>0</td><td>0</td><td>10000</td><td>0.0%</td></tr>
+</table>
+
+<h2>League status</h2>
+<table>
+  <tr><th>League</th><th>Last successful pull</th><th>Last error</th></tr>
+  <tr><td>NFL</td><td>never</td><td><span class="ok">none</span></td></tr>
+  <tr><td>NCAAF</td><td>never</td><td><span class="ok">none</span></td></tr>
+  <tr><td>NBA</td><td>never</td><td><span class="ok">none</span></td></tr>
+  <tr><td>NCAAB</td><td>never</td><td><span class="ok">none</span></td></tr>
+  <tr><td>NHL</td><td>never</td><td><span class="ok">none</span></td></tr>
+  <tr><td>MLB</td><td>never</td><td><span class="ok">none</span></td></tr>
+</table>
+
+<h2>Pull now</h2>
+<p>
+  <button class="pull-now" onclick="pullNow()">Pull now</button>
+  <span id="pull-now-result" class="muted"></span>
+</p>
+<p class="muted">
+  Needs <code>worker/pull-now-worker.js</code> deployed and its URL set below.
+  See the README for setup. Until then, trigger a manual pull from the
+  repo's Actions tab (workflow_dispatch) instead.
+</p>
+<script>
+  const WORKER_URL = ""; // e.g. "https://thebettorline-pull-now.yourname.workers.dev"
+  async function pullNow() {
+    const resultEl = document.getElementById('pull-now-result');
+    if (!WORKER_URL) {
+      resultEl.textContent = "Worker URL not configured -- see README.";
+      return;
+    }
+    const secret = sessionStorage.getItem('tbl_admin_secret') || prompt("Admin secret:");
+    if (!secret) return;
+    sessionStorage.setItem('tbl_admin_secret', secret);
+    resultEl.textContent = "Triggering...";
+    try {
+      const resp = await fetch(WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Admin-Secret': secret },
+        body: JSON.stringify({ note: 'manual pull from admin page' })
+      });
+      resultEl.textContent = resp.ok ? "Triggered -- check back in a minute." : `Failed (${resp.status})`;
+    } catch (e) {
+      resultEl.textContent = "Failed to reach worker.";
+    }
+  }
+</script>
+
+<h2>Recent pulls</h2>
+<table>
+  <tr><th>Time (UTC)</th><th>Trigger</th><th>Leagues</th><th>Snapshot rows</th><th>API calls</th><th>Errors</th></tr>
+  <tr><td colspan=6>No pulls logged yet.</td></tr>
+</table>
+
+</body>
+</html>
