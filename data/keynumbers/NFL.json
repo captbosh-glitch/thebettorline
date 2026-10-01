@@ -3,17 +3,21 @@
     "ml": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-01T02:25:14Z",
+        "timestamp": "2026-10-01T03:33:29Z",
         "value": 0.42794036443953615
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-01T02:25:14Z",
           "value": 0.42794036443953615
+        },
+        {
+          "timestamp": "2026-10-01T03:33:29Z",
+          "value": 0.42794036443953615
         }
       ],
       "current": {
-        "timestamp": "2026-10-01T02:25:14Z",
+        "timestamp": "2026-10-01T03:33:29Z",
         "value": 0.42794036443953615
       },
       "movement_vs_opener_pp": 0.0,
@@ -26,17 +30,21 @@
     "ou": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-01T02:25:14Z",
+        "timestamp": "2026-10-01T03:33:29Z",
         "value": 38.5
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-01T02:25:14Z",
           "value": 38.5
+        },
+        {
+          "timestamp": "2026-10-01T03:33:29Z",
+          "value": 38.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-01T02:25:14Z",
+        "timestamp": "2026-10-01T03:33:29Z",
         "value": 38.5
       },
       "movement_vs_opener_pts": 0.0,
@@ -49,20 +57,24 @@
     "sp": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-01T02:25:14Z",
-        "value": 2.75
+        "timestamp": "2026-10-01T03:33:29Z",
+        "value": 2.5
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-01T02:25:14Z",
           "value": 2.75
+        },
+        {
+          "timestamp": "2026-10-01T03:33:29Z",
+          "value": 2.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-01T02:25:14Z",
-        "value": 2.75
+        "timestamp": "2026-10-01T03:33:29Z",
+        "value": 2.5
       },
-      "movement_vs_opener_pts": 0.0,
+      "movement_vs_opener_pts": -0.25,
       "opener": {
         "books_count": 8,
         "timestamp": "2026-10-01T02:25:14Z",

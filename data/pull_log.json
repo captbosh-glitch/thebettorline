@@ -59,5 +59,66 @@
     "pull_time_label": null,
     "trigger": "manual",
     "ts": "2026-10-01T02:25:14Z"
+  },
+  {
+    "api_calls_used": 11,
+    "errors": [],
+    "is_morning": true,
+    "leagues": [
+      {
+        "games_found": 1,
+        "grading": {
+          "graded": 0,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "NFL",
+        "snapshot_rows": 2
+      },
+      {
+        "games_found": 2,
+        "grading": {
+          "graded": 0,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "NCAAF",
+        "snapshot_rows": 5
+      },
+      {
+        "games_found": 0,
+        "league_id": "NBA",
+        "snapshot_rows": 0
+      },
+      {
+        "games_found": 0,
+        "league_id": "NCAAB",
+        "snapshot_rows": 0
+      },
+      {
+        "games_found": 8,
+        "grading": {
+          "graded": 0,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "NHL",
+        "snapshot_rows": 15
+      },
+      {
+        "games_found": 2,
+        "grading": {
+          "graded": 1,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "MLB",
+        "snapshot_rows": 3
+      }
+    ],
+    "note": null,
+    "pull_time_label": null,
+    "trigger": "manual",
+    "ts": "2026-10-01T03:33:29Z"
   }
 ]
