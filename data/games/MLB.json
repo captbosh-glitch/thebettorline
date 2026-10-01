@@ -1,0 +1,120 @@
+{
+  "3d4YiIMiQVrDEqxPHgB7": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-01T18:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-01T18:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CF1043",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Philadelphia Phillies",
+          "medium": "Phillies",
+          "short": "PHI"
+        },
+        "statEntityID": "away",
+        "teamID": "PHILADELPHIA_PHILLIES_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#000066",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Atlanta Braves",
+          "medium": "Braves",
+          "short": "ATL"
+        },
+        "statEntityID": "home",
+        "teamID": "ATLANTA_BRAVES_MLB"
+      }
+    }
+  },
+  "vQFZyHenC3weQmNNM87U": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-02T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-02T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#004684",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Chicago Cubs",
+          "medium": "Cubs",
+          "short": "CHC"
+        },
+        "statEntityID": "away",
+        "teamID": "CHICAGO_CUBS_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#012C61",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "San Diego Padres",
+          "medium": "Padres",
+          "short": "SD"
+        },
+        "statEntityID": "home",
+        "teamID": "SAN_DIEGO_PADRES_MLB"
+      }
+    }
+  }
+}
