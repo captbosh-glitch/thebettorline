@@ -58,6 +58,65 @@
       }
     }
   },
+  "Ann52GlRoDVQVfe5t0TJ": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-02T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-02T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#AA0114",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Boston Red Sox",
+          "medium": "Red Sox",
+          "short": "BOS"
+        },
+        "statEntityID": "away",
+        "teamID": "BOSTON_RED_SOX_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#000066",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "New York Yankees",
+          "medium": "Yankees",
+          "short": "NYY"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_YORK_YANKEES_MLB"
+      }
+    }
+  },
   "vQFZyHenC3weQmNNM87U": {
     "league_id": "MLB",
     "starts_at": "2026-10-02T02:00:00.000Z",
