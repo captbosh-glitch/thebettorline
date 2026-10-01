@@ -1,0 +1,61 @@
+{
+  "4Ye2D8HSylsVSBg2q0ms": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-02T00:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-02T00:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#191310",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFD700",
+          "secondaryContrast": "#191310"
+        },
+        "names": {
+          "long": "Pittsburgh Steelers",
+          "medium": "Steelers",
+          "short": "PIT"
+        },
+        "statEntityID": "away",
+        "teamID": "PITTSBURGH_STEELERS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#FF3900",
+          "primaryContrast": "#000000",
+          "secondary": "#38312C",
+          "secondaryContrast": "#FF3900"
+        },
+        "names": {
+          "long": "Cleveland Browns",
+          "medium": "Browns",
+          "short": "CLE"
+        },
+        "statEntityID": "home",
+        "teamID": "CLEVELAND_BROWNS_NFL"
+      }
+    }
+  }
+}
