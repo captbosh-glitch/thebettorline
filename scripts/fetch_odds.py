@@ -336,7 +336,11 @@ def main() -> int:
             common.update_status(league_id, success=False, timestamp=ts, error=err_text)
             traceback.print_exc()
 
-    common.record_api_calls(stats.calls)
+    try:
+        common.record_account_usage(client.get_account_usage())
+    except Exception as exc:  # noqa: BLE001 -- usage reporting must never sink a pull
+        print(f"[{ts}] Warning: couldn't refresh account usage: {exc}")
+
     common.log_pull({
         "ts": ts,
         "trigger": args.trigger,

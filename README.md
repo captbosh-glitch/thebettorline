@@ -22,34 +22,35 @@ read only by the workflow, never shipped to the browser.
    variables -> Actions). Get a key at sportsgameodds.com -- the free
    "Amateur" tier is fine to start.
 
-3. **Verify the league IDs.** `NFL`, `NBA`, and `MLB` are confirmed against
-   the published docs; `NCAAF`, `NCAAB`, and `NHL` follow the same naming
-   pattern but hadn't been confirmed against a live response when this was
-   built. Run once, locally, with your real key:
+3. **League IDs and the final-score schema are confirmed.** `NFL`, `NCAAF`,
+   `NBA`, `NCAAB`, `NHL`, and `MLB` have all been checked against a live
+   `/leagues` response, and `extract_final_score()` has been verified
+   against a real finalized game (Rams 28, Ravens 6, Week 3 2026) -- final
+   scores live at `results.game.<home|away>.points`, and the closing-line
+   fields (`closeFairSpread`, `closeFairOverUnder`, `closeFairOdds`, etc.)
+   match exactly. Nothing to do here; this is just a record of what was
+   verified and when, in case SportsGameOdds changes their schema later.
+   If you ever do want to re-check it (a new sport, a schema change),
+   `scripts/verify_leagues.py` and `scripts/inspect_api.py --league X` are
+   still there for it.
 
-   ```
-   pip install -r requirements.txt
-   SPORTSGAMEODDS_API_KEY=xxx python3 scripts/verify_leagues.py
-   ```
+   One thing *to* watch: a response on the amateur tier can come back with
+   a `"notice"` field saying bookmaker odds are missing ("Upgrade your API
+   key to access all data from this query") -- real games had 5-6 books
+   per market in testing, comfortably above the `opener_min_books: 3`
+   threshold, but it's worth keeping an eye on the admin page for games
+   that never lock in an Opener.
 
-   Fix anything it flags by editing the `league_id` in `data/config.json`
-   -- no code changes needed.
-
-4. **Confirm the final-score field names.** The public docs didn't show a
-   full example of a completed game's `results` object, so
-   `sgo_client.extract_final_score()` tries a few plausible shapes and
-   quietly skips grading (logged as `missing_score` in the pull log) if
-   none match. Once you have a key and there's a recently-completed game in
-   a league you care about, run:
-
-   ```
-   SPORTSGAMEODDS_API_KEY=xxx python3 scripts/inspect_api.py --league NFL
-   ```
-
-   and send me (or paste into the next session) the printed
-   `sgo_sample_finalized_*.json` file. I'll lock `extract_final_score()` to
-   the real field names -- it's the one function that touches that part of
-   the schema, so it's a small, contained fix.
+4. **Mind the real rate limit.** The amateur tier allows **10 requests per
+   minute** and bills monthly on **entities returned** (events/odds rows),
+   not request count -- confirmed at 2,500 entities/month, with requests
+   themselves unlimited. `data/config.json`'s `monthly_api_call_limit` is
+   compared against your plan's real usage (pulled from
+   `GET /account/usage` every run), not a self-counted tally. The
+   production schedule (a few calls, 3x/day) is nowhere near the per-minute
+   cap; it's really only hand-testing with `inspect_api.py`/
+   `verify_leagues.py` back-to-back that can trip it -- space those out by
+   a minute or so if you're poking at the API directly.
 
 5. **(Optional, for the "Pull now" button) Deploy the Cloudflare Worker.**
    The admin page can't call the SportsGameOdds API or trigger a GitHub
@@ -115,6 +116,5 @@ read only by the workflow, never shipped to the browser.
 - Open `/admin/` on the published site and confirm usage numbers and
   per-league status look right.
 - After the next morning pull following a game, check
-  `data/results/<LEAGUE>.json` for that game -- if `grading` is missing
-  and `missing_score` shows up in that pull's `data/pull_log.json` entry,
-  that's the final-score schema needing confirmation (step 4 above).
+  `data/results/<LEAGUE>.json` for that game and confirm `grading` is
+  populated with real win/cover/over-under values.

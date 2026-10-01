@@ -90,36 +90,61 @@ def append_jsonl(path: Path, rows: list[dict]) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Usage tracking -- every SportsGameOdds API call made during a run should
-# call record_api_call() so the admin page can show today/week/month totals
-# against the configured monthly limit.
+# Usage tracking.
+#
+# IMPORTANT: confirmed live against a real account (2026-09-30) -- the
+# SportsGameOdds "amateur" tier's real monthly quota is on *entities*
+# (roughly: events/odds-rows actually returned), not raw HTTP requests --
+# per-month max-requests is reported as "unlimited". So rather than counting
+# our own requests (which was measuring the wrong thing, and would
+# under/over-estimate how close we are to the real cap), record_account_usage
+# stores what GET /account/usage itself reports each pull, and usage_summary
+# reads that back. Call record_account_usage(client.get_account_usage())
+# once per pull run.
 # ---------------------------------------------------------------------------
 
-def record_api_calls(count: int, when: datetime | None = None) -> None:
-    if count <= 0:
-        return
-    usage = read_json(USAGE_PATH, {"daily": {}})
+def record_account_usage(usage_payload: dict, when: datetime | None = None) -> None:
+    """usage_payload is the dict returned by SportsGameOddsClient.get_account_usage()."""
+    rate_limits = (usage_payload or {}).get("rateLimits", {})
+    per_day = rate_limits.get("per-day", {})
+    per_month = rate_limits.get("per-month", {})
+
+    usage = read_json(USAGE_PATH, {"daily_entities": {}})
+    usage.setdefault("daily_entities", {})
     day_key = (when or datetime.now(timezone.utc)).strftime("%Y-%m-%d")
-    usage.setdefault("daily", {})
-    usage["daily"][day_key] = usage["daily"].get(day_key, 0) + count
+    # per-day current-entities is the provider's own running total for
+    # today, not an increment -- store it as-is (overwrite, don't add).
+    day_entities = per_day.get("current-entities")
+    if day_entities is not None:
+        usage["daily_entities"][day_key] = day_entities
+
+    usage["month_current_entities"] = per_month.get("current-entities")
+    usage["month_max_entities"] = per_month.get("max-entities")
+    usage["last_checked_at"] = iso_now()
     write_json(USAGE_PATH, usage)
 
 
+def iso_now() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def usage_summary(config: dict, as_of: datetime | None = None) -> dict:
-    usage = read_json(USAGE_PATH, {"daily": {}})
-    daily = usage.get("daily", {})
+    usage = read_json(USAGE_PATH, {"daily_entities": {}})
+    daily = usage.get("daily_entities", {})
     local_now = as_of or now_local(config)
     today_key = local_now.strftime("%Y-%m-%d")
-    month_prefix = local_now.strftime("%Y-%m")
     week_start = local_now - timedelta(days=local_now.weekday())  # Monday
 
     today = daily.get(today_key, 0)
-    this_month = sum(v for k, v in daily.items() if k.startswith(month_prefix))
     this_week = sum(
         v for k, v in daily.items()
         if week_start.strftime("%Y-%m-%d") <= k <= local_now.strftime("%Y-%m-%d")
     )
-    limit = config.get("monthly_api_call_limit", 0)
+    # The provider's own current-month total is authoritative (covers days
+    # we might not have a local snapshot for); our config limit is still an
+    # admin-settable budget, which may be lower than the plan's hard cap.
+    this_month = usage.get("month_current_entities") or 0
+    limit = config.get("monthly_api_call_limit") or usage.get("month_max_entities") or 0
     pct = (this_month / limit * 100) if limit else 0
     return {
         "today": today,
@@ -128,6 +153,7 @@ def usage_summary(config: dict, as_of: datetime | None = None) -> dict:
         "monthly_limit": limit,
         "pct_of_limit": round(pct, 1),
         "over_80_pct": pct >= 80,
+        "last_checked_at": usage.get("last_checked_at"),
     }
 
 

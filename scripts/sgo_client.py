@@ -144,6 +144,17 @@ class SportsGameOddsClient:
         payload = self._get("/leagues", {})
         return payload.get("data", payload if isinstance(payload, list) else [])
 
+    def get_account_usage(self) -> dict:
+        """Confirmed live (2026-09-30): the real quota that matters is
+        rateLimits.per-month.{max-entities,current-entities} -- the
+        per-month request count is "unlimited" on the amateur tier; it's
+        entities (roughly: events/odds-rows actually returned) that are
+        capped and billed. Pulling this each run is what the admin page's
+        usage numbers are based on, rather than our own request counter,
+        which was measuring the wrong thing."""
+        payload = self._get("/account/usage", {})
+        return payload.get("data", payload)
+
 
 def odd_id(stat_entity: str, bet_type: str, side: str, period: str = FULL_GAME_PERIOD) -> str:
     return f"{STAT_ID}-{stat_entity}-{period}-{bet_type}-{side}"
