@@ -1,4 +1,181 @@
 {
+  "0Np75DbT9PmxWV1mADIf": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#012C63",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#79243E",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Tennessee Titans",
+          "medium": "Titans",
+          "short": "TEN"
+        },
+        "statEntityID": "away",
+        "teamID": "TENNESSEE_TITANS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#340E57",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Baltimore Ravens",
+          "medium": "Ravens",
+          "short": "BAL"
+        },
+        "statEntityID": "home",
+        "teamID": "BALTIMORE_RAVENS_NFL"
+      }
+    }
+  },
+  "1fcjZFfAdIXk1hd8BEaX": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T20:25:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T20:25:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#AA0114",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Kansas City Chiefs",
+          "medium": "Chiefs",
+          "short": "KC"
+        },
+        "statEntityID": "away",
+        "teamID": "KANSAS_CITY_CHIEFS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#909090",
+          "primaryContrast": "#000000",
+          "secondary": "#040404",
+          "secondaryContrast": "#909090"
+        },
+        "names": {
+          "long": "Las Vegas Raiders",
+          "medium": "Raiders",
+          "short": "LV"
+        },
+        "statEntityID": "home",
+        "teamID": "LAS_VEGAS_RAIDERS_NFL"
+      }
+    }
+  },
+  "257kXOSTAQzw4bbRqI7d": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T20:05:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T20:05:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#008E97",
+          "primaryContrast": "#000000",
+          "secondary": "#F79B4D",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Miami Dolphins",
+          "medium": "Dolphins",
+          "short": "MIA"
+        },
+        "statEntityID": "away",
+        "teamID": "MIAMI_DOLPHINS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#3A0064",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFC72B",
+          "secondaryContrast": "#3A0064"
+        },
+        "names": {
+          "long": "Minnesota Vikings",
+          "medium": "Vikings",
+          "short": "MIN"
+        },
+        "statEntityID": "home",
+        "teamID": "MINNESOTA_VIKINGS_NFL"
+      }
+    }
+  },
   "4Ye2D8HSylsVSBg2q0ms": {
     "league_id": "NFL",
     "starts_at": "2026-10-02T00:15:00.000Z",
@@ -55,6 +232,655 @@
         },
         "statEntityID": "home",
         "teamID": "CLEVELAND_BROWNS_NFL"
+      }
+    }
+  },
+  "6NAbojTgoQjMN3WfeMo8": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T20:25:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T20:25:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#3289CE",
+          "primaryContrast": "#000000",
+          "secondary": "#FFC20E",
+          "secondaryContrast": "#3289CE"
+        },
+        "names": {
+          "long": "Los Angeles Chargers",
+          "medium": "Chargers",
+          "short": "LAC"
+        },
+        "statEntityID": "away",
+        "teamID": "LOS_ANGELES_CHARGERS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#002244",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#69BE28",
+          "secondaryContrast": "#002244"
+        },
+        "names": {
+          "long": "Seattle Seahawks",
+          "medium": "Seahawks",
+          "short": "SEA"
+        },
+        "statEntityID": "home",
+        "teamID": "SEATTLE_SEAHAWKS_NFL"
+      }
+    }
+  },
+  "7ebPv9TbRmWPUWvxBNlb": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T13:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T13:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#143D75",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Indianapolis Colts",
+          "medium": "Colts",
+          "short": "IND"
+        },
+        "statEntityID": "away",
+        "teamID": "INDIANAPOLIS_COLTS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#5A1414",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFB612",
+          "secondaryContrast": "#5A1414"
+        },
+        "names": {
+          "long": "Washington Commanders",
+          "medium": "Commanders",
+          "short": "WAS"
+        },
+        "statEntityID": "home",
+        "teamID": "WASHINGTON_COMMANDERS_NFL"
+      }
+    }
+  },
+  "BKhUt52Y0ZNYn9Dy5Eg4": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#203731",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFB612",
+          "secondaryContrast": "#203731"
+        },
+        "names": {
+          "long": "Green Bay Packers",
+          "medium": "Packers",
+          "short": "GB"
+        },
+        "statEntityID": "away",
+        "teamID": "GREEN_BAY_PACKERS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#D50A0A",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#34302B",
+          "secondaryContrast": "#D50A0A"
+        },
+        "names": {
+          "long": "Tampa Bay Buccaneers",
+          "medium": "Buccaneers",
+          "short": "TB"
+        },
+        "statEntityID": "home",
+        "teamID": "TAMPA_BAY_BUCCANEERS_NFL"
+      }
+    }
+  },
+  "a1nMeHIfJC27CQg1Li1A": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#0D244D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#B1B8BD",
+          "secondaryContrast": "#0D244D"
+        },
+        "names": {
+          "long": "New England Patriots",
+          "medium": "Patriots",
+          "short": "NE"
+        },
+        "statEntityID": "away",
+        "teamID": "NEW_ENGLAND_PATRIOTS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#004684",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Buffalo Bills",
+          "medium": "Bills",
+          "short": "BUF"
+        },
+        "statEntityID": "home",
+        "teamID": "BUFFALO_BILLS_NFL"
+      }
+    }
+  },
+  "b9kwZDZtzHAVtMUrEBSv": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#0C371D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FEFEFE",
+          "secondaryContrast": "#0C371D"
+        },
+        "names": {
+          "long": "New York Jets",
+          "medium": "Jets",
+          "short": "NYJ"
+        },
+        "statEntityID": "away",
+        "teamID": "NEW_YORK_JETS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#C83803",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#0B162A",
+          "secondaryContrast": "#C83803"
+        },
+        "names": {
+          "long": "Chicago Bears",
+          "medium": "Bears",
+          "short": "CHI"
+        },
+        "statEntityID": "home",
+        "teamID": "CHICAGO_BEARS_NFL"
+      }
+    }
+  },
+  "dppuopiuUQ1w5DXdRNMh": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-05T00:20:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-05T00:20:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#0062AB",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#BDBEBE",
+          "secondaryContrast": "#0062AB"
+        },
+        "names": {
+          "long": "Detroit Lions",
+          "medium": "Lions",
+          "short": "DET"
+        },
+        "statEntityID": "away",
+        "teamID": "DETROIT_LIONS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#07141E",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#3A84C5",
+          "secondaryContrast": "#07141E"
+        },
+        "names": {
+          "long": "Carolina Panthers",
+          "medium": "Panthers",
+          "short": "CAR"
+        },
+        "statEntityID": "home",
+        "teamID": "CAROLINA_PANTHERS_NFL"
+      }
+    }
+  },
+  "eaEo4X1dndrZ9pM2Myz9": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#012C61",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#474F57",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Los Angeles Rams",
+          "medium": "Rams",
+          "short": "LA"
+        },
+        "statEntityID": "away",
+        "teamID": "LOS_ANGELES_RAMS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#013D3D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Philadelphia Eagles",
+          "medium": "Eagles",
+          "short": "PHI"
+        },
+        "statEntityID": "home",
+        "teamID": "PHILADELPHIA_EAGLES_NFL"
+      }
+    }
+  },
+  "oCMEPrZxTSY5NFV5AtaA": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#97233F",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#97233F"
+        },
+        "names": {
+          "long": "Arizona Cardinals",
+          "medium": "Cardinals",
+          "short": "ARI"
+        },
+        "statEntityID": "away",
+        "teamID": "ARIZONA_CARDINALS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0B2265",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#A71930",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "New York Giants",
+          "medium": "Giants",
+          "short": "NYG"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_YORK_GIANTS_NFL"
+      }
+    }
+  },
+  "tNU8bJgqQzTMAPNAfOIq": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#212A52",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#C3C2C7",
+          "secondaryContrast": "#212A52"
+        },
+        "names": {
+          "long": "Dallas Cowboys",
+          "medium": "Cowboys",
+          "short": "DAL"
+        },
+        "statEntityID": "away",
+        "teamID": "DALLAS_COWBOYS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#01123E",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#B01C36",
+          "secondaryContrast": "#01123E"
+        },
+        "names": {
+          "long": "Houston Texans",
+          "medium": "Texans",
+          "short": "HOU"
+        },
+        "statEntityID": "home",
+        "teamID": "HOUSTON_TEXANS_NFL"
+      }
+    }
+  },
+  "tsDRXDKJSTdkPWZ5fQW5": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T20:25:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T20:25:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#002859",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#DB6127",
+          "secondaryContrast": "#002859"
+        },
+        "names": {
+          "long": "Denver Broncos",
+          "medium": "Broncos",
+          "short": "DEN"
+        },
+        "statEntityID": "away",
+        "teamID": "DENVER_BRONCOS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#AA0000",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#B3995D",
+          "secondaryContrast": "#AA0000"
+        },
+        "names": {
+          "long": "San Francisco 49ers",
+          "medium": "49ers",
+          "short": "SF"
+        },
+        "statEntityID": "home",
+        "teamID": "SAN_FRANCISCO_49ERS_NFL"
+      }
+    }
+  },
+  "vRVfWFuLmt6982alBwLw": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-04T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-04T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#01839B",
+          "primaryContrast": "#000000",
+          "secondary": "#2B2D22",
+          "secondaryContrast": "#01839B"
+        },
+        "names": {
+          "long": "Jacksonville Jaguars",
+          "medium": "Jaguars",
+          "short": "JAX"
+        },
+        "statEntityID": "away",
+        "teamID": "JACKSONVILLE_JAGUARS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#F36A26",
+          "primaryContrast": "#000000",
+          "secondary": "#060606",
+          "secondaryContrast": "#F36A26"
+        },
+        "names": {
+          "long": "Cincinnati Bengals",
+          "medium": "Bengals",
+          "short": "CIN"
+        },
+        "statEntityID": "home",
+        "teamID": "CINCINNATI_BENGALS_NFL"
       }
     }
   }
