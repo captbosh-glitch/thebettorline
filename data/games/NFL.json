@@ -648,6 +648,65 @@
       }
     }
   },
+  "myrB11vnxUyyKSbbb9zZ": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-06T00:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-06T00:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#E41937",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Atlanta Falcons",
+          "medium": "Falcons",
+          "short": "ATL"
+        },
+        "statEntityID": "away",
+        "teamID": "ATLANTA_FALCONS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#B28E42",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "New Orleans Saints",
+          "medium": "Saints",
+          "short": "NO"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_ORLEANS_SAINTS_NFL"
+      }
+    }
+  },
   "oCMEPrZxTSY5NFV5AtaA": {
     "league_id": "NFL",
     "starts_at": "2026-10-04T17:00:00.000Z",

@@ -202,5 +202,46 @@
     "pull_time_label": "18:30",
     "trigger": "schedule",
     "ts": "2026-10-03T22:23:40Z"
+  },
+  {
+    "api_calls_used": 7,
+    "errors": [],
+    "is_morning": false,
+    "leagues": [
+      {
+        "games_found": 6,
+        "league_id": "NFL",
+        "snapshot_rows": 96
+      },
+      {
+        "games_found": 0,
+        "league_id": "NCAAF",
+        "snapshot_rows": 0
+      },
+      {
+        "games_found": 0,
+        "league_id": "NBA",
+        "snapshot_rows": 0
+      },
+      {
+        "games_found": 0,
+        "league_id": "NCAAB",
+        "snapshot_rows": 0
+      },
+      {
+        "games_found": 8,
+        "league_id": "NHL",
+        "snapshot_rows": 115
+      },
+      {
+        "games_found": 4,
+        "league_id": "MLB",
+        "snapshot_rows": 100
+      }
+    ],
+    "note": null,
+    "pull_time_label": "14:00",
+    "trigger": "schedule",
+    "ts": "2026-10-04T18:02:26Z"
   }
 ]
