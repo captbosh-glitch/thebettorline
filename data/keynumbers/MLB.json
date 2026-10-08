@@ -672,6 +672,97 @@
       "opener": null
     }
   },
+  "kLbtkb8KIduA1tOMNrzQ": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "peOqbbJzMFNWrJEvosno": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 0.4826358742837298
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-08T22:20:26Z",
+          "value": 0.4826358742837298
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 0.4826358742837298
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 9,
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 0.4826358742837298
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 7.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-08T22:20:26Z",
+          "value": 7.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 7.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 7.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-08T22:20:26Z",
+          "value": 1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-10-08T22:20:26Z",
+        "value": 1.5
+      }
+    }
+  },
   "tYKu3KEImFMpz6AvKSp5": {
     "ml": {
       "close": {

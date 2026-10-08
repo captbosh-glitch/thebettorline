@@ -766,6 +766,65 @@
       }
     }
   },
+  "pfZ0ox2e7SPIoWtuJpyk": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-09T00:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-09T00:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#D50A0A",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#34302B",
+          "secondaryContrast": "#D50A0A"
+        },
+        "names": {
+          "long": "Tampa Bay Buccaneers",
+          "medium": "Buccaneers",
+          "short": "TB"
+        },
+        "statEntityID": "away",
+        "teamID": "TAMPA_BAY_BUCCANEERS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#212A52",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#C3C2C7",
+          "secondaryContrast": "#212A52"
+        },
+        "names": {
+          "long": "Dallas Cowboys",
+          "medium": "Cowboys",
+          "short": "DAL"
+        },
+        "statEntityID": "home",
+        "teamID": "DALLAS_COWBOYS_NFL"
+      }
+    }
+  },
   "tNU8bJgqQzTMAPNAfOIq": {
     "league_id": "NFL",
     "starts_at": "2026-10-04T17:00:00.000Z",
