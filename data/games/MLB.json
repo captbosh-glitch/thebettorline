@@ -412,6 +412,69 @@
       }
     }
   },
+  "WnJeoWWXS7hZfVqKdCPH": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-12T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-11T21:00:00.000Z",
+        "2026-10-11T09:00:00.000Z",
+        "2026-10-11T20:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-12T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#014785",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Los Angeles Dodgers",
+          "medium": "Dodgers",
+          "short": "LAD"
+        },
+        "statEntityID": "away",
+        "teamID": "LOS_ANGELES_DODGERS_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#B28E42",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Milwaukee Brewers",
+          "medium": "Brewers",
+          "short": "MIL"
+        },
+        "statEntityID": "home",
+        "teamID": "MILWAUKEE_BREWERS_MLB"
+      }
+    }
+  },
   "YxKpmDHfkfpGTSqbI7gT": {
     "league_id": "MLB",
     "starts_at": "2026-10-03T22:30:00.000Z",
@@ -529,6 +592,68 @@
         },
         "statEntityID": "home",
         "teamID": "LOS_ANGELES_DODGERS_MLB"
+      }
+    }
+  },
+  "ooVzttiF2DwPUkI8G1vB": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-11T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-10T21:00:00.000Z",
+        "2026-10-10T09:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-11T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#000000",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Chicago White Sox",
+          "medium": "White Sox",
+          "short": "CWS"
+        },
+        "statEntityID": "away",
+        "teamID": "CHICAGO_WHITE_SOX_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#E41937",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Cleveland Guardians",
+          "medium": "Guardians",
+          "short": "CLE"
+        },
+        "statEntityID": "home",
+        "teamID": "CLEVELAND_GUARDIANS_MLB"
       }
     }
   },

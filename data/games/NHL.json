@@ -955,6 +955,124 @@
       }
     }
   },
+  "Cd47LG03dkKx4Cx2queH": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CE1126",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Detroit Red Wings",
+          "medium": "Red Wings",
+          "short": "DET"
+        },
+        "statEntityID": "away",
+        "teamID": "DETROIT_RED_WINGS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#AF1E2D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#192168",
+          "secondaryContrast": "#AF1E2D"
+        },
+        "names": {
+          "long": "Montr\u00e9al Canadiens",
+          "medium": "Canadiens",
+          "short": "MTL"
+        },
+        "statEntityID": "home",
+        "teamID": "MONTREAL_CANADIENS_NHL"
+      }
+    }
+  },
+  "EWIpSdeIT4hJDQxcUrPF": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T19:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T19:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#001F5B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#008852",
+          "secondaryContrast": "#001F5B"
+        },
+        "names": {
+          "long": "Vancouver Canucks",
+          "medium": "Canucks",
+          "short": "VAN"
+        },
+        "statEntityID": "away",
+        "teamID": "VANCOUVER_CANUCKS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#CE1126",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#CE1126"
+        },
+        "names": {
+          "long": "New Jersey Devils",
+          "medium": "Devils",
+          "short": "NJ"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_JERSEY_DEVILS_NHL"
+      }
+    }
+  },
   "EiHXfVO3cNHQyVS3b7DR": {
     "league_id": "NHL",
     "starts_at": "2026-10-09T01:00:00.000Z",
@@ -1070,6 +1188,65 @@
         },
         "statEntityID": "home",
         "teamID": "VANCOUVER_CANUCKS_NHL"
+      }
+    }
+  },
+  "IFkpS3efhhDWxwAXX2ee": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-11T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-11T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Seattle Kraken",
+          "medium": "Kraken",
+          "short": "SEA"
+        },
+        "statEntityID": "away",
+        "teamID": "SEATTLE_KRAKEN_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#041E41",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#D42329",
+          "secondaryContrast": "#041E41"
+        },
+        "names": {
+          "long": "Washington Capitals",
+          "medium": "Capitals",
+          "short": "WSH"
+        },
+        "statEntityID": "home",
+        "teamID": "WASHINGTON_CAPITALS_NHL"
       }
     }
   },
@@ -1310,6 +1487,65 @@
         },
         "statEntityID": "home",
         "teamID": "WINNIPEG_JETS_NHL"
+      }
+    }
+  },
+  "MJ8etdSe6LjM1fPGTdZA": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#FF4C00",
+          "primaryContrast": "#000000",
+          "secondary": "#041E41",
+          "secondaryContrast": "#FF4C00"
+        },
+        "names": {
+          "long": "Edmonton Oilers",
+          "medium": "Oilers",
+          "short": "EDM"
+        },
+        "statEntityID": "away",
+        "teamID": "EDMONTON_OILERS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#006D75",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#EA7200",
+          "secondaryContrast": "#006D75"
+        },
+        "names": {
+          "long": "San Jose Sharks",
+          "medium": "Sharks",
+          "short": "SJ"
+        },
+        "statEntityID": "home",
+        "teamID": "SAN_JOSE_SHARKS_NHL"
       }
     }
   },
@@ -1554,6 +1790,124 @@
       }
     }
   },
+  "RAY1B2W4KlGUyKLhFMRw": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Utah Mammoth",
+          "medium": "Mammoth",
+          "short": "UTA"
+        },
+        "statEntityID": "away",
+        "teamID": "UTAH_HOCKEY_CLUB_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#002654",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FCB514",
+          "secondaryContrast": "#002654"
+        },
+        "names": {
+          "long": "Buffalo Sabres",
+          "medium": "Sabres",
+          "short": "BUF"
+        },
+        "statEntityID": "home",
+        "teamID": "BUFFALO_SABRES_NHL"
+      }
+    }
+  },
+  "RuM5p7xWa4i98JvFOfiw": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CC0000",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Carolina Hurricanes",
+          "medium": "Hurricanes",
+          "short": "CAR"
+        },
+        "statEntityID": "away",
+        "teamID": "CAROLINA_HURRICANES_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#CF0A2C",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Chicago Blackhawks",
+          "medium": "Blackhawks",
+          "short": "CHI"
+        },
+        "statEntityID": "home",
+        "teamID": "CHICAGO_BLACKHAWKS_NHL"
+      }
+    }
+  },
   "SecN9lmjX2u1Z4BLiEkO": {
     "league_id": "NHL",
     "starts_at": "2026-10-09T02:00:00.000Z",
@@ -1735,6 +2089,65 @@
       }
     }
   },
+  "UeN484fVGPt2vJE9bRe2": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#00205B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Tampa Bay Lightning",
+          "medium": "Lightning",
+          "short": "TB"
+        },
+        "statEntityID": "away",
+        "teamID": "TAMPA_BAY_LIGHTNING_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#00539B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#F47D30",
+          "secondaryContrast": "#00539B"
+        },
+        "names": {
+          "long": "New York Islanders",
+          "medium": "Islanders",
+          "short": "NYI"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_YORK_ISLANDERS_NHL"
+      }
+    }
+  },
   "V8RikJKrUVHxn9T7LQ8U": {
     "league_id": "NHL",
     "starts_at": "2026-10-04T02:00:00.000Z",
@@ -1912,6 +2325,65 @@
       }
     }
   },
+  "Zsn5TPAH3IPPRDDoeMQC": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-11T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-11T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#001F5B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#008852",
+          "secondaryContrast": "#001F5B"
+        },
+        "names": {
+          "long": "Vancouver Canucks",
+          "medium": "Canucks",
+          "short": "VAN"
+        },
+        "statEntityID": "away",
+        "teamID": "VANCOUVER_CANUCKS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0069AA",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#D31245",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "New York Rangers",
+          "medium": "Rangers",
+          "short": "NYR"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_YORK_RANGERS_NHL"
+      }
+    }
+  },
   "aGyibuzfNm5b4Qd6iOOz": {
     "league_id": "NHL",
     "starts_at": "2026-10-08T23:00:00.000Z",
@@ -2030,6 +2502,65 @@
       }
     }
   },
+  "b8qD6YOMvyeqKEOxJk7Y": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#041E42",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFB81C",
+          "secondaryContrast": "#041E42"
+        },
+        "names": {
+          "long": "Nashville Predators",
+          "medium": "Predators",
+          "short": "NSH"
+        },
+        "statEntityID": "away",
+        "teamID": "NASHVILLE_PREDATORS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#CE1126",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#CE1126"
+        },
+        "names": {
+          "long": "Ottawa Senators",
+          "medium": "Senators",
+          "short": "OTT"
+        },
+        "statEntityID": "home",
+        "teamID": "OTTAWA_SENATORS_NHL"
+      }
+    }
+  },
   "cA1D2UG8ksLA5uVXusax": {
     "league_id": "NHL",
     "starts_at": "2026-10-03T02:00:00.000Z",
@@ -2145,6 +2676,67 @@
         },
         "statEntityID": "home",
         "teamID": "NEW_YORK_RANGERS_NHL"
+      }
+    }
+  },
+  "dfNeAvkHpvlLVxSSWymV": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-10T20:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-10T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#024930",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#AF1E24",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Minnesota Wild",
+          "medium": "Wild",
+          "short": "MIN"
+        },
+        "statEntityID": "away",
+        "teamID": "MINNESOTA_WILD_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#041E42",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#C8102E",
+          "secondaryContrast": "#041E42"
+        },
+        "names": {
+          "long": "Florida Panthers",
+          "medium": "Panthers",
+          "short": "FLA"
+        },
+        "statEntityID": "home",
+        "teamID": "FLORIDA_PANTHERS_NHL"
       }
     }
   },
@@ -2268,6 +2860,124 @@
       }
     }
   },
+  "gJogELmoP7u1X6JDM2ij": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-11T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-11T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#ACAEA9",
+          "primaryContrast": "#000000",
+          "secondary": "#111111",
+          "secondaryContrast": "#ACAEA9"
+        },
+        "names": {
+          "long": "Los Angeles Kings",
+          "medium": "Kings",
+          "short": "LA"
+        },
+        "statEntityID": "away",
+        "teamID": "LOS_ANGELES_KINGS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#B4975A",
+          "primaryContrast": "#000000",
+          "secondary": "#333F42",
+          "secondaryContrast": "#B4975A"
+        },
+        "names": {
+          "long": "Vegas Golden Knights",
+          "medium": "Golden Knights",
+          "short": "VGK"
+        },
+        "statEntityID": "home",
+        "teamID": "VEGAS_GOLDEN_KNIGHTS_NHL"
+      }
+    }
+  },
+  "i8gpbJJMZ5W2EdonCiPg": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-11T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-11T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#B5985A",
+          "primaryContrast": "#000000",
+          "secondary": "#111111",
+          "secondaryContrast": "#B5985A"
+        },
+        "names": {
+          "long": "Anaheim Ducks",
+          "medium": "Ducks",
+          "short": "ANA"
+        },
+        "statEntityID": "away",
+        "teamID": "ANAHEIM_DUCKS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#CE1126",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#F3BC52",
+          "secondaryContrast": "#CE1126"
+        },
+        "names": {
+          "long": "Calgary Flames",
+          "medium": "Flames",
+          "short": "CGY"
+        },
+        "statEntityID": "home",
+        "teamID": "CALGARY_FLAMES_NHL"
+      }
+    }
+  },
   "iUYoV6G8t0svaSowPOx9": {
     "league_id": "NHL",
     "starts_at": "2026-10-03T23:00:00.000Z",
@@ -2324,6 +3034,65 @@
         },
         "statEntityID": "home",
         "teamID": "PHILADELPHIA_FLYERS_NHL"
+      }
+    }
+  },
+  "kDqay7GE2CrwyryBiHr8": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#006847",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#111111",
+          "secondaryContrast": "#006847"
+        },
+        "names": {
+          "long": "Dallas Stars",
+          "medium": "Stars",
+          "short": "DAL"
+        },
+        "statEntityID": "away",
+        "teamID": "DALLAS_STARS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#FCB514",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Pittsburgh Penguins",
+          "medium": "Penguins",
+          "short": "PIT"
+        },
+        "statEntityID": "home",
+        "teamID": "PITTSBURGH_PENGUINS_NHL"
       }
     }
   },
@@ -2385,6 +3154,65 @@
         },
         "statEntityID": "home",
         "teamID": "SAN_JOSE_SHARKS_NHL"
+      }
+    }
+  },
+  "kQ9yLZtEKTQWzbwVAaXT": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#002654",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#CE1126",
+          "secondaryContrast": "#002654"
+        },
+        "names": {
+          "long": "Columbus Blue Jackets",
+          "medium": "Blue Jackets",
+          "short": "CBJ"
+        },
+        "statEntityID": "away",
+        "teamID": "COLUMBUS_BLUE_JACKETS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#002F87",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FCB514",
+          "secondaryContrast": "#002F87"
+        },
+        "names": {
+          "long": "St. Louis Blues",
+          "medium": "Blues",
+          "short": "STL"
+        },
+        "statEntityID": "home",
+        "teamID": "ST_LOUIS_BLUES_NHL"
       }
     }
   },
@@ -2636,6 +3464,65 @@
       }
     }
   },
+  "tYN4WQtcM9DpI1emywp8": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-11T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-11T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CC0000",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Carolina Hurricanes",
+          "medium": "Hurricanes",
+          "short": "CAR"
+        },
+        "statEntityID": "away",
+        "teamID": "CAROLINA_HURRICANES_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#F74902",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Philadelphia Flyers",
+          "medium": "Flyers",
+          "short": "PHI"
+        },
+        "statEntityID": "home",
+        "teamID": "PHILADELPHIA_FLYERS_NHL"
+      }
+    }
+  },
   "uIQ6Omj0CNXVFPYtARCM": {
     "league_id": "NHL",
     "starts_at": "2026-10-09T23:00:00.000Z",
@@ -2692,6 +3579,65 @@
         },
         "statEntityID": "home",
         "teamID": "WASHINGTON_CAPITALS_NHL"
+      }
+    }
+  },
+  "vSREuBNQNolD8X9gYBNz": {
+    "league_id": "NHL",
+    "starts_at": "2026-10-10T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-10T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#002868",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Toronto Maple Leafs",
+          "medium": "Maple Leafs",
+          "short": "TOR"
+        },
+        "statEntityID": "away",
+        "teamID": "TORONTO_MAPLE_LEAFS_NHL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#236192",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#6F263D",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Colorado Avalanche",
+          "medium": "Avalanche",
+          "short": "COL"
+        },
+        "statEntityID": "home",
+        "teamID": "COLORADO_AVALANCHE_NHL"
       }
     }
   },
