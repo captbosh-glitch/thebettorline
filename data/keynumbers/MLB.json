@@ -314,20 +314,24 @@
     "ml": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-11T13:09:28Z",
-        "value": 0.6067851094974311
+        "timestamp": "2026-10-11T18:05:23Z",
+        "value": 0.6017699115044248
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-11T13:09:28Z",
           "value": 0.6067851094974311
+        },
+        {
+          "timestamp": "2026-10-11T18:05:23Z",
+          "value": 0.6017699115044248
         }
       ],
       "current": {
-        "timestamp": "2026-10-11T13:09:28Z",
-        "value": 0.6067851094974311
+        "timestamp": "2026-10-11T18:05:23Z",
+        "value": 0.6017699115044248
       },
-      "movement_vs_opener_pp": 0.0,
+      "movement_vs_opener_pp": -0.5,
       "opener": {
         "books_count": 9,
         "timestamp": "2026-10-11T13:09:28Z",
@@ -337,17 +341,21 @@
     "ou": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": 6.5
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-11T13:09:28Z",
           "value": 6.5
+        },
+        {
+          "timestamp": "2026-10-11T18:05:23Z",
+          "value": 6.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": 6.5
       },
       "movement_vs_opener_pts": 0.0,
@@ -360,17 +368,21 @@
     "sp": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": -1.5
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-11T13:09:28Z",
           "value": -1.5
+        },
+        {
+          "timestamp": "2026-10-11T18:05:23Z",
+          "value": -1.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": -1.5
       },
       "movement_vs_opener_pts": 0.0,
@@ -598,8 +610,8 @@
     "ml": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-11T13:09:28Z",
-        "value": 0.5064960374171755
+        "timestamp": "2026-10-11T18:05:23Z",
+        "value": 0.502225882562436
       },
       "consensus_history": [
         {
@@ -609,13 +621,17 @@
         {
           "timestamp": "2026-10-11T13:09:28Z",
           "value": 0.5064960374171755
+        },
+        {
+          "timestamp": "2026-10-11T18:05:23Z",
+          "value": 0.502225882562436
         }
       ],
       "current": {
-        "timestamp": "2026-10-11T13:09:28Z",
-        "value": 0.5064960374171755
+        "timestamp": "2026-10-11T18:05:23Z",
+        "value": 0.502225882562436
       },
-      "movement_vs_opener_pp": 0.43,
+      "movement_vs_opener_pp": 0.0,
       "opener": {
         "books_count": 9,
         "timestamp": "2026-10-10T17:59:41Z",
@@ -625,7 +641,7 @@
     "ou": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": 6.0
       },
       "consensus_history": [
@@ -636,10 +652,14 @@
         {
           "timestamp": "2026-10-11T13:09:28Z",
           "value": 6.0
+        },
+        {
+          "timestamp": "2026-10-11T18:05:23Z",
+          "value": 6.0
         }
       ],
       "current": {
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": 6.0
       },
       "movement_vs_opener_pts": 0.0,
@@ -652,7 +672,7 @@
     "sp": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": 1.5
       },
       "consensus_history": [
@@ -663,10 +683,14 @@
         {
           "timestamp": "2026-10-11T13:09:28Z",
           "value": 1.5
+        },
+        {
+          "timestamp": "2026-10-11T18:05:23Z",
+          "value": 1.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-11T13:09:28Z",
+        "timestamp": "2026-10-11T18:05:23Z",
         "value": 1.5
       },
       "movement_vs_opener_pts": 0.0,
