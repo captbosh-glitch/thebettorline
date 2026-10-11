@@ -58,6 +58,65 @@
       }
     }
   },
+  "1djmD8nuiPW8tiTcMAg6": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-13T00:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-13T00:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#004684",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Buffalo Bills",
+          "medium": "Bills",
+          "short": "BUF"
+        },
+        "statEntityID": "away",
+        "teamID": "BUFFALO_BILLS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#012C61",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#474F57",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Los Angeles Rams",
+          "medium": "Rams",
+          "short": "LA"
+        },
+        "statEntityID": "home",
+        "teamID": "LOS_ANGELES_RAMS_NFL"
+      }
+    }
+  },
   "1fcjZFfAdIXk1hd8BEaX": {
     "league_id": "NFL",
     "starts_at": "2026-10-04T20:25:00.000Z",
