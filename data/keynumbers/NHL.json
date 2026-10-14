@@ -153,6 +153,48 @@
       }
     }
   },
+  "14VeQTgG3Dp7tZfFXndn": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "1I2LnAyNNNxLpo7r1x0b": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "2elp7k7p8Z5Arp2sN4Z0": {
     "ml": {
       "close": {
@@ -356,6 +398,26 @@
         "timestamp": "2026-10-08T22:20:26Z",
         "value": -1.5
       }
+    }
+  },
+  "3QsoB20VeNITCmI7w2WZ": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "3uGHZZZuC8Hs4YaYfYCa": {
@@ -593,6 +655,28 @@
         "timestamp": "2026-10-01T02:25:14Z",
         "value": 1.5
       }
+    }
+  },
+  "618INsZeegv6GhGxLoXq": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "6iPJBPRlYmC7K0jtiwNT": {
@@ -1158,6 +1242,28 @@
       "opener": null
     }
   },
+  "B1HhhJwNOykUs1avRyuL": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "BRdm92QJZgzsY4NdcUpE": {
     "ou": {
       "close": {
@@ -1174,6 +1280,28 @@
         "source": "api_closing",
         "timestamp": "2026-10-01T02:25:14Z",
         "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "BRrBGxKoWkiQci3329Fq": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 1.0
       },
       "consensus_history": [],
       "current": null,
@@ -1486,6 +1614,50 @@
       }
     }
   },
+  "EkVkUBnCjkl9TdZZVmKj": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "F9J78OCn8SMsgJZCvLBR": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "GPqLJmEZwxohFzzRWiw1": {
     "ml": {
       "close": {
@@ -1684,6 +1856,50 @@
         "timestamp": "2026-10-10T17:59:41Z",
         "value": -1.5
       }
+    }
+  },
+  "ILKZDOUWctIuRvF1wQM9": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "K2SgFNsx8b2GxNxEdl8V": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "K459vsqY5USXe0qAjPeD": {
@@ -2302,6 +2518,28 @@
       }
     }
   },
+  "Ow1FszYs53FUQZNMD1GD": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "PM8i8UAloX6Mok3qmeuB": {
     "ml": {
       "close": {
@@ -2596,6 +2834,26 @@
         "timestamp": "2026-10-08T22:20:26Z",
         "value": -1.5
       }
+    }
+  },
+  "TconF11KvtV0q14Dyt0G": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "TtiyAXimaWvjBqJH5dA9": {
@@ -2985,6 +3243,28 @@
       }
     }
   },
+  "WyGtj6Xkr6uylc8xW6fv": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "XlorfdqZLqGEqSiOfVec": {
     "ml": {
       "close": {
@@ -3133,6 +3413,46 @@
         "timestamp": "2026-10-02T22:37:03Z",
         "value": -1.5
       }
+    }
+  },
+  "Yl9KKCy3vAJkdBJEa2jA": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "ZoE37Fmk6aew5Gb5XypP": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "Zsn5TPAH3IPPRDDoeMQC": {
@@ -3372,6 +3692,28 @@
       }
     }
   },
+  "alMFBvZI3eygMkR1cSTq": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "b8qD6YOMvyeqKEOxJk7Y": {
     "ml": {
       "close": {
@@ -3441,6 +3783,26 @@
         "timestamp": "2026-10-10T17:59:41Z",
         "value": -1.5
       }
+    }
+  },
+  "bJRJChvqL8bIEG2NmBgi": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "cA1D2UG8ksLA5uVXusax": {
@@ -3832,6 +4194,26 @@
       }
     }
   },
+  "egNz0hPKL2EYMSR6CHwM": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "egejddX32oBu2dXmHcwy": {
     "ml": {
       "close": {
@@ -3984,6 +4366,28 @@
         "timestamp": "2026-10-10T17:59:41Z",
         "value": -1.5
       }
+    }
+  },
+  "gVQ5O7uN0eNN93Gp47g0": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "i8gpbJJMZ5W2EdonCiPg": {
@@ -4541,6 +4945,48 @@
       }
     }
   },
+  "mSPjx1UT8LTgybf8gb8C": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "n4dL5YfCT962rURkmyIj": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "nQUKbDdwWEOgJ9oLla1z": {
     "ml": {
       "close": {
@@ -4683,6 +5129,99 @@
       }
     }
   },
+  "o0bowoF40J4woOPl9J45": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "o2HcVisErT2FaJyV8YPz": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.5795052852981653
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-14T12:56:31Z",
+          "value": 0.5795052852981653
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.5795052852981653
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.5795052852981653
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 5.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-14T12:56:31Z",
+          "value": 5.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 5.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 5.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-14T12:56:31Z",
+          "value": -1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.5
+      }
+    }
+  },
   "prA2CpnWlwW32Xf8ZQzG": {
     "ou": {
       "close": {
@@ -4788,6 +5327,121 @@
       }
     }
   },
+  "rTzGH3p0eRfdopntDGEt": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.5427435387673957
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-14T12:56:31Z",
+          "value": 0.5427435387673957
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.5427435387673957
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.5427435387673957
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-14T12:56:31Z",
+          "value": 6.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-10-14T12:56:31Z",
+          "value": -1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.5
+      }
+    }
+  },
+  "sQI0iyqVFq94VfLzQVgM": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 0.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "syfKSeFZpBEI15xl7lus": {
+    "ou": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": 6.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": {
+        "source": "api_closing",
+        "timestamp": "2026-10-14T12:56:31Z",
+        "value": -1.0
+      },
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "tYN4WQtcM9DpI1emywp8": {
     "ml": {
       "close": {
@@ -4881,6 +5535,26 @@
         "timestamp": "2026-10-10T17:59:41Z",
         "value": 1.5
       }
+    }
+  },
+  "tunGH73pyI7gF4uT2yi8": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "uIQ6Omj0CNXVFPYtARCM": {

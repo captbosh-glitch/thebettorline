@@ -1358,6 +1358,65 @@
       }
     }
   },
+  "nERuAncxGStinN1NgBJS": {
+    "league_id": "NFL",
+    "starts_at": "2026-10-16T00:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-16T00:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#002244",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#69BE28",
+          "secondaryContrast": "#002244"
+        },
+        "names": {
+          "long": "Seattle Seahawks",
+          "medium": "Seahawks",
+          "short": "SEA"
+        },
+        "statEntityID": "away",
+        "teamID": "SEATTLE_SEAHAWKS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#002859",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#DB6127",
+          "secondaryContrast": "#002859"
+        },
+        "names": {
+          "long": "Denver Broncos",
+          "medium": "Broncos",
+          "short": "DEN"
+        },
+        "statEntityID": "home",
+        "teamID": "DENVER_BRONCOS_NFL"
+      }
+    }
+  },
   "oCMEPrZxTSY5NFV5AtaA": {
     "league_id": "NFL",
     "starts_at": "2026-10-04T17:00:00.000Z",

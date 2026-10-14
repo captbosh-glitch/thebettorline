@@ -1084,6 +1084,64 @@
       }
     }
   },
+  "5x1zmhFXsr6hWXsNOBQX": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-10-16T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-16T01:00:00.000Z",
+        "2026-10-15T08:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-16T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Colorado State"
+        },
+        "statEntityID": "away",
+        "teamID": "COLORADO_STATE_NCAAF"
+      },
+      "home": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Texas State"
+        },
+        "statEntityID": "home",
+        "teamID": "TEXAS_STATE_NCAAF"
+      }
+    }
+  },
   "6ER8Q6Z8VrGSub9Xbgil": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-10T19:30:00.000Z",
@@ -4474,6 +4532,64 @@
       }
     }
   },
+  "SzhfOCk5GWzTyu3Z83e8": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-10-15T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-15T01:00:00.000Z",
+        "2026-10-14T08:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-15T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Western Kentucky"
+        },
+        "statEntityID": "away",
+        "teamID": "WESTERN_KENTUCKY_NCAAF"
+      },
+      "home": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Sam Houston"
+        },
+        "statEntityID": "home",
+        "teamID": "SAM_HOUSTON_NCAAF"
+      }
+    }
+  },
   "TYavGkesl3dlAvay6DKK": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-03T16:30:00.000Z",
@@ -6381,6 +6497,64 @@
       }
     }
   },
+  "e7cUUV4BmO4oZZ1g8CWF": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-10-15T23:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-16T00:30:00.000Z",
+        "2026-10-15T07:30:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-15T23:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "East Carolina"
+        },
+        "statEntityID": "away",
+        "teamID": "EAST_CAROLINA_NCAAF"
+      },
+      "home": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "UAB"
+        },
+        "statEntityID": "home",
+        "teamID": "UAB_NCAAF"
+      }
+    }
+  },
   "eBgYwsw00HtpZZuvGQwZ": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-03T21:00:00.000Z",
@@ -7195,6 +7369,64 @@
       }
     }
   },
+  "hgGI4HDhIjsHi19ben1y": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-10-15T23:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-16T00:30:00.000Z",
+        "2026-10-15T07:30:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-15T23:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Georgia Southern"
+        },
+        "statEntityID": "away",
+        "teamID": "GEORGIA_SOUTHERN_NCAAF"
+      },
+      "home": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Old Dominion"
+        },
+        "statEntityID": "home",
+        "teamID": "OLD_DOMINION_NCAAF"
+      }
+    }
+  },
   "i4JtSuTLM4zhepbYKTNf": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-03T17:00:00.000Z",
@@ -7251,6 +7483,64 @@
         },
         "statEntityID": "home",
         "teamID": "MOREHEAD_STATE_NCAAF"
+      }
+    }
+  },
+  "i6bn9ZAUYvsXt0GmVM9k": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-10-14T23:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-15T00:30:00.000Z",
+        "2026-10-14T07:30:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-14T23:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Kennesaw State"
+        },
+        "statEntityID": "away",
+        "teamID": "KENNESAW_STATE_NCAAF"
+      },
+      "home": {
+        "colors": {
+          "primary": "#374DF5",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Missouri State"
+        },
+        "statEntityID": "home",
+        "teamID": "MISSOURI_STATE_NCAAF"
       }
     }
   },
