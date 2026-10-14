@@ -1876,20 +1876,24 @@
     "ml": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-14T12:56:31Z",
-        "value": 0.43439716312056736
+        "timestamp": "2026-10-14T17:55:10Z",
+        "value": 0.42888402625820565
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-14T12:56:31Z",
           "value": 0.43439716312056736
+        },
+        {
+          "timestamp": "2026-10-14T17:55:10Z",
+          "value": 0.42888402625820565
         }
       ],
       "current": {
-        "timestamp": "2026-10-14T12:56:31Z",
-        "value": 0.43439716312056736
+        "timestamp": "2026-10-14T17:55:10Z",
+        "value": 0.42888402625820565
       },
-      "movement_vs_opener_pp": 0.0,
+      "movement_vs_opener_pp": -0.55,
       "opener": {
         "books_count": 9,
         "timestamp": "2026-10-14T12:56:31Z",
@@ -1899,17 +1903,21 @@
     "ou": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-14T12:56:31Z",
+        "timestamp": "2026-10-14T17:55:10Z",
         "value": 40.5
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-14T12:56:31Z",
           "value": 40.5
+        },
+        {
+          "timestamp": "2026-10-14T17:55:10Z",
+          "value": 40.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-14T12:56:31Z",
+        "timestamp": "2026-10-14T17:55:10Z",
         "value": 40.5
       },
       "movement_vs_opener_pts": 0.0,
@@ -1922,17 +1930,21 @@
     "sp": {
       "close": {
         "source": "last_pulled",
-        "timestamp": "2026-10-14T12:56:31Z",
+        "timestamp": "2026-10-14T17:55:10Z",
         "value": 2.5
       },
       "consensus_history": [
         {
           "timestamp": "2026-10-14T12:56:31Z",
           "value": 2.5
+        },
+        {
+          "timestamp": "2026-10-14T17:55:10Z",
+          "value": 2.5
         }
       ],
       "current": {
-        "timestamp": "2026-10-14T12:56:31Z",
+        "timestamp": "2026-10-14T17:55:10Z",
         "value": 2.5
       },
       "movement_vs_opener_pts": 0.0,

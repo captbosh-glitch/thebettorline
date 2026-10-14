@@ -475,6 +475,69 @@
       }
     }
   },
+  "Smlj0GhN9tPA4eJREzZL": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-16T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-15T21:00:00.000Z",
+        "2026-10-15T09:00:00.000Z",
+        "2026-10-15T20:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-16T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#B28E42",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Milwaukee Brewers",
+          "medium": "Brewers",
+          "short": "MIL"
+        },
+        "statEntityID": "away",
+        "teamID": "MILWAUKEE_BREWERS_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#014785",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Los Angeles Dodgers",
+          "medium": "Dodgers",
+          "short": "LAD"
+        },
+        "statEntityID": "home",
+        "teamID": "LOS_ANGELES_DODGERS_MLB"
+      }
+    }
+  },
   "V3AcWjeD77l4Y1fTSzcE": {
     "league_id": "MLB",
     "starts_at": "2026-10-05T21:00:00.000Z",
