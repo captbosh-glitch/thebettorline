@@ -538,6 +538,65 @@
       }
     }
   },
+  "Uf4Vmlh55T7FzLevIZZX": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-18T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-10-18T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#000066",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Tampa Bay Rays",
+          "medium": "Rays",
+          "short": "TB"
+        },
+        "statEntityID": "away",
+        "teamID": "TAMPA_BAY_RAYS_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#E41937",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Cleveland Guardians",
+          "medium": "Guardians",
+          "short": "CLE"
+        },
+        "statEntityID": "home",
+        "teamID": "CLEVELAND_GUARDIANS_MLB"
+      }
+    }
+  },
   "V3AcWjeD77l4Y1fTSzcE": {
     "league_id": "MLB",
     "starts_at": "2026-10-05T21:00:00.000Z",
@@ -775,6 +834,67 @@
         },
         "statEntityID": "home",
         "teamID": "TAMPA_BAY_RAYS_MLB"
+      }
+    }
+  },
+  "Z8pud8SKKEBRRWLZXsXK": {
+    "league_id": "MLB",
+    "starts_at": "2026-10-17T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-10-16T22:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-10-17T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#000066",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Tampa Bay Rays",
+          "medium": "Rays",
+          "short": "TB"
+        },
+        "statEntityID": "away",
+        "teamID": "TAMPA_BAY_RAYS_MLB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#E41937",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "long": "Cleveland Guardians",
+          "medium": "Guardians",
+          "short": "CLE"
+        },
+        "statEntityID": "home",
+        "teamID": "CLEVELAND_GUARDIANS_MLB"
       }
     }
   },
