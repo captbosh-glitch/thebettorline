@@ -1476,6 +1476,65 @@
       }
     }
   },
+  "pOQLWfL71bRPzZiqKipr": {
+    "league_id": "NFL",
+    "starts_at": "2026-11-03T01:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T01:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#C83803",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#0B162A",
+          "secondaryContrast": "#C83803"
+        },
+        "names": {
+          "long": "Chicago Bears",
+          "medium": "Bears",
+          "short": "CHI"
+        },
+        "statEntityID": "away",
+        "teamID": "CHICAGO_BEARS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#002244",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#69BE28",
+          "secondaryContrast": "#002244"
+        },
+        "names": {
+          "long": "Seattle Seahawks",
+          "medium": "Seahawks",
+          "short": "SEA"
+        },
+        "statEntityID": "home",
+        "teamID": "SEATTLE_SEAHAWKS_NFL"
+      }
+    }
+  },
   "pfZ0ox2e7SPIoWtuJpyk": {
     "league_id": "NFL",
     "starts_at": "2026-10-09T00:15:00.000Z",

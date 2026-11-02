@@ -1,0 +1,917 @@
+{
+  "9PQa56YfM8RaMtAsnTF5": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#006BB6",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#ED174C",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "location": "Detroit",
+          "long": "Detroit Pistons",
+          "medium": "Pistons",
+          "short": "DET"
+        },
+        "statEntityID": "away",
+        "teamID": "DETROIT_PISTONS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#008CA8",
+          "primaryContrast": "#000000",
+          "secondary": "#1D1160",
+          "secondaryContrast": "#008CA8"
+        },
+        "names": {
+          "location": "Charlotte",
+          "long": "Charlotte Hornets",
+          "medium": "Hornets",
+          "short": "CHA"
+        },
+        "statEntityID": "home",
+        "teamID": "CHARLOTTE_HORNETS_NBA"
+      }
+    }
+  },
+  "Ddy2Au8EFUCefHrsfPYE": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#00471B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#EEE1C6",
+          "secondaryContrast": "#00471B"
+        },
+        "names": {
+          "location": "Milwaukee",
+          "long": "Milwaukee Bucks",
+          "medium": "Bucks",
+          "short": "MIL"
+        },
+        "statEntityID": "away",
+        "teamID": "MILWAUKEE_BUCKS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#005083",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "location": "Minnesota",
+          "long": "Minnesota Timberwolves",
+          "medium": "Timberwolves",
+          "short": "MIN"
+        },
+        "statEntityID": "home",
+        "teamID": "MINNESOTA_TIMBERWOLVES_NBA"
+      }
+    }
+  },
+  "GwDgzho9v66QVQYHgCqi": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#FFFFFF",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "location": "Brooklyn",
+          "long": "Brooklyn Nets",
+          "medium": "Nets",
+          "short": "BKN"
+        },
+        "statEntityID": "away",
+        "teamID": "BROOKLYN_NETS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#006BB6",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#F58426",
+          "secondaryContrast": "#006BB6"
+        },
+        "names": {
+          "location": "New York",
+          "long": "New York Knicks",
+          "medium": "Knicks",
+          "short": "NYK"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_YORK_KNICKS_NBA"
+      }
+    }
+  },
+  "Jg3CRvDpuxMlUr1ZW4Rn": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CE1141",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#CE1141"
+        },
+        "names": {
+          "location": "Chicago",
+          "long": "Chicago Bulls",
+          "medium": "Bulls",
+          "short": "CHI"
+        },
+        "statEntityID": "away",
+        "teamID": "CHICAGO_BULLS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#006BB6",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#ED174C",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "location": "Philadelphia",
+          "long": "Philadelphia 76ers",
+          "medium": "76ers",
+          "short": "PHI"
+        },
+        "statEntityID": "home",
+        "teamID": "PHILADELPHIA_76ERS_NBA"
+      }
+    }
+  },
+  "MP6jmrA6TjjcZeqhsg4u": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T01:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T01:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#008348",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "location": "Boston",
+          "long": "Boston Celtics",
+          "medium": "Celtics",
+          "short": "BOS"
+        },
+        "statEntityID": "away",
+        "teamID": "BOSTON_CELTICS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#CE1141",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "location": "Houston",
+          "long": "Houston Rockets",
+          "medium": "Rockets",
+          "short": "HOU"
+        },
+        "statEntityID": "home",
+        "teamID": "HOUSTON_ROCKETS_NBA"
+      }
+    }
+  },
+  "TI1m4C9SiNRwD7Ho7yJc": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CE1141",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#CE1141"
+        },
+        "names": {
+          "location": "Toronto",
+          "long": "Toronto Raptors",
+          "medium": "Raptors",
+          "short": "TOR"
+        },
+        "statEntityID": "away",
+        "teamID": "TORONTO_RAPTORS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#006BB6",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#ED174C",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "location": "LA",
+          "long": "Los Angeles Clippers",
+          "medium": "Clippers",
+          "short": "LAC"
+        },
+        "statEntityID": "home",
+        "teamID": "LA_CLIPPERS_NBA"
+      }
+    }
+  },
+  "TkZGexF6r46bA5nqGbL0": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#DD4B33",
+          "primaryContrast": "#000000",
+          "secondary": "#3479BC",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "location": "Oklahoma City",
+          "long": "Oklahoma City Thunder",
+          "medium": "Thunder",
+          "short": "OKC"
+        },
+        "statEntityID": "away",
+        "teamID": "OKLAHOMA_CITY_THUNDER_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#871539",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#871539"
+        },
+        "names": {
+          "location": "Cleveland",
+          "long": "Cleveland Cavaliers",
+          "medium": "Cavaliers",
+          "short": "CLE"
+        },
+        "statEntityID": "home",
+        "teamID": "CLEVELAND_CAVALIERS_NBA"
+      }
+    }
+  },
+  "cyryOmeXfq9UGiG2DjCm": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T01:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T01:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#002B5C",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#F9A01B",
+          "secondaryContrast": "#002B5C"
+        },
+        "names": {
+          "location": "Utah",
+          "long": "Utah Jazz",
+          "medium": "Jazz",
+          "short": "UTA"
+        },
+        "statEntityID": "away",
+        "teamID": "UTAH_JAZZ_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#A6AFAF",
+          "primaryContrast": "#000000",
+          "secondary": "",
+          "secondaryContrast": ""
+        },
+        "names": {
+          "location": "San Antonio",
+          "long": "San Antonio Spurs",
+          "medium": "Spurs",
+          "short": "SAS"
+        },
+        "statEntityID": "home",
+        "teamID": "SAN_ANTONIO_SPURS_NBA"
+      }
+    }
+  },
+  "gdPxIUkZq9h39cSvqIm3": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#F0163A",
+          "primaryContrast": "#000000",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#F0163A"
+        },
+        "names": {
+          "location": "Portland",
+          "long": "Portland Trail Blazers",
+          "medium": "Trail Blazers",
+          "short": "POR"
+        },
+        "statEntityID": "away",
+        "teamID": "PORTLAND_TRAIL_BLAZERS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#4FA8FF",
+          "primaryContrast": "#000000",
+          "secondary": "#F3BB4B",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "location": "Denver",
+          "long": "Denver Nuggets",
+          "medium": "Nuggets",
+          "short": "DEN"
+        },
+        "statEntityID": "home",
+        "teamID": "DENVER_NUGGETS_NBA"
+      }
+    }
+  },
+  "lfjZpbqz68gg91nvA5Ln": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#724C9F",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#8E9090",
+          "secondaryContrast": "#724C9F"
+        },
+        "names": {
+          "location": "Sacramento",
+          "long": "Sacramento Kings",
+          "medium": "Kings",
+          "short": "SAC"
+        },
+        "statEntityID": "away",
+        "teamID": "SACRAMENTO_KINGS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#007DC5",
+          "primaryContrast": "#000000",
+          "secondary": "#20385B",
+          "secondaryContrast": "#007DC5"
+        },
+        "names": {
+          "location": "Dallas",
+          "long": "Dallas Mavericks",
+          "medium": "Mavericks",
+          "short": "DAL"
+        },
+        "statEntityID": "home",
+        "teamID": "DALLAS_MAVERICKS_NBA"
+      }
+    }
+  },
+  "mQKMT2SpINxADaG0ykeC": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#E03A3E",
+          "primaryContrast": "#000000",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#E03A3E"
+        },
+        "names": {
+          "location": "Atlanta",
+          "long": "Atlanta Hawks",
+          "medium": "Hawks",
+          "short": "ATL"
+        },
+        "statEntityID": "away",
+        "teamID": "ATLANTA_HAWKS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#00275D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFC633",
+          "secondaryContrast": "#00275D"
+        },
+        "names": {
+          "location": "Indiana",
+          "long": "Indiana Pacers",
+          "medium": "Pacers",
+          "short": "IND"
+        },
+        "statEntityID": "home",
+        "teamID": "INDIANA_PACERS_NBA"
+      }
+    }
+  },
+  "neJeUaqX3B8H7qGMIDXS": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#E56020",
+          "primaryContrast": "#000000",
+          "secondary": "#1D1160",
+          "secondaryContrast": "#E56020"
+        },
+        "names": {
+          "location": "Phoenix",
+          "long": "Phoenix Suns",
+          "medium": "Suns",
+          "short": "PHX"
+        },
+        "statEntityID": "away",
+        "teamID": "PHOENIX_SUNS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#006BB6",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FDB927",
+          "secondaryContrast": "#006BB6"
+        },
+        "names": {
+          "location": "Golden State",
+          "long": "Golden State Warriors",
+          "medium": "Warriors",
+          "short": "GSW"
+        },
+        "statEntityID": "home",
+        "teamID": "GOLDEN_STATE_WARRIORS_NBA"
+      }
+    }
+  },
+  "t9XBmzA9kwjZd3iGyDid": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#98002E",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#98002E"
+        },
+        "names": {
+          "location": "Miami",
+          "long": "Miami Heat",
+          "medium": "Heat",
+          "short": "MIA"
+        },
+        "statEntityID": "away",
+        "teamID": "MIAMI_HEAT_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#552582",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FDB927",
+          "secondaryContrast": "#552582"
+        },
+        "names": {
+          "location": "Los Angeles",
+          "long": "Los Angeles Lakers",
+          "medium": "Lakers",
+          "short": "LAL"
+        },
+        "statEntityID": "home",
+        "teamID": "LOS_ANGELES_LAKERS_NBA"
+      }
+    }
+  },
+  "vF7mrlCAIjmb7rtvfi4s": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#F5002F",
+          "primaryContrast": "#000000",
+          "secondary": "#002566",
+          "secondaryContrast": "#F5002F"
+        },
+        "names": {
+          "location": "Washington",
+          "long": "Washington Wizards",
+          "medium": "Wizards",
+          "short": "WAS"
+        },
+        "statEntityID": "away",
+        "teamID": "WASHINGTON_WIZARDS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#007DC5",
+          "primaryContrast": "#000000",
+          "secondary": "#C4CED3",
+          "secondaryContrast": "#007DC5"
+        },
+        "names": {
+          "location": "Orlando",
+          "long": "Orlando Magic",
+          "medium": "Magic",
+          "short": "ORL"
+        },
+        "statEntityID": "home",
+        "teamID": "ORLANDO_MAGIC_NBA"
+      }
+    }
+  },
+  "x4q7hhvxJ5L0a4mILVVZ": {
+    "league_id": "NBA",
+    "starts_at": "2026-11-03T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-03T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#002B5C",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#B4975A",
+          "secondaryContrast": "#002B5C"
+        },
+        "names": {
+          "location": "New Orleans",
+          "long": "New Orleans Pelicans",
+          "medium": "Pelicans",
+          "short": "NOP"
+        },
+        "statEntityID": "away",
+        "teamID": "NEW_ORLEANS_PELICANS_NBA"
+      },
+      "home": {
+        "colors": {
+          "primary": "#23375B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#6189B9",
+          "secondaryContrast": "#23375B"
+        },
+        "names": {
+          "location": "Memphis",
+          "long": "Memphis Grizzlies",
+          "medium": "Grizzlies",
+          "short": "MEM"
+        },
+        "statEntityID": "home",
+        "teamID": "MEMPHIS_GRIZZLIES_NBA"
+      }
+    }
+  }
+}

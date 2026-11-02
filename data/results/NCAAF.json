@@ -1,4 +1,22 @@
 {
+  "0t13OO3TOJkcFGcju2RM": {
+    "away_score": 24.0,
+    "closing_lines": {
+      "ou": 56.0,
+      "sp": -22.0
+    },
+    "closing_ml_fair_odds": {
+      "away": "+1100",
+      "home": "-1100"
+    },
+    "graded_at": "2026-11-02T13:53:13Z",
+    "grading": {
+      "ml": "home",
+      "ou": "under",
+      "sp": "away"
+    },
+    "home_score": 31.0
+  },
   "LAxMBbPjT4tBbXzKilE4": {
     "away_score": 30.0,
     "closing_lines": {
@@ -17,6 +35,24 @@
     },
     "home_score": 33.0
   },
+  "PQm6BerrjeGQ9sbjeo12": {
+    "away_score": 22.0,
+    "closing_lines": {
+      "ou": 57.0,
+      "sp": 6.5
+    },
+    "closing_ml_fair_odds": {
+      "away": "-196",
+      "home": "+196"
+    },
+    "graded_at": "2026-11-02T13:53:13Z",
+    "grading": {
+      "ml": "home",
+      "ou": "over",
+      "sp": "home"
+    },
+    "home_score": 38.0
+  },
   "RVMFFblwLhMrMU07mUE0": {
     "away_score": 24.0,
     "closing_lines": {
@@ -34,5 +70,23 @@
       "sp": "home"
     },
     "home_score": 27.0
+  },
+  "oEXBLVcFyu5vjw76jAsK": {
+    "away_score": 45.0,
+    "closing_lines": {
+      "ou": 64.5,
+      "sp": -11.0
+    },
+    "closing_ml_fair_odds": {
+      "away": "+330",
+      "home": "-330"
+    },
+    "graded_at": "2026-11-02T13:53:13Z",
+    "grading": {
+      "ml": "home",
+      "ou": "over",
+      "sp": "away"
+    },
+    "home_score": 46.0
   }
 }
