@@ -2376,6 +2376,58 @@
       }
     }
   },
+  "A9jv79rIgne2QottRnIx": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-05T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-04T00:00:00.000Z",
+        "2026-11-04T04:00:00.000Z",
+        "2026-11-04T05:00:00.000Z",
+        "2026-11-04T23:30:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-05T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Central Michigan",
+          "medium": "Central Michigan",
+          "short": "CMU"
+        },
+        "statEntityID": "away",
+        "teamID": "CENTRAL_MICHIGAN_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Eastern Michigan",
+          "medium": "Eastern Michigan",
+          "short": "EMU"
+        },
+        "statEntityID": "home",
+        "teamID": "EASTERN_MICHIGAN_NCAAF"
+      }
+    }
+  },
   "AqR1rE5xdZjCpRu9ef2y": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-17T20:00:00.000Z",
@@ -6753,7 +6805,7 @@
   },
   "QjL2hMSjhNk6n03xdSO5": {
     "league_id": "NCAAF",
-    "starts_at": "2026-11-03T23:00:00.000Z",
+    "starts_at": "2026-11-04T00:00:00.000Z",
     "status": {
       "cancelled": false,
       "completed": false,
@@ -6775,22 +6827,26 @@
       "previousPeriodID": "",
       "previousStartsAt": [
         "2026-11-03T07:00:00.000Z",
-        "2026-11-04T00:00:00.000Z"
+        "2026-11-03T23:00:00.000Z"
       ],
       "started": false,
-      "startsAt": "2026-11-03T23:00:00.000Z"
+      "startsAt": "2026-11-04T00:00:00.000Z"
     },
     "teams": {
       "away": {
         "names": {
-          "long": "Ohio"
+          "long": "Ohio",
+          "medium": "Ohio",
+          "short": "OHIO"
         },
         "statEntityID": "away",
         "teamID": "OHIO_NCAAF"
       },
       "home": {
         "names": {
-          "long": "Akron"
+          "long": "Akron",
+          "medium": "Akron",
+          "short": "AKR"
         },
         "statEntityID": "home",
         "teamID": "AKRON_NCAAF"
@@ -12745,7 +12801,9 @@
       },
       "home": {
         "names": {
-          "long": "Miami (OH)"
+          "long": "Miami (OH)",
+          "medium": "Miami Ohio",
+          "short": "M-OH"
         },
         "statEntityID": "home",
         "teamID": "MIAMI_OH_NCAAF"
@@ -14085,6 +14143,58 @@
       }
     }
   },
+  "qBI1nbWF18WTQRbdoyxK": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-05T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-04T00:00:00.000Z",
+        "2026-11-04T04:00:00.000Z",
+        "2026-11-04T05:00:00.000Z",
+        "2026-11-04T23:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-05T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Ball State",
+          "medium": "Ball State",
+          "short": "BALL"
+        },
+        "statEntityID": "away",
+        "teamID": "BALL_STATE_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "UMass",
+          "medium": "UMass",
+          "short": "MASS"
+        },
+        "statEntityID": "home",
+        "teamID": "UMASS_NCAAF"
+      }
+    }
+  },
   "qR53de6diekPlDtSJR9H": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-18T00:00:00.000Z",
@@ -15069,6 +15179,58 @@
         },
         "statEntityID": "home",
         "teamID": "KANSAS_STATE_NCAAF"
+      }
+    }
+  },
+  "uM3I3Vmt8bVzKQ3fy04Q": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-05T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-04T00:00:00.000Z",
+        "2026-11-04T04:00:00.000Z",
+        "2026-11-04T05:00:00.000Z",
+        "2026-11-04T23:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-05T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Toledo",
+          "medium": "Toledo",
+          "short": "TOL"
+        },
+        "statEntityID": "away",
+        "teamID": "TOLEDO_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Sacramento State",
+          "medium": "Sacramento State",
+          "short": "CSUS"
+        },
+        "statEntityID": "home",
+        "teamID": "SACRAMENTO_STATE_NCAAF"
       }
     }
   },
