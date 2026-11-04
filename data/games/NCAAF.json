@@ -12406,6 +12406,58 @@
       }
     }
   },
+  "kLARS3LLgnjk0SbdRmko": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-06T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-05T08:00:00.000Z",
+        "2026-11-05T23:30:00.000Z",
+        "2026-11-06T00:00:00.000Z",
+        "2026-11-06T01:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-06T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "UTSA",
+          "medium": "UTSA",
+          "short": "UTSA"
+        },
+        "statEntityID": "away",
+        "teamID": "UTSA_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Florida Atlantic",
+          "medium": "Florida Atlantic",
+          "short": "FAU"
+        },
+        "statEntityID": "home",
+        "teamID": "FLORIDA_ATLANTIC_NCAAF"
+      }
+    }
+  },
   "kf6NKLdLw4ByYmFoG7If": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-09T23:00:00.000Z",
@@ -16044,6 +16096,57 @@
       }
     }
   },
+  "xOUFhmFM0hx4FR6uG5oT": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-06T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-05T21:00:00.000Z",
+        "2026-11-05T22:00:00.000Z",
+        "2026-11-05T23:30:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-06T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "South Carolina State",
+          "medium": "South Carolina St.",
+          "short": "SCST"
+        },
+        "statEntityID": "away",
+        "teamID": "SOUTH_CAROLINA_STATE_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Howard",
+          "medium": "Howard",
+          "short": "HOW"
+        },
+        "statEntityID": "home",
+        "teamID": "HOWARD_NCAAF"
+      }
+    }
+  },
   "xphCm7Bw1QOAGXTfZLkV": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-03T20:15:00.000Z",
@@ -16218,6 +16321,56 @@
         },
         "statEntityID": "home",
         "teamID": "NEBRASKA_NCAAF"
+      }
+    }
+  },
+  "yibePJYII2aziRboU7Td": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-06T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-05T08:00:00.000Z",
+        "2026-11-06T00:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-06T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "James Madison",
+          "medium": "James Madison",
+          "short": "JM"
+        },
+        "statEntityID": "away",
+        "teamID": "JAMES_MADISON_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Southern Miss",
+          "medium": "Southern Miss",
+          "short": "USM"
+        },
+        "statEntityID": "home",
+        "teamID": "SOUTHERN_MISS_NCAAF"
       }
     }
   },
