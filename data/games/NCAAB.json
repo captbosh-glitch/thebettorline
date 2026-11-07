@@ -198,6 +198,65 @@
       }
     }
   },
+  "21U1DuFyszJ76Y1p10lW": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T18:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T18:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#DD002F",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#DD002F"
+        },
+        "names": {
+          "long": "Arkansas Razorbacks",
+          "medium": "Arkansas",
+          "short": "ARK"
+        },
+        "statEntityID": "away",
+        "teamID": "ARKANSAS_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#002F6C",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#F84C1E",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Virginia Cavaliers",
+          "medium": "Virginia",
+          "short": "UVA"
+        },
+        "statEntityID": "home",
+        "teamID": "VIRGINIA_NCAAB"
+      }
+    }
+  },
   "220kEKzWypBQ06j1klYB": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-03T00:00:00.000Z",
@@ -242,6 +301,53 @@
         },
         "statEntityID": "home",
         "teamID": "WILLIAM_MARY_NCAAB"
+      }
+    }
+  },
+  "24ui2LMZhCCor3rjtJi1": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Tennessee Martin Skyhawks",
+          "medium": "Tennessee-Martin",
+          "short": "UTM"
+        },
+        "statEntityID": "away",
+        "teamID": "TENNESSEE_MARTIN_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "IUPUI Jaguars",
+          "medium": "IUPUI",
+          "short": "IUPU"
+        },
+        "statEntityID": "home",
+        "teamID": "IUPUI_NCAAB"
       }
     }
   },
@@ -398,6 +504,53 @@
       }
     }
   },
+  "4ritC5ZRO6TicnwIrR6r": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T23:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T23:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Morgan State Bears",
+          "medium": "Morgan State",
+          "short": "MORG"
+        },
+        "statEntityID": "away",
+        "teamID": "MORGAN_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Niagara",
+          "medium": "Niagara",
+          "short": "NIAG"
+        },
+        "statEntityID": "home",
+        "teamID": "NIAGARA_NCAAB"
+      }
+    }
+  },
   "51XEBRhdgnYGpGVDzYFi": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-06T00:00:00.000Z",
@@ -504,6 +657,53 @@
       }
     }
   },
+  "5eStMwV829X9CuSQ3nRz": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Western Carolina Catamounts",
+          "medium": "Western Carolina",
+          "short": "WCU"
+        },
+        "statEntityID": "away",
+        "teamID": "WESTERN_CAROLINA_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "UNC Asheville",
+          "medium": "UNC Asheville",
+          "short": "UNCA"
+        },
+        "statEntityID": "home",
+        "teamID": "UNC_ASHEVILLE_NCAAB"
+      }
+    }
+  },
   "6G7hRvBITReoBRuDF34o": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-04T01:00:00.000Z",
@@ -603,6 +803,152 @@
       }
     }
   },
+  "75tEN2nAFM05Xukk4rFm": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Bethesda Flames",
+          "short": "BETH"
+        },
+        "statEntityID": "away",
+        "teamID": "BETHESDA_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Pepperdine Waves",
+          "medium": "Pepperdine",
+          "short": "PEPP"
+        },
+        "statEntityID": "home",
+        "teamID": "PEPPERDINE_NCAAB"
+      }
+    }
+  },
+  "8IZOFZLHTQsq1VS2ERkb": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Utah Valley Wolverines",
+          "medium": "Utah Valley St.",
+          "short": "UVU"
+        },
+        "statEntityID": "away",
+        "teamID": "UTAH_VALLEY_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Weber State Wildcats",
+          "medium": "Weber",
+          "short": "WEB"
+        },
+        "statEntityID": "home",
+        "teamID": "WEBER_STATE_NCAAB"
+      }
+    }
+  },
+  "8LNg6iV2tbAk90lZsIMk": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#90182B",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Colgate",
+          "medium": "Colgate",
+          "short": "COLG"
+        },
+        "statEntityID": "away",
+        "teamID": "COLGATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Drexel",
+          "medium": "Drexel",
+          "short": "DREX"
+        },
+        "statEntityID": "home",
+        "teamID": "DREXEL_NCAAB"
+      }
+    }
+  },
   "8n8FASP6IauLtx1XtotI": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T00:00:00.000Z",
@@ -650,6 +996,53 @@
       }
     }
   },
+  "9bgCsP7CEpzp0raucDxI": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "SE Louisiana",
+          "medium": "SE Louisiana",
+          "short": "SELA"
+        },
+        "statEntityID": "away",
+        "teamID": "SE_LOUISIANA_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Arkansas Little Rock Trojans",
+          "medium": "Arkansas Little Rock",
+          "short": "UALR"
+        },
+        "statEntityID": "home",
+        "teamID": "ARKANSAS_LITTLE_ROCK_NCAAB"
+      }
+    }
+  },
   "A2j0AkCm8bvtyoOxevQJ": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-06T00:00:00.000Z",
@@ -694,6 +1087,53 @@
         },
         "statEntityID": "home",
         "teamID": "RIDER_NCAAB"
+      }
+    }
+  },
+  "ARv6pwKsMBsduIyPeVqZ": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Central Connecticut State",
+          "medium": "C Connecticut St.",
+          "short": "CCSU"
+        },
+        "statEntityID": "away",
+        "teamID": "CENTRAL_CONNECTICUT_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Dartmouth Big Green",
+          "medium": "Dartmouth",
+          "short": "DART"
+        },
+        "statEntityID": "home",
+        "teamID": "DARTMOUTH_NCAAB"
       }
     }
   },
@@ -756,6 +1196,106 @@
       }
     }
   },
+  "Aw3oK7PBGQqn31xvebO8": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Quinnipiac",
+          "medium": "Quinnipiac",
+          "short": "QUIN"
+        },
+        "statEntityID": "away",
+        "teamID": "QUINNIPIAC_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#005710",
+          "primaryContrast": "#FFC20E",
+          "secondary": "#FFC20E",
+          "secondaryContrast": "#005710"
+        },
+        "names": {
+          "long": "Vermont Catamounts",
+          "medium": "Vermont",
+          "short": "UVM"
+        },
+        "statEntityID": "home",
+        "teamID": "VERMONT_NCAAB"
+      }
+    }
+  },
+  "Ax9GlVNQpLyn5aNZZ5BQ": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Southern Univ.",
+          "medium": "Southern Univ.",
+          "short": "SOU"
+        },
+        "statEntityID": "away",
+        "teamID": "SOUTHERN_UNIV_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Drake Bulldogs",
+          "medium": "Drake",
+          "short": "DRKE"
+        },
+        "statEntityID": "home",
+        "teamID": "DRAKE_NCAAB"
+      }
+    }
+  },
   "AzCnDFIIIL44osMbAl00": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-06T03:30:00.000Z",
@@ -806,6 +1346,106 @@
         },
         "statEntityID": "home",
         "teamID": "ARIZONA_NCAAB"
+      }
+    }
+  },
+  "BJSq6wnx7L91294E7rR8": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T18:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T18:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Southeast Missouri State",
+          "medium": "SE Missouri St",
+          "short": "SEMO"
+        },
+        "statEntityID": "away",
+        "teamID": "SOUTHEAST_MISSOURI_STATE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#73000A",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "South Carolina",
+          "medium": "South Carolina",
+          "short": "SCAR"
+        },
+        "statEntityID": "home",
+        "teamID": "SOUTH_CAROLINA_NCAAB"
+      }
+    }
+  },
+  "ChrwVTj1KnfDkZFUAUzp": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "UNC Wilmington Seahawks",
+          "medium": "UNC Wilmington",
+          "short": "UNCW"
+        },
+        "statEntityID": "away",
+        "teamID": "UNC_WILMINGTON_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "East Carolina Pirates",
+          "medium": "East Carolina",
+          "short": "ECU"
+        },
+        "statEntityID": "home",
+        "teamID": "EAST_CAROLINA_NCAAB"
       }
     }
   },
@@ -1015,6 +1655,65 @@
       }
     }
   },
+  "FVxmOtr8A9XLyhBHCqQQ": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#712D3D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#DD9221",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Iona",
+          "medium": "Iona",
+          "short": "IONA"
+        },
+        "statEntityID": "away",
+        "teamID": "IONA_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#CA1B45",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "St. John's Red Storm",
+          "medium": "St. John's",
+          "short": "SJU"
+        },
+        "statEntityID": "home",
+        "teamID": "ST_JOHNS_NY_NCAAB"
+      }
+    }
+  },
   "FZ7FLY7AT5FV3P9yntR7": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T02:00:00.000Z",
@@ -1065,6 +1764,106 @@
         },
         "statEntityID": "home",
         "teamID": "CALIFORNIA_NCAAB"
+      }
+    }
+  },
+  "Fwn8VLnsJw1iN2VhxUJp": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Hampton Pirates",
+          "medium": "Hampton",
+          "short": "HAMP"
+        },
+        "statEntityID": "away",
+        "teamID": "HAMPTON_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "George Washington Revolutionaries",
+          "medium": "G. Washington",
+          "short": "GW"
+        },
+        "statEntityID": "home",
+        "teamID": "GEORGE_WASHINGTON_NCAAB"
+      }
+    }
+  },
+  "GRPQPNPSdLhe2IeV4h7J": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-09T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-09T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Incarnate Word",
+          "medium": "Incarnate Word",
+          "short": "IW"
+        },
+        "statEntityID": "away",
+        "teamID": "INCARNATE_WORD_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#041E42",
+          "primaryContrast": "#FF8200",
+          "secondary": "#FF8200",
+          "secondaryContrast": "#041E42"
+        },
+        "names": {
+          "long": "UTEP",
+          "medium": "UTEP",
+          "short": "UTEP"
+        },
+        "statEntityID": "home",
+        "teamID": "UTEP_NCAAB"
       }
     }
   },
@@ -1172,6 +1971,65 @@
       }
     }
   },
+  "I4sQNWcG7ekPiaoynNnV": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-09T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-09T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#0C2340",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#857F5D",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Pittsburgh",
+          "medium": "Pittsburgh",
+          "short": "PITT"
+        },
+        "statEntityID": "away",
+        "teamID": "PITTSBURGH_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#FFFFFF",
+          "primaryContrast": "#162952",
+          "secondary": "#162952",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Penn State",
+          "medium": "Penn State",
+          "short": "PSU"
+        },
+        "statEntityID": "home",
+        "teamID": "PENN_STATE_NCAAB"
+      }
+    }
+  },
   "I61CePdRI6qIuOyI9oXy": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-04T00:00:00.000Z",
@@ -1222,6 +2080,59 @@
         },
         "statEntityID": "home",
         "teamID": "GEORGIA_TECH_NCAAB"
+      }
+    }
+  },
+  "IVpiW20mPZpfDPaheORl": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#99182E",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#99182E"
+        },
+        "names": {
+          "long": "Washington St Cougars",
+          "medium": "Washington St.",
+          "short": "WSU"
+        },
+        "statEntityID": "away",
+        "teamID": "WASHINGTON_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "High Point Panthers",
+          "medium": "High Point",
+          "short": "HP"
+        },
+        "statEntityID": "home",
+        "teamID": "HIGH_POINT_NCAAB"
       }
     }
   },
@@ -1284,6 +2195,53 @@
       }
     }
   },
+  "JKLHcf361IrorZJ72Kst": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Western Kentucky Hilltoppers",
+          "medium": "W. Kentucky",
+          "short": "WKU"
+        },
+        "statEntityID": "away",
+        "teamID": "WESTERN_KENTUCKY_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Tennessee Tech Golden Eagles",
+          "medium": "Tennessee Tech",
+          "short": "TNTC"
+        },
+        "statEntityID": "home",
+        "teamID": "TENNESSEE_TECH_NCAAB"
+      }
+    }
+  },
   "JSQdIM19FfJrzSYmGf8q": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-06T00:00:00.000Z",
@@ -1328,6 +2286,59 @@
         },
         "statEntityID": "home",
         "teamID": "MERRIMACK_WARRIORS_NCAAB"
+      }
+    }
+  },
+  "KqUIlvcglwslM2FCuOY7": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Monmouth",
+          "medium": "Monmouth",
+          "short": "MONM"
+        },
+        "statEntityID": "away",
+        "teamID": "MONMOUTH_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#74B4E6",
+          "primaryContrast": "#002147",
+          "secondary": "#002147",
+          "secondaryContrast": "#74B4E6"
+        },
+        "names": {
+          "long": "Rhode Island",
+          "medium": "Rhode Island",
+          "short": "URI"
+        },
+        "statEntityID": "home",
+        "teamID": "RHODE_ISLAND_NCAAB"
       }
     }
   },
@@ -1384,6 +2395,53 @@
       }
     }
   },
+  "LGDS3AlhDduEUwisk9Ik": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "St. Peters",
+          "medium": "Saint Peter's",
+          "short": "SPC"
+        },
+        "statEntityID": "away",
+        "teamID": "SAINT_PETERS_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "NJIT Highlanders",
+          "medium": "NJIT",
+          "short": "NJIT"
+        },
+        "statEntityID": "home",
+        "teamID": "NJIT_NCAAB"
+      }
+    }
+  },
   "LSNsSv07AivJlMzyq2Pc": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T00:30:00.000Z",
@@ -1434,6 +2492,159 @@
         },
         "statEntityID": "home",
         "teamID": "WICHITA_STATE_NCAAB"
+      }
+    }
+  },
+  "LUpq9W6ovFs7JqqByIrK": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T18:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T18:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "North Carolina A&T Aggies",
+          "medium": "UNC A&T",
+          "short": "NCAT"
+        },
+        "statEntityID": "away",
+        "teamID": "UNC_AT_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Ohio",
+          "medium": "Ohio",
+          "short": "OHIO"
+        },
+        "statEntityID": "home",
+        "teamID": "OHIO_NCAAB"
+      }
+    }
+  },
+  "M2TqAR0YqF1UxVhMjCsk": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Pacific Tigers",
+          "medium": "Pacific",
+          "short": "PAC"
+        },
+        "statEntityID": "away",
+        "teamID": "PACIFIC_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Bradley Braves",
+          "medium": "Bradley",
+          "short": "BRAD"
+        },
+        "statEntityID": "home",
+        "teamID": "BRADLEY_NCAAB"
+      }
+    }
+  },
+  "MXfJnfAwDjii2wTvvgKB": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#761031",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#761031"
+        },
+        "names": {
+          "long": "New Mexico State",
+          "medium": "New Mexico St",
+          "short": "NMSU"
+        },
+        "statEntityID": "away",
+        "teamID": "NEW_MEXICO_STATE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#041E42",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#041E42"
+        },
+        "names": {
+          "long": "Gonzaga Bulldogs",
+          "medium": "Gonzaga",
+          "short": "GONZ"
+        },
+        "statEntityID": "home",
+        "teamID": "GONZAGA_NCAAB"
       }
     }
   },
@@ -1593,6 +2804,52 @@
         },
         "statEntityID": "home",
         "teamID": "PITTSBURGH_NCAAB"
+      }
+    }
+  },
+  "NFKYk5xVqNATcHw5cMZu": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T01:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T01:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Bethesda Flames",
+          "short": "BETH"
+        },
+        "statEntityID": "away",
+        "teamID": "BETHESDA_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Southern Utah Thunderbirds",
+          "medium": "Southern Utah",
+          "short": "SUU"
+        },
+        "statEntityID": "home",
+        "teamID": "SOUTHERN_UTAH_NCAAB"
       }
     }
   },
@@ -1837,6 +3094,53 @@
       }
     }
   },
+  "PI34B81cVG4YhwrHRJUN": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Lamar Cardinals",
+          "medium": "Lamar",
+          "short": "LAM"
+        },
+        "statEntityID": "away",
+        "teamID": "LAMAR_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Abilene Christian Wildcats",
+          "medium": "Abilene Christian",
+          "short": "AC"
+        },
+        "statEntityID": "home",
+        "teamID": "ABILENE_CHRISTIAN_NCAAB"
+      }
+    }
+  },
   "PRxbkr3v0FYrZoHvGMhd": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T00:00:00.000Z",
@@ -1881,6 +3185,106 @@
         },
         "statEntityID": "home",
         "teamID": "HIGH_POINT_NCAAB"
+      }
+    }
+  },
+  "Pgj8Io1zfxZ41ob7EPQ5": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "SIU Edwardsville Cougars",
+          "medium": "SIU Edwardsville",
+          "short": "SIUE"
+        },
+        "statEntityID": "away",
+        "teamID": "SIU_EDWARDSVILLE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Lipscomb",
+          "medium": "Lipscomb",
+          "short": "LIP"
+        },
+        "statEntityID": "home",
+        "teamID": "LIPSCOMB_NCAAB"
+      }
+    }
+  },
+  "PojrYl7u0a77UVcSdDFc": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Morehead St Eagles",
+          "medium": "Morehead St.",
+          "short": "MORE"
+        },
+        "statEntityID": "away",
+        "teamID": "MOREHEAD_STATE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#BD2031",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Louisville Cardinals",
+          "medium": "Louisville",
+          "short": "LOU"
+        },
+        "statEntityID": "home",
+        "teamID": "LOUISVILLE_NCAAB"
       }
     }
   },
@@ -1937,6 +3341,114 @@
       }
     }
   },
+  "Qt6zMmSH8e24YlFe1h47": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Sacramento State Hornets",
+          "medium": "Sacramento State",
+          "short": "SAC"
+        },
+        "statEntityID": "away",
+        "teamID": "SACRAMENTO_STATE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#BEC0C2",
+          "primaryContrast": "#000000",
+          "secondary": "#B20838",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Santa Clara Broncos",
+          "medium": "Santa Clara",
+          "short": "SCU"
+        },
+        "statEntityID": "home",
+        "teamID": "SANTA_CLARA_NCAAB"
+      }
+    }
+  },
+  "RsVWkOrKiWSfwIBmrv5A": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-07T21:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#4B116F",
+          "primaryContrast": "#FFCC00",
+          "secondary": "#FFCC00",
+          "secondaryContrast": "#4B116F"
+        },
+        "names": {
+          "long": "Northern Iowa Panthers",
+          "medium": "Northern Iowa",
+          "short": "UNI"
+        },
+        "statEntityID": "away",
+        "teamID": "NORTHERN_IOWA_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Furman Paladins",
+          "medium": "Furman",
+          "short": "FUR"
+        },
+        "statEntityID": "home",
+        "teamID": "FURMAN_NCAAB"
+      }
+    }
+  },
   "SJ3dyudHBviCPaptmaFM": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T23:00:00.000Z",
@@ -1987,6 +3499,153 @@
         },
         "statEntityID": "home",
         "teamID": "INDIANA_NCAAB"
+      }
+    }
+  },
+  "SYcyJLsZAxQ9hlBZJNXF": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T18:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T18:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Manhattan Jaspers",
+          "medium": "Manhattan",
+          "short": "MAN"
+        },
+        "statEntityID": "away",
+        "teamID": "MANHATTAN_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Maine Black Bears",
+          "medium": "Maine",
+          "short": "ME"
+        },
+        "statEntityID": "home",
+        "teamID": "MAINE_BLACK_BEARS_NCAAB"
+      }
+    }
+  },
+  "TjAkgmEpxtoiEjNtyfVC": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Northern Arizona",
+          "medium": "Northern Arizona",
+          "short": "NAU"
+        },
+        "statEntityID": "away",
+        "teamID": "NORTHERN_ARIZONA_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#000000",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#D31245",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "New Mexico Lobos",
+          "medium": "New Mexico",
+          "short": "UNM"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_MEXICO_NCAAB"
+      }
+    }
+  },
+  "TmG4syAMostM2yd6cWUr": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T17:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T17:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "North Dakota Fighting Sioux",
+          "medium": "North Dakota",
+          "short": "UND"
+        },
+        "statEntityID": "away",
+        "teamID": "NORTH_DAKOTA_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Winthrop",
+          "medium": "Winthrop",
+          "short": "WIN"
+        },
+        "statEntityID": "home",
+        "teamID": "WINTHROP_NCAAB"
       }
     }
   },
@@ -2096,6 +3755,112 @@
       }
     }
   },
+  "Vw3FHvvYQB0K7ujtEaYG": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#65190F",
+          "primaryContrast": "#F6D285",
+          "secondary": "#F6D285",
+          "secondaryContrast": "#65190F"
+        },
+        "names": {
+          "long": "St. Bonaventure Bonnies",
+          "medium": "St. Bonaventure",
+          "short": "SBON"
+        },
+        "statEntityID": "away",
+        "teamID": "ST_BONAVENTURE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0E2756",
+          "primaryContrast": "#FFBA00",
+          "secondary": "#FFBA00",
+          "secondaryContrast": "#0E2756"
+        },
+        "names": {
+          "long": "Canisius Golden Griffins",
+          "medium": "Canisius",
+          "short": "CAN"
+        },
+        "statEntityID": "home",
+        "teamID": "CANISIUS_NCAAB"
+      }
+    }
+  },
+  "WRRKLyQApV7Ele1R96dX": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Virginia Military Keydets",
+          "medium": "Virginia Military",
+          "short": "VMI"
+        },
+        "statEntityID": "away",
+        "teamID": "VMI_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Texas San Antonio Roadrunners",
+          "medium": "UTSA",
+          "short": "UTSA"
+        },
+        "statEntityID": "home",
+        "teamID": "UTSA_NCAAB"
+      }
+    }
+  },
   "WdVmrZzQDTPhziFLoZxp": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T03:00:00.000Z",
@@ -2144,6 +3909,118 @@
         },
         "statEntityID": "home",
         "teamID": "LOYOLA_MARYMOUNT_NCAAB"
+      }
+    }
+  },
+  "Wiqlhby9qRJ5gR0eoSvl": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#919192",
+          "primaryContrast": "#000000",
+          "secondary": "#000000",
+          "secondaryContrast": "#919192"
+        },
+        "names": {
+          "long": "Providence",
+          "medium": "Providence",
+          "short": "PROV"
+        },
+        "statEntityID": "away",
+        "teamID": "PROVIDENCE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#E11D38",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#E11D38"
+        },
+        "names": {
+          "long": "Nebraska Cornhuskers",
+          "medium": "Nebraska",
+          "short": "NEB"
+        },
+        "statEntityID": "home",
+        "teamID": "NEBRASKA_NCAAB"
+      }
+    }
+  },
+  "XbRMtAN3YSBZucHSHRQV": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Mercer Bears",
+          "medium": "Mercer",
+          "short": "MER"
+        },
+        "statEntityID": "away",
+        "teamID": "MERCER_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#000000",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#BF0C26",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Davidson Wildcats",
+          "medium": "Davidson",
+          "short": "DAV"
+        },
+        "statEntityID": "home",
+        "teamID": "DAVIDSON_NCAAB"
       }
     }
   },
@@ -2265,6 +4142,53 @@
       }
     }
   },
+  "YNYDGRG5JnwZgVjt2Ceu": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Oakland",
+          "medium": "Oakland",
+          "short": "OAK"
+        },
+        "statEntityID": "away",
+        "teamID": "OAKLAND_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "UC Santa Barbara",
+          "medium": "UC Santa Barbara",
+          "short": "UCSB"
+        },
+        "statEntityID": "home",
+        "teamID": "UC_SANTA_BARBARA_NCAAB"
+      }
+    }
+  },
   "YRcTkdx1eWIj1bn3agp8": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-06T00:30:00.000Z",
@@ -2309,6 +4233,306 @@
         },
         "statEntityID": "home",
         "teamID": "FORDHAM_NCAAB"
+      }
+    }
+  },
+  "YzJpiKO2xV7kOc3mZ1yy": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Bethune-Cookman",
+          "medium": "Bethune-Cookman",
+          "short": "COOK"
+        },
+        "statEntityID": "away",
+        "teamID": "BETHUNECOOKMAN_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Grand Canyon Antelopes",
+          "medium": "Gr. Canyon",
+          "short": "GC"
+        },
+        "statEntityID": "home",
+        "teamID": "GRAND_CANYON_NCAAB"
+      }
+    }
+  },
+  "ZOqcu5n06W2cdJbqcBnC": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Cal State Fullerton Titans",
+          "medium": "CS Fullerton",
+          "short": "CSF"
+        },
+        "statEntityID": "away",
+        "teamID": "CAL_STATE_FULLERTON_TITANS_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "South Dakota Coyotes",
+          "medium": "South Dakota",
+          "short": "SDAK"
+        },
+        "statEntityID": "home",
+        "teamID": "SOUTH_DAKOTA_COYOTES_NCAAB"
+      }
+    }
+  },
+  "ZPh97a12trdTi8nrsqJt": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Houston Baptist Huskies",
+          "medium": "Houston Baptist",
+          "short": "HCU"
+        },
+        "statEntityID": "away",
+        "teamID": "HOUSTON_CHRISTIAN_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Western Illinois Leathernecks",
+          "medium": "Western Illinois",
+          "short": "WIU"
+        },
+        "statEntityID": "home",
+        "teamID": "WESTERN_ILLINOIS_NCAAB"
+      }
+    }
+  },
+  "ZQSAjGfpdCzFminjgD2U": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#000000",
+          "primaryContrast": "#FFB300",
+          "secondary": "#FFB300",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "VCU Rams",
+          "medium": "VCU",
+          "short": "VCU"
+        },
+        "statEntityID": "away",
+        "teamID": "VCU_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0D3182",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#888C8F",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Memphis",
+          "medium": "Memphis",
+          "short": "MEM"
+        },
+        "statEntityID": "home",
+        "teamID": "MEMPHIS_NCAAB"
+      }
+    }
+  },
+  "ZpqerJ4l4KMi7HTO5TFq": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Denver",
+          "medium": "Denver",
+          "short": "DEN"
+        },
+        "statEntityID": "away",
+        "teamID": "DENVER_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "California Riverside Highlanders",
+          "medium": "UC Riverside",
+          "short": "UCRV"
+        },
+        "statEntityID": "home",
+        "teamID": "UC_RIVERSIDE_NCAAB"
+      }
+    }
+  },
+  "ZtOC1rkOI5cLYee77yIB": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T23:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T23:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#005541",
+          "primaryContrast": "#FFC92A",
+          "secondary": "#FFC92A",
+          "secondaryContrast": "#005541"
+        },
+        "names": {
+          "long": "North Dakota State Bison",
+          "medium": "North Dakota State",
+          "short": "NDSU"
+        },
+        "statEntityID": "away",
+        "teamID": "NORTH_DAKOTA_ST_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Cal State Bakersfield Roadrunners",
+          "medium": "CS Bakersfield",
+          "short": "CSB"
+        },
+        "statEntityID": "home",
+        "teamID": "CAL_STATE_BAKERSFIELD_NCAAB"
       }
     }
   },
@@ -2362,6 +4586,206 @@
         },
         "statEntityID": "home",
         "teamID": "SOUTH_DAKOTA_COYOTES_NCAAB"
+      }
+    }
+  },
+  "bVafKtkHlVNhTpvrK8pL": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Old Dominion Monarchs",
+          "medium": "Old Dominion",
+          "short": "ODU"
+        },
+        "statEntityID": "away",
+        "teamID": "OLD_DOMINION_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Bucknell Bison",
+          "medium": "Bucknell",
+          "short": "BUCK"
+        },
+        "statEntityID": "home",
+        "teamID": "BUCKNELL_NCAAB"
+      }
+    }
+  },
+  "bZTfXEuLsElF5FhqGL25": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Northern Illinois Huskies",
+          "medium": "Northern Illinois",
+          "short": "NIU"
+        },
+        "statEntityID": "away",
+        "teamID": "NORTHERN_ILLINOIS_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#FFFFFF",
+          "primaryContrast": "#CE1141",
+          "secondary": "#CE1141",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Dayton Flyers",
+          "medium": "Dayton",
+          "short": "DAY"
+        },
+        "statEntityID": "home",
+        "teamID": "DAYTON_NCAAB"
+      }
+    }
+  },
+  "bjouFslQkfAocANF8Rkg": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Northwestern St.",
+          "medium": "Northwestern St.",
+          "short": "NWST"
+        },
+        "statEntityID": "away",
+        "teamID": "NORTHWESTERN_STATE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#EDAF09",
+          "primaryContrast": "#002144",
+          "secondary": "#002144",
+          "secondaryContrast": "#EDAF09"
+        },
+        "names": {
+          "long": "Murray State Racers",
+          "medium": "Murray St.",
+          "short": "MURR"
+        },
+        "statEntityID": "home",
+        "teamID": "MURRAY_STATE_NCAAB"
+      }
+    }
+  },
+  "cCkrRFvdFCUgVLk4SY2D": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Bellarmine Knights",
+          "medium": "Bellarmine",
+          "short": "BELL"
+        },
+        "statEntityID": "away",
+        "teamID": "BELLARMINE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Miami (OH) RedHawks",
+          "medium": "Miami Ohio",
+          "short": "M-OH"
+        },
+        "statEntityID": "home",
+        "teamID": "MIAMI_OHIO_NCAAB"
       }
     }
   },
@@ -2930,6 +5354,65 @@
       }
     }
   },
+  "iRT5Edm6c83Mwki9zoLu": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T00:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T00:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CF102D",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFCD23",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Maryland",
+          "medium": "Maryland",
+          "short": "MD"
+        },
+        "statEntityID": "away",
+        "teamID": "MARYLAND_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#00205C",
+          "primaryContrast": "#C6BCB6",
+          "secondary": "#C6BCB6",
+          "secondaryContrast": "#00205C"
+        },
+        "names": {
+          "long": "Georgetown",
+          "medium": "Georgetown",
+          "short": "GTWN"
+        },
+        "statEntityID": "home",
+        "teamID": "GEORGETOWN_NCAAB"
+      }
+    }
+  },
   "ivsyQiIIPLyrS8fqbEn2": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-03T03:00:00.000Z",
@@ -3020,6 +5503,112 @@
         },
         "statEntityID": "home",
         "teamID": "QUINNIPIAC_NCAAB"
+      }
+    }
+  },
+  "jnj0G1WFUqy68mu0qSqs": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#003E7E",
+          "primaryContrast": "#FFD200",
+          "secondary": "#FFD200",
+          "secondaryContrast": "#003E7E"
+        },
+        "names": {
+          "long": "Toledo",
+          "medium": "Toledo",
+          "short": "TOL"
+        },
+        "statEntityID": "away",
+        "teamID": "TOLEDO_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Marshall Thundering Herd",
+          "medium": "Marshall",
+          "short": "MRSH"
+        },
+        "statEntityID": "home",
+        "teamID": "MARSHALL_NCAAB"
+      }
+    }
+  },
+  "lHRQDz8Mk9i0l0ytx2SI": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Samford Bulldogs",
+          "medium": "Samford",
+          "short": "SAM"
+        },
+        "statEntityID": "away",
+        "teamID": "SAMFORD_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#FFFFFF",
+          "primaryContrast": "#CF0A2C",
+          "secondary": "#CF0A2C",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "UNLV Runnin' Rebels",
+          "medium": "UNLV",
+          "short": "UNLV"
+        },
+        "statEntityID": "home",
+        "teamID": "UNLV_NCAAB"
       }
     }
   },
@@ -3123,6 +5712,65 @@
       }
     }
   },
+  "lYY2e2D2gMOdiliAts3Y": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T20:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T20:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#CFB87C",
+          "primaryContrast": "#000000",
+          "secondary": "#000000",
+          "secondaryContrast": "#CFB87C"
+        },
+        "names": {
+          "long": "Colorado",
+          "medium": "Colorado",
+          "short": "COLO"
+        },
+        "statEntityID": "away",
+        "teamID": "COLORADO_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#C41230",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#000000",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "San Diego State",
+          "medium": "San Diego St",
+          "short": "SDSU"
+        },
+        "statEntityID": "home",
+        "teamID": "SAN_DIEGO_STATE_NCAAB"
+      }
+    }
+  },
   "n9HPehgo1k4RjMolpISW": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-04T03:00:00.000Z",
@@ -3167,6 +5815,53 @@
         },
         "statEntityID": "home",
         "teamID": "CALIFORNIA_BAPTIST_NCAAB"
+      }
+    }
+  },
+  "nXXLa5uqYQawNubaDy36": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "North Carolina Central Eagles",
+          "medium": "NC Central",
+          "short": "NCCU"
+        },
+        "statEntityID": "away",
+        "teamID": "NC_CENTRAL_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Longwood Lancers",
+          "medium": "Longwood",
+          "short": "LONG"
+        },
+        "statEntityID": "home",
+        "teamID": "LONGWOOD_NCAAB"
       }
     }
   },
@@ -3220,6 +5915,65 @@
         },
         "statEntityID": "home",
         "teamID": "RHODE_ISLAND_NCAAB"
+      }
+    }
+  },
+  "pRRm0dsZmXfXqEPNdKQS": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-09T01:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-09T01:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#C92A39",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FFFFFF",
+          "secondaryContrast": "#C92A39"
+        },
+        "names": {
+          "long": "Houston Cougars",
+          "medium": "Houston",
+          "short": "HOU"
+        },
+        "statEntityID": "away",
+        "teamID": "HOUSTON_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#003262",
+          "primaryContrast": "#F8C655",
+          "secondary": "#F8C655",
+          "secondaryContrast": "#003262"
+        },
+        "names": {
+          "long": "California Golden Bears",
+          "medium": "California",
+          "short": "CAL"
+        },
+        "statEntityID": "home",
+        "teamID": "CALIFORNIA_NCAAB"
       }
     }
   },
@@ -3435,6 +6189,106 @@
       }
     }
   },
+  "rMyOQqgMnrCaNVj3utoh": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T20:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T20:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "LIU Sharks",
+          "medium": "LIU",
+          "short": "LIU"
+        },
+        "statEntityID": "away",
+        "teamID": "LIU_SHARKS_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "La Salle",
+          "medium": "La Salle",
+          "short": "LAS"
+        },
+        "statEntityID": "home",
+        "teamID": "LA_SALLE_NCAAB"
+      }
+    }
+  },
+  "rQgMfpGIioXKOSWccHHX": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Nebraska-Omaha Mavericks",
+          "medium": "Nebraska-Omaha",
+          "short": "NEOM"
+        },
+        "statEntityID": "away",
+        "teamID": "OMAHA_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0F2439",
+          "primaryContrast": "#9D968D",
+          "secondary": "#9D968D",
+          "secondaryContrast": "#0F2439"
+        },
+        "names": {
+          "long": "Utah State Aggies",
+          "medium": "Utah State",
+          "short": "USU"
+        },
+        "statEntityID": "home",
+        "teamID": "UTAH_STATE_NCAAB"
+      }
+    }
+  },
   "rcMlK8rrL5VHX8Q4sMDn": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T03:00:00.000Z",
@@ -3494,6 +6348,165 @@
       }
     }
   },
+  "s86VXMktfrJDgtvWz2O3": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Evansville Purple Aces",
+          "medium": "Evansville",
+          "short": "EVAN"
+        },
+        "statEntityID": "away",
+        "teamID": "EVANSVILLE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Southern Indiana Screaming Eagles",
+          "medium": "USI",
+          "short": "SIND"
+        },
+        "statEntityID": "home",
+        "teamID": "SOUTHERN_INDIANA_NCAAB"
+      }
+    }
+  },
+  "stpo0UIbSINKvx8stY37": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "San Jose State",
+          "medium": "San Jose",
+          "short": "SJSU"
+        },
+        "statEntityID": "away",
+        "teamID": "SAN_JOSE_STATE_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0C2340",
+          "primaryContrast": "#DFB22F",
+          "secondary": "#DFB22F",
+          "secondaryContrast": "#0C2340"
+        },
+        "names": {
+          "long": "UC Irvine Anteaters",
+          "medium": "UC Irvine",
+          "short": "UCI"
+        },
+        "statEntityID": "home",
+        "teamID": "UC_IRVINE_NCAAB"
+      }
+    }
+  },
+  "t17uAc6l5sFMP7SqL8lx": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T22:30:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T22:30:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#4F2582",
+          "primaryContrast": "#FEC325",
+          "secondary": "#FEC325",
+          "secondaryContrast": "#4F2582"
+        },
+        "names": {
+          "long": "Prairie View A&M Panthers",
+          "medium": "Prairie View A&M",
+          "short": "PV"
+        },
+        "statEntityID": "away",
+        "teamID": "PRAIRIE_VIEW_AM_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#F05023",
+          "primaryContrast": "#00246B",
+          "secondary": "#00246B",
+          "secondaryContrast": "#F05023"
+        },
+        "names": {
+          "long": "Texas Rio Grande Valley Vaqueros",
+          "medium": "UTRGV",
+          "short": "GVA"
+        },
+        "statEntityID": "home",
+        "teamID": "TEXAS_RIO_GRANDE_VALLEY_NCAAB"
+      }
+    }
+  },
   "tjARIzr64p26igHg9sU6": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-06T00:00:00.000Z",
@@ -3547,6 +6560,53 @@
       }
     }
   },
+  "uHJHjU5OlcFcndjSdN3M": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Idaho State",
+          "medium": "Idaho State",
+          "short": "IDST"
+        },
+        "statEntityID": "away",
+        "teamID": "IDAHO_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Air Force Falcons",
+          "medium": "Air Force",
+          "short": "AFA"
+        },
+        "statEntityID": "home",
+        "teamID": "AIR_FORCE_NCAAB"
+      }
+    }
+  },
   "ubgJofpJQHLnt9TudPtG": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T00:00:00.000Z",
@@ -3597,6 +6657,100 @@
         },
         "statEntityID": "home",
         "teamID": "BUTLER_NCAAB"
+      }
+    }
+  },
+  "udI7fiNTuM21AVUVAYCh": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T20:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T20:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Long Beach State",
+          "medium": "Long Beach",
+          "short": "LBSU"
+        },
+        "statEntityID": "away",
+        "teamID": "LONG_BEACH_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Montana State",
+          "medium": "Montana St.",
+          "short": "MTST"
+        },
+        "statEntityID": "home",
+        "teamID": "MONTANA_STATE_NCAAB"
+      }
+    }
+  },
+  "uz4pqYmoTBwFygji4ns3": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Fresno State",
+          "medium": "Fresno St.",
+          "short": "FRES"
+        },
+        "statEntityID": "away",
+        "teamID": "FRESNO_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "California San Diego Tritons",
+          "medium": "UC San Diego",
+          "short": "UCSD"
+        },
+        "statEntityID": "home",
+        "teamID": "UC_SAN_DIEGO_NCAAB"
       }
     }
   },
@@ -3695,6 +6849,59 @@
       }
     }
   },
+  "vtLfzcAiSGN0iPpg4bfa": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T03:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T03:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#FFFFFF",
+          "primaryContrast": "#164431",
+          "secondary": "#164431",
+          "secondaryContrast": "#FFFFFF"
+        },
+        "names": {
+          "long": "Portland State Vikings",
+          "medium": "Portland State",
+          "short": "PRST"
+        },
+        "statEntityID": "away",
+        "teamID": "PORTLAND_STATE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Seattle Redhawks",
+          "medium": "Seattle",
+          "short": "SEA"
+        },
+        "statEntityID": "home",
+        "teamID": "SEATTLE_NCAAB"
+      }
+    }
+  },
   "w8aldhIB8LShw4g4Wmrn": {
     "league_id": "NCAAB",
     "starts_at": "2026-11-05T22:00:00.000Z",
@@ -3739,6 +6946,65 @@
         },
         "statEntityID": "home",
         "teamID": "NORTH_TEXAS_NCAAB"
+      }
+    }
+  },
+  "yRUold9eAXxIUdo3nBMy": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-08T19:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-08T19:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#14294B",
+          "primaryContrast": "#A3ABB9",
+          "secondary": "#A3ABB9",
+          "secondaryContrast": "#14294B"
+        },
+        "names": {
+          "long": "Butler",
+          "medium": "Butler",
+          "short": "BUT"
+        },
+        "statEntityID": "away",
+        "teamID": "BUTLER_NCAAB"
+      },
+      "home": {
+        "colors": {
+          "primary": "#243976",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#FA4616",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "long": "Boise State Broncos",
+          "medium": "Boise State",
+          "short": "BSU"
+        },
+        "statEntityID": "home",
+        "teamID": "BOISE_STATE_NCAAB"
       }
     }
   },
@@ -3792,6 +7058,53 @@
         },
         "statEntityID": "home",
         "teamID": "VIRGINIA_TECH_NCAAB"
+      }
+    }
+  },
+  "z4bhxjqCJaEV5dgdfXbw": {
+    "league_id": "NCAAB",
+    "starts_at": "2026-11-07T21:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-07T21:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Lafayette College Leopards",
+          "medium": "Lafayette",
+          "short": "LAF"
+        },
+        "statEntityID": "away",
+        "teamID": "LAFAYETTE_NCAAB"
+      },
+      "home": {
+        "names": {
+          "long": "Saint Josephs Hawks",
+          "medium": "St. Joseph's",
+          "short": "JOES"
+        },
+        "statEntityID": "home",
+        "teamID": "SAINT_JOSEPHS_NCAAB"
       }
     }
   }
