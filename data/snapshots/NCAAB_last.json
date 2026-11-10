@@ -3,7 +3,7 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -165.0
+        "price": -170.0
       },
       "bovada": {
         "line": null,
@@ -11,7 +11,7 @@
       },
       "caesars": {
         "line": null,
-        "price": -165.0
+        "price": -160.0
       },
       "draftkings": {
         "line": null,
@@ -31,7 +31,7 @@
       },
       "unibet": {
         "line": null,
-        "price": -161.0
+        "price": -159.0
       }
     },
     "ou": {
@@ -56,7 +56,7 @@
         "price": -110.0
       },
       "fanduel": {
-        "line": 152.5,
+        "line": 151.5,
         "price": -115.0
       },
       "pointsbet": {
@@ -71,7 +71,7 @@
       },
       "bovada": {
         "line": -3.5,
-        "price": -110.0
+        "price": -105.0
       },
       "caesars": {
         "line": -3.0,
@@ -95,7 +95,7 @@
       },
       "unibet": {
         "line": -2.5,
-        "price": -122.0
+        "price": -118.0
       }
     }
   },
@@ -111,8 +111,34 @@
   },
   "1LDaL9o7MeOJBBYDiqAV": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "caesars": {
+        "line": 153.5,
+        "price": -115.0
+      },
+      "draftkings": {
+        "line": 153.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 154.5,
+        "price": -105.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -18.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -18.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": -18.5,
+        "price": -110.0
+      }
+    }
   },
   "1Mlte0Ics3KBsJwn7d0f": {
     "ml": {
@@ -222,31 +248,31 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -180.0
+        "price": -185.0
       },
       "bovada": {
         "line": null,
-        "price": -175.0
+        "price": -185.0
       },
       "caesars": {
         "line": null,
-        "price": -175.0
+        "price": -180.0
       },
       "draftkings": {
         "line": null,
-        "price": -162.0
+        "price": -185.0
       },
       "espnbet": {
         "line": null,
-        "price": -165.0
+        "price": -190.0
       },
       "fanduel": {
         "line": null,
-        "price": -184.0
+        "price": -172.0
       },
       "pointsbet": {
         "line": null,
-        "price": -169.0
+        "price": -179.0
       },
       "unibet": {
         "line": null,
@@ -256,7 +282,7 @@
     "ou": {
       "betmgm": {
         "line": 155.5,
-        "price": -115.0
+        "price": -110.0
       },
       "bovada": {
         "line": 155.5,
@@ -285,31 +311,31 @@
     },
     "sp": {
       "betmgm": {
-        "line": -3.5,
-        "price": -118.0
+        "line": -4.5,
+        "price": -105.0
       },
       "bovada": {
-        "line": -3.5,
-        "price": -115.0
+        "line": -4.0,
+        "price": -110.0
       },
       "caesars": {
         "line": -4.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": -3.5,
-        "price": -115.0
-      },
-      "espnbet": {
-        "line": -3.5,
-        "price": -110.0
-      },
-      "fanduel": {
         "line": -4.5,
         "price": -105.0
       },
-      "pointsbet": {
+      "espnbet": {
+        "line": -4.5,
+        "price": 100.0
+      },
+      "fanduel": {
         "line": -3.5,
+        "price": -114.0
+      },
+      "pointsbet": {
+        "line": -4.0,
         "price": -111.0
       },
       "unibet": {
@@ -404,35 +430,35 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -200.0
+        "price": -185.0
       },
       "bovada": {
         "line": null,
-        "price": -185.0
+        "price": -180.0
       },
       "caesars": {
         "line": null,
-        "price": -195.0
+        "price": -180.0
       },
       "draftkings": {
         "line": null,
-        "price": -198.0
+        "price": -185.0
       },
       "espnbet": {
         "line": null,
-        "price": -190.0
+        "price": -175.0
       },
       "fanduel": {
         "line": null,
-        "price": -194.0
+        "price": -176.0
       },
       "pointsbet": {
         "line": null,
-        "price": -200.0
+        "price": -179.0
       },
       "unibet": {
         "line": null,
-        "price": -200.0
+        "price": -192.0
       }
     },
     "ou": {
@@ -445,7 +471,7 @@
         "price": -110.0
       },
       "caesars": {
-        "line": 140.5,
+        "line": 140.0,
         "price": -110.0
       },
       "draftkings": {
@@ -453,8 +479,8 @@
         "price": -105.0
       },
       "espnbet": {
-        "line": 139.5,
-        "price": -115.0
+        "line": 140.5,
+        "price": 100.0
       },
       "fanduel": {
         "line": 140.5,
@@ -468,35 +494,35 @@
     "sp": {
       "betmgm": {
         "line": -4.5,
-        "price": -105.0
+        "price": -102.0
       },
       "bovada": {
         "line": -4.0,
-        "price": -115.0
+        "price": -110.0
       },
       "caesars": {
         "line": -4.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": -4.5,
-        "price": -105.0
+        "line": -3.5,
+        "price": -118.0
       },
       "espnbet": {
-        "line": -4.5,
-        "price": 100.0
+        "line": -3.5,
+        "price": -115.0
       },
       "fanduel": {
-        "line": -4.5,
-        "price": -110.0
+        "line": -3.5,
+        "price": -120.0
       },
       "pointsbet": {
-        "line": -4.5,
+        "line": -4.0,
         "price": -111.0
       },
       "unibet": {
         "line": -3.5,
-        "price": -120.0
+        "price": -122.0
       }
     }
   },
@@ -684,11 +710,11 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -2500.0
+        "price": -3000.0
       },
       "bovada": {
         "line": null,
-        "price": -10000.0
+        "price": -6500.0
       },
       "caesars": {
         "line": null,
@@ -712,7 +738,7 @@
       },
       "unibet": {
         "line": null,
-        "price": -10000.0
+        "price": -5000.0
       },
       "williamhill": {
         "line": null,
@@ -721,38 +747,38 @@
     },
     "ou": {
       "betmgm": {
-        "line": 157.5,
-        "price": -105.0
+        "line": 158.5,
+        "price": -110.0
       },
       "bovada": {
-        "line": 156.5,
+        "line": 158.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 157.5,
+        "line": 158.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 157.5,
-        "price": -105.0
+        "line": 158.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": 157.5,
-        "price": -105.0
+        "line": 158.5,
+        "price": -110.0
       },
       "fanduel": {
         "line": 157.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 157.5,
+        "line": 158.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -18.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
         "line": -18.5,
@@ -764,7 +790,7 @@
       },
       "draftkings": {
         "line": -18.5,
-        "price": -110.0
+        "price": -112.0
       },
       "espnbet": {
         "line": -18.5,
@@ -780,7 +806,7 @@
       },
       "unibet": {
         "line": -18.5,
-        "price": -112.0
+        "price": -118.0
       }
     }
   },
@@ -838,9 +864,56 @@
     }
   },
   "3H2vEYP0zLLQIVkDAiy0": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "caesars": {
+        "line": null,
+        "price": -180.0
+      },
+      "draftkings": {
+        "line": null,
+        "price": -185.0
+      },
+      "fanduel": {
+        "line": null,
+        "price": -184.0
+      }
+    },
+    "ou": {
+      "caesars": {
+        "line": 153.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 152.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 152.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 153.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -4.0,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -4.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": -4.5,
+        "price": -105.0
+      },
+      "fanduel": {
+        "line": -4.5,
+        "price": -105.0
+      }
+    }
   },
   "3dMxl52g4Dnma3cyfeYy": {
     "ml": {
@@ -1332,42 +1405,46 @@
   },
   "7Aw1bA2exLJ5vXOgUdOg": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "fanduel": {
         "line": null,
         "price": -100000.0
       },
       "williamhill": {
         "line": null,
-        "price": -100000.0
+        "price": -200000.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 157.5,
-        "price": -105.0
+        "line": 155.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": 157.0,
-        "price": -110.0
+        "line": 155.5,
+        "price": -115.0
       },
       "caesars": {
-        "line": 157.0,
+        "line": 155.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 157.5,
-        "price": -105.0
+        "line": 155.5,
+        "price": -112.0
       },
       "espnbet": {
-        "line": 157.5,
-        "price": -105.0
+        "line": 155.5,
+        "price": -110.0
       },
       "fanduel": {
-        "line": 156.5,
+        "line": 155.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 157.0,
+        "line": 156.0,
         "price": -111.0
       }
     },
@@ -1378,10 +1455,10 @@
       },
       "bovada": {
         "line": -35.5,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
-        "line": -35.0,
+        "line": -35.5,
         "price": -110.0
       },
       "draftkings": {
@@ -1401,8 +1478,8 @@
         "price": -111.0
       },
       "unibet": {
-        "line": -34.5,
-        "price": -114.0
+        "line": -35.5,
+        "price": -111.0
       }
     }
   },
@@ -1550,41 +1627,41 @@
     "ou": {
       "betmgm": {
         "line": 147.5,
-        "price": -110.0
+        "price": -105.0
       },
       "bovada": {
-        "line": 148.0,
-        "price": -110.0
+        "line": 147.5,
+        "price": -105.0
       },
       "caesars": {
-        "line": 148.0,
+        "line": 146.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 147.5,
-        "price": -112.0
+        "line": 146.5,
+        "price": -115.0
       },
       "espnbet": {
-        "line": 147.5,
-        "price": -110.0
+        "line": 146.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": 146.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 148.0,
+        "line": 147.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -26.5,
-        "price": -110.0
+        "price": -105.0
       },
       "bovada": {
-        "line": -26.5,
-        "price": -105.0
+        "line": -26.0,
+        "price": -110.0
       },
       "caesars": {
         "line": -26.0,
@@ -1608,7 +1685,7 @@
       },
       "unibet": {
         "line": -25.5,
-        "price": -120.0
+        "price": -115.0
       }
     }
   },
@@ -1616,64 +1693,64 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -450.0
+        "price": -425.0
       },
       "bovada": {
         "line": null,
-        "price": -430.0
+        "price": -415.0
       },
       "caesars": {
         "line": null,
-        "price": -455.0
+        "price": -420.0
       },
       "draftkings": {
         "line": null,
-        "price": -440.0
+        "price": -410.0
       },
       "espnbet": {
         "line": null,
-        "price": -450.0
+        "price": -425.0
       },
       "fanduel": {
         "line": null,
-        "price": -490.0
+        "price": -465.0
       },
       "pointsbet": {
         "line": null,
-        "price": -455.0
+        "price": -417.0
       },
       "unibet": {
         "line": null,
-        "price": -526.0
+        "price": -417.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 152.5,
-        "price": -115.0
+        "line": 153.5,
+        "price": -105.0
       },
       "bovada": {
         "line": 153.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 152.5,
+        "line": 153.0,
         "price": -110.0
       },
       "draftkings": {
         "line": 153.5,
-        "price": -105.0
+        "price": -110.0
       },
       "espnbet": {
         "line": 153.5,
-        "price": -105.0
+        "price": -110.0
       },
       "fanduel": {
         "line": 152.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 153.0,
+        "line": 153.5,
         "price": -111.0
       }
     },
@@ -1683,32 +1760,32 @@
         "price": -105.0
       },
       "bovada": {
-        "line": -9.5,
-        "price": -105.0
+        "line": -9.0,
+        "price": -110.0
       },
       "caesars": {
-        "line": -9.5,
+        "line": -9.0,
         "price": -110.0
       },
       "draftkings": {
         "line": -9.5,
-        "price": -110.0
+        "price": -102.0
       },
       "espnbet": {
-        "line": -9.5,
-        "price": -110.0
+        "line": -8.5,
+        "price": -120.0
       },
       "fanduel": {
         "line": -9.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": -9.5,
+        "line": -9.0,
         "price": -111.0
       },
       "unibet": {
-        "line": -9.5,
-        "price": -118.0
+        "line": -8.5,
+        "price": -115.0
       }
     }
   },
@@ -1970,9 +2047,48 @@
     }
   },
   "8OI27IqeZ8MIkHCuWE5w": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": 102.0
+      },
+      "fanduel": {
+        "line": null,
+        "price": -105.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 145.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 144.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": 144.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": 1.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 1.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 1.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 1.5,
+        "price": -115.0
+      }
+    }
   },
   "8RPjfUsCTykb4N7nfZcK": {
     "ml": {
@@ -2007,28 +2123,28 @@
     },
     "ou": {
       "betmgm": {
-        "line": 165.5,
-        "price": -110.0
+        "line": 166.5,
+        "price": -105.0
       },
       "bovada": {
-        "line": 165.5,
+        "line": 166.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 165.5,
+        "line": 166.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 165.5,
-        "price": -115.0
+        "line": 166.5,
+        "price": -108.0
       },
       "espnbet": {
         "line": 165.5,
-        "price": -110.0
+        "price": -120.0
       },
       "fanduel": {
-        "line": 164.5,
-        "price": -110.0
+        "line": 165.5,
+        "price": -115.0
       },
       "pointsbet": {
         "line": 165.5,
@@ -2037,23 +2153,23 @@
     },
     "sp": {
       "betmgm": {
-        "line": -30.5,
-        "price": -110.0
+        "line": -31.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": -30.0,
-        "price": -110.0
+        "line": -31.0,
+        "price": -115.0
       },
       "caesars": {
-        "line": -30.5,
+        "line": -31.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": -30.5,
+        "line": -31.5,
         "price": -108.0
       },
       "espnbet": {
-        "line": -30.5,
+        "line": -31.5,
         "price": -105.0
       },
       "fanduel": {
@@ -2061,12 +2177,12 @@
         "price": -120.0
       },
       "pointsbet": {
-        "line": -30.5,
+        "line": -31.5,
         "price": -111.0
       },
       "unibet": {
-        "line": -29.5,
-        "price": -118.0
+        "line": -31.5,
+        "price": -106.0
       }
     }
   },
@@ -2399,24 +2515,24 @@
     },
     "ou": {
       "betmgm": {
-        "line": 140.5,
-        "price": -105.0
+        "line": 139.5,
+        "price": -115.0
       },
       "bovada": {
         "line": 140.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 140.5,
+        "line": 139.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 140.5,
-        "price": -108.0
+        "line": 139.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 140.5,
-        "price": -110.0
+        "line": 139.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": 140.5,
@@ -2433,20 +2549,20 @@
         "price": -110.0
       },
       "bovada": {
-        "line": -20.0,
-        "price": -115.0
+        "line": -20.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": -19.5,
+        "line": -20.0,
         "price": -110.0
       },
       "draftkings": {
         "line": -20.5,
-        "price": -105.0
+        "price": -108.0
       },
       "espnbet": {
         "line": -20.5,
-        "price": -105.0
+        "price": -110.0
       },
       "fanduel": {
         "line": -20.5,
@@ -2458,14 +2574,37 @@
       },
       "unibet": {
         "line": -20.5,
-        "price": -116.0
+        "price": -114.0
       }
     }
   },
   "BGc3WZYwhV3dqK5O0UDV": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": -115.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 159.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 159.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -1.5,
+        "price": 102.0
+      },
+      "espnbet": {
+        "line": -1.5,
+        "price": 100.0
+      }
+    }
   },
   "BJSq6wnx7L91294E7rR8": {
     "ml": {},
@@ -2473,9 +2612,32 @@
     "sp": {}
   },
   "BKYvmV2fWcdIXbqJrpEf": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": 120.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 142.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 142.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": 2.5,
+        "price": -118.0
+      },
+      "espnbet": {
+        "line": 2.5,
+        "price": -120.0
+      }
+    }
   },
   "BZreNQ8xdba7MYQRMEkQ": {
     "ml": {
@@ -2485,7 +2647,7 @@
       },
       "bovada": {
         "line": null,
-        "price": -1200.0
+        "price": -1300.0
       },
       "caesars": {
         "line": null,
@@ -2501,7 +2663,7 @@
       },
       "fanduel": {
         "line": null,
-        "price": -1300.0
+        "price": -1250.0
       },
       "pointsbet": {
         "line": null,
@@ -2518,31 +2680,31 @@
     },
     "ou": {
       "betmgm": {
-        "line": 148.5,
-        "price": -105.0
-      },
-      "bovada": {
-        "line": 147.5,
+        "line": 146.5,
         "price": -115.0
       },
+      "bovada": {
+        "line": 146.5,
+        "price": -110.0
+      },
       "caesars": {
-        "line": 148.0,
+        "line": 147.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 148.5,
-        "price": -110.0
+        "line": 147.5,
+        "price": -112.0
       },
       "espnbet": {
-        "line": 148.5,
+        "line": 147.5,
         "price": -110.0
       },
       "fanduel": {
-        "line": 148.5,
+        "line": 147.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 148.5,
+        "line": 147.5,
         "price": -111.0
       }
     },
@@ -2553,7 +2715,7 @@
       },
       "bovada": {
         "line": -13.5,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
         "line": -13.5,
@@ -2561,7 +2723,7 @@
       },
       "draftkings": {
         "line": -13.5,
-        "price": -108.0
+        "price": -112.0
       },
       "espnbet": {
         "line": -13.5,
@@ -2572,7 +2734,7 @@
         "price": -110.0
       },
       "pointsbet": {
-        "line": -14.0,
+        "line": -13.5,
         "price": -111.0
       },
       "unibet": {
@@ -2585,11 +2747,11 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -165.0
+        "price": -170.0
       },
       "bovada": {
         "line": null,
-        "price": -160.0
+        "price": -165.0
       },
       "caesars": {
         "line": null,
@@ -2597,52 +2759,52 @@
       },
       "draftkings": {
         "line": null,
-        "price": -162.0
+        "price": -166.0
       },
       "espnbet": {
         "line": null,
-        "price": -155.0
+        "price": -165.0
       },
       "fanduel": {
         "line": null,
-        "price": -162.0
+        "price": -178.0
       },
       "pointsbet": {
         "line": null,
-        "price": -159.0
+        "price": -169.0
       },
       "unibet": {
         "line": null,
-        "price": -172.0
+        "price": -167.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -105.0
       },
       "bovada": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -108.0
       },
       "espnbet": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -110.0
       },
       "fanduel": {
-        "line": 143.5,
+        "line": 144.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -111.0
       }
     },
@@ -2669,7 +2831,7 @@
       },
       "fanduel": {
         "line": -3.5,
-        "price": -105.0
+        "price": -115.0
       },
       "pointsbet": {
         "line": -3.5,
@@ -3063,6 +3225,10 @@
   },
   "EIiE9FgLgzEJKzHx1op6": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "draftkings": {
         "line": null,
         "price": -20000.0
@@ -3079,10 +3245,10 @@
       },
       "bovada": {
         "line": 182.0,
-        "price": -110.0
+        "price": -115.0
       },
       "caesars": {
-        "line": 181.5,
+        "line": 182.0,
         "price": -110.0
       },
       "draftkings": {
@@ -3100,24 +3266,24 @@
     },
     "sp": {
       "betmgm": {
-        "line": -29.5,
-        "price": -105.0
+        "line": -28.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": -29.0,
-        "price": -105.0
+        "line": -28.5,
+        "price": -115.0
       },
       "caesars": {
-        "line": -29.0,
+        "line": -28.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": -29.5,
-        "price": -102.0
+        "line": -28.5,
+        "price": -112.0
       },
       "espnbet": {
         "line": -28.5,
-        "price": -120.0
+        "price": -105.0
       },
       "fanduel": {
         "line": -28.5,
@@ -3159,99 +3325,99 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -1100.0
+        "price": -1200.0
       },
       "bovada": {
         "line": null,
-        "price": -1000.0
+        "price": -1100.0
       },
       "caesars": {
         "line": null,
-        "price": -1000.0
+        "price": -1100.0
       },
       "draftkings": {
         "line": null,
-        "price": -1100.0
+        "price": -1200.0
       },
       "espnbet": {
         "line": null,
-        "price": -1600.0
+        "price": -1800.0
       },
       "fanduel": {
         "line": null,
-        "price": -1200.0
+        "price": -1400.0
       },
       "pointsbet": {
         "line": null,
-        "price": -1000.0
+        "price": -1111.0
       },
       "unibet": {
         "line": null,
-        "price": -1000.0
+        "price": -1111.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 159.5,
-        "price": -105.0
+        "line": 158.5,
+        "price": -110.0
       },
       "bovada": {
         "line": 158.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 159.0,
+        "line": 158.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 159.5,
-        "price": -108.0
+        "line": 158.5,
+        "price": -112.0
       },
       "espnbet": {
-        "line": 159.5,
+        "line": 158.5,
         "price": -110.0
       },
       "fanduel": {
-        "line": 159.5,
-        "price": -110.0
+        "line": 158.5,
+        "price": -115.0
       },
       "pointsbet": {
-        "line": 159.0,
+        "line": 158.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -13.5,
-        "price": -105.0
+        "line": -14.5,
+        "price": -102.0
       },
       "bovada": {
-        "line": -13.5,
-        "price": -105.0
+        "line": -14.0,
+        "price": -110.0
       },
       "caesars": {
-        "line": -13.5,
+        "line": -14.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": -13.5,
+        "line": -14.5,
         "price": -105.0
       },
       "espnbet": {
-        "line": -13.5,
+        "line": -14.5,
         "price": -105.0
       },
       "fanduel": {
-        "line": -12.5,
+        "line": -13.5,
         "price": -120.0
       },
       "pointsbet": {
-        "line": -13.0,
+        "line": -14.0,
         "price": -111.0
       },
       "unibet": {
         "line": -13.5,
-        "price": -112.0
+        "price": -115.0
       }
     }
   },
@@ -3259,11 +3425,11 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -600.0
+        "price": -550.0
       },
       "bovada": {
         "line": null,
-        "price": -585.0
+        "price": -550.0
       },
       "caesars": {
         "line": null,
@@ -3279,7 +3445,7 @@
       },
       "fanduel": {
         "line": null,
-        "price": -670.0
+        "price": -610.0
       },
       "pointsbet": {
         "line": null,
@@ -3292,42 +3458,42 @@
     },
     "ou": {
       "betmgm": {
-        "line": 170.5,
-        "price": -105.0
+        "line": 169.5,
+        "price": -115.0
       },
       "bovada": {
         "line": 169.5,
-        "price": -110.0
+        "price": -115.0
       },
       "caesars": {
-        "line": 170.5,
+        "line": 170.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 170.5,
-        "price": -110.0
+        "line": 169.5,
+        "price": -115.0
       },
       "espnbet": {
-        "line": 170.5,
-        "price": -110.0
+        "line": 169.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": 170.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 170.5,
+        "line": 169.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -10.5,
-        "price": -110.0
+        "price": -105.0
       },
       "bovada": {
-        "line": -10.5,
-        "price": -105.0
+        "line": -10.0,
+        "price": -110.0
       },
       "caesars": {
         "line": -10.5,
@@ -3335,36 +3501,54 @@
       },
       "draftkings": {
         "line": -10.5,
-        "price": -108.0
+        "price": -102.0
       },
       "espnbet": {
-        "line": -10.5,
-        "price": 100.0
+        "line": -9.5,
+        "price": -125.0
       },
       "fanduel": {
         "line": -10.5,
-        "price": -115.0
+        "price": -106.0
       },
       "pointsbet": {
-        "line": -10.5,
+        "line": -10.0,
         "price": -111.0
       },
       "unibet": {
         "line": -10.5,
-        "price": -109.0
+        "price": -111.0
       }
     }
   },
   "EwK45I71OFtrfUXeJXnE": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "draftkings": {
+        "line": 150.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 150.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -15.5,
+        "price": -102.0
+      },
+      "espnbet": {
+        "line": -14.5,
+        "price": -115.0
+      }
+    }
   },
   "FFIu19XYkFYng3jXaeGC": {
     "ml": {
       "betmgm": {
         "line": null,
-        "price": 280.0
+        "price": 260.0
       },
       "bovada": {
         "line": null,
@@ -3372,7 +3556,7 @@
       },
       "caesars": {
         "line": null,
-        "price": 275.0
+        "price": 270.0
       },
       "draftkings": {
         "line": null,
@@ -3380,11 +3564,11 @@
       },
       "espnbet": {
         "line": null,
-        "price": 270.0
+        "price": 280.0
       },
       "fanduel": {
         "line": null,
-        "price": 275.0
+        "price": 280.0
       },
       "pointsbet": {
         "line": null,
@@ -3401,42 +3585,42 @@
     },
     "ou": {
       "betmgm": {
-        "line": 146.5,
+        "line": 147.5,
         "price": -105.0
       },
       "bovada": {
-        "line": 145.5,
-        "price": -110.0
+        "line": 146.5,
+        "price": -115.0
       },
       "caesars": {
-        "line": 145.5,
+        "line": 147.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 145.5,
-        "price": -112.0
+        "line": 147.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 145.5,
+        "line": 146.5,
         "price": -110.0
       },
       "fanduel": {
-        "line": 145.5,
-        "price": -115.0
+        "line": 147.5,
+        "price": -110.0
       },
       "pointsbet": {
-        "line": 146.0,
+        "line": 147.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": 7.5,
-        "price": -105.0
+        "price": -110.0
       },
       "bovada": {
         "line": 7.5,
-        "price": -110.0
+        "price": -115.0
       },
       "caesars": {
         "line": 8.0,
@@ -3444,7 +3628,7 @@
       },
       "draftkings": {
         "line": 7.5,
-        "price": -105.0
+        "price": -108.0
       },
       "espnbet": {
         "line": 7.5,
@@ -3455,12 +3639,12 @@
         "price": -105.0
       },
       "pointsbet": {
-        "line": 8.0,
+        "line": 7.5,
         "price": -111.0
       },
       "unibet": {
         "line": 7.5,
-        "price": -114.0
+        "price": -112.0
       }
     }
   },
@@ -3857,8 +4041,30 @@
   },
   "HEfBeuAvBuDxQmVjwZri": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "draftkings": {
+        "line": 151.5,
+        "price": -108.0
+      },
+      "espnbet": {
+        "line": 151.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -34.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -34.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": -34.5,
+        "price": -105.0
+      }
+    }
   },
   "HGog1nev2j9DvXK33A6p": {
     "ml": {
@@ -4239,9 +4445,40 @@
     }
   },
   "IsoCznC9m1Fsi7Bq4jzu": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": -10000.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 129.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 129.5,
+        "price": -105.0
+      },
+      "fanduel": {
+        "line": 129.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -21.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": -21.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": -22.5,
+        "price": -110.0
+      }
+    }
   },
   "Iubj6TylVfltW1WbmZby": {
     "ml": {},
@@ -4312,6 +4549,10 @@
   },
   "K36FK3OToF2or2TLwXr2": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "fanduel": {
         "line": null,
         "price": -100000.0
@@ -4320,7 +4561,7 @@
     "ou": {
       "betmgm": {
         "line": 151.5,
-        "price": -110.0
+        "price": -105.0
       },
       "bovada": {
         "line": 151.5,
@@ -4332,11 +4573,11 @@
       },
       "draftkings": {
         "line": 151.5,
-        "price": -112.0
+        "price": -105.0
       },
       "espnbet": {
-        "line": 151.5,
-        "price": -110.0
+        "line": 150.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": 151.5,
@@ -4357,16 +4598,16 @@
         "price": -110.0
       },
       "caesars": {
-        "line": -38.5,
+        "line": -38.0,
         "price": -110.0
       },
       "draftkings": {
         "line": -38.5,
-        "price": -112.0
+        "price": -105.0
       },
       "espnbet": {
         "line": -38.5,
-        "price": -110.0
+        "price": -105.0
       },
       "fanduel": {
         "line": -38.5,
@@ -4378,7 +4619,7 @@
       },
       "unibet": {
         "line": -38.5,
-        "price": -112.0
+        "price": -116.0
       }
     }
   },
@@ -4490,99 +4731,99 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -475.0
+        "price": -500.0
       },
       "bovada": {
         "line": null,
-        "price": -450.0
+        "price": -470.0
       },
       "caesars": {
         "line": null,
-        "price": -455.0
+        "price": -480.0
       },
       "draftkings": {
         "line": null,
-        "price": -440.0
+        "price": -455.0
       },
       "espnbet": {
         "line": null,
-        "price": -450.0
+        "price": -500.0
       },
       "fanduel": {
         "line": null,
-        "price": -550.0
+        "price": -580.0
       },
       "pointsbet": {
         "line": null,
-        "price": -455.0
+        "price": -500.0
       },
       "unibet": {
         "line": null,
-        "price": -435.0
+        "price": -556.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 144.5,
-        "price": -110.0
+        "line": 143.5,
+        "price": -105.0
       },
       "bovada": {
-        "line": 144.0,
-        "price": -110.0
+        "line": 143.5,
+        "price": -105.0
       },
       "caesars": {
-        "line": 144.5,
+        "line": 143.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 144.5,
-        "price": -110.0
+        "line": 143.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 144.5,
-        "price": -110.0
+        "line": 143.5,
+        "price": -105.0
       },
       "fanduel": {
-        "line": 144.5,
+        "line": 142.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 144.0,
+        "line": 143.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -9.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
         "line": -9.5,
-        "price": -105.0
+        "price": -115.0
       },
       "caesars": {
-        "line": -9.5,
+        "line": -10.0,
         "price": -110.0
       },
       "draftkings": {
         "line": -9.5,
-        "price": -108.0
+        "price": -115.0
       },
       "espnbet": {
-        "line": -9.5,
-        "price": -110.0
+        "line": -10.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": -9.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": -9.0,
-        "price": -115.0
+        "line": -9.5,
+        "price": -111.0
       },
       "unibet": {
-        "line": -8.5,
-        "price": -119.0
+        "line": -9.5,
+        "price": -122.0
       }
     }
   },
@@ -4614,13 +4855,13 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -10000.0
+        "price": -20000.0
       }
     },
     "ou": {
       "betmgm": {
         "line": 150.5,
-        "price": -105.0
+        "price": -110.0
       },
       "bovada": {
         "line": 150.5,
@@ -5307,7 +5548,7 @@
       },
       "bovada": {
         "line": null,
-        "price": 140.0
+        "price": 135.0
       },
       "caesars": {
         "line": null,
@@ -5336,23 +5577,23 @@
     },
     "ou": {
       "betmgm": {
-        "line": 158.5,
-        "price": -115.0
-      },
-      "bovada": {
-        "line": 159.0,
+        "line": 159.5,
         "price": -105.0
       },
+      "bovada": {
+        "line": 159.5,
+        "price": -110.0
+      },
       "caesars": {
-        "line": 159.0,
+        "line": 159.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 158.5,
-        "price": -112.0
+        "line": 159.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": 158.5,
+        "line": 159.5,
         "price": -110.0
       },
       "fanduel": {
@@ -5360,7 +5601,7 @@
         "price": -115.0
       },
       "pointsbet": {
-        "line": 158.5,
+        "line": 159.5,
         "price": -111.0
       }
     },
@@ -5370,11 +5611,11 @@
         "price": -115.0
       },
       "bovada": {
-        "line": 3.5,
-        "price": -110.0
+        "line": 3.0,
+        "price": -105.0
       },
       "caesars": {
-        "line": 3.5,
+        "line": 3.0,
         "price": -110.0
       },
       "draftkings": {
@@ -5403,23 +5644,23 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": 155.0
+        "price": 145.0
       },
       "bovada": {
         "line": null,
-        "price": 165.0
+        "price": 150.0
       },
       "caesars": {
         "line": null,
-        "price": 162.0
+        "price": 148.0
       },
       "draftkings": {
         "line": null,
-        "price": 164.0
+        "price": 142.0
       },
       "espnbet": {
         "line": null,
-        "price": 165.0
+        "price": 145.0
       },
       "fanduel": {
         "line": null,
@@ -5427,11 +5668,11 @@
       },
       "pointsbet": {
         "line": null,
-        "price": 160.0
+        "price": 140.0
       },
       "unibet": {
         "line": null,
-        "price": 163.0
+        "price": 138.0
       }
     },
     "ou": {
@@ -5440,8 +5681,8 @@
         "price": -110.0
       },
       "bovada": {
-        "line": 157.0,
-        "price": -115.0
+        "line": 157.5,
+        "price": -110.0
       },
       "caesars": {
         "line": 157.5,
@@ -5466,36 +5707,36 @@
     },
     "sp": {
       "betmgm": {
-        "line": 4.5,
+        "line": 3.5,
         "price": -110.0
       },
       "bovada": {
-        "line": 4.5,
-        "price": -110.0
+        "line": 4.0,
+        "price": -115.0
       },
       "caesars": {
-        "line": 4.5,
+        "line": 3.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 4.5,
-        "price": -110.0
+        "line": 3.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 4.5,
-        "price": -110.0
+        "line": 3.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": 4.5,
         "price": -120.0
       },
       "pointsbet": {
-        "line": 4.5,
+        "line": 3.0,
         "price": -111.0
       },
       "unibet": {
-        "line": 4.5,
-        "price": -116.0
+        "line": 3.5,
+        "price": -120.0
       }
     }
   },
@@ -5616,31 +5857,31 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -1200.0
+        "price": -1100.0
       },
       "bovada": {
         "line": null,
-        "price": -1600.0
+        "price": -1200.0
       },
       "caesars": {
         "line": null,
-        "price": -1400.0
+        "price": -1100.0
       },
       "draftkings": {
         "line": null,
-        "price": -1600.0
+        "price": -1200.0
       },
       "espnbet": {
         "line": null,
-        "price": -1400.0
+        "price": -1000.0
       },
       "fanduel": {
         "line": null,
-        "price": -1600.0
+        "price": -1200.0
       },
       "pointsbet": {
         "line": null,
-        "price": -1429.0
+        "price": -1111.0
       },
       "unibet": {
         "line": null,
@@ -5653,20 +5894,20 @@
         "price": -105.0
       },
       "bovada": {
-        "line": 161.0,
+        "line": 161.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 161.0,
+        "line": 161.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 160.5,
-        "price": -110.0
+        "line": 161.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 160.5,
-        "price": -110.0
+        "line": 161.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": 161.5,
@@ -5679,11 +5920,11 @@
     },
     "sp": {
       "betmgm": {
-        "line": -14.5,
-        "price": -105.0
+        "line": -13.5,
+        "price": -110.0
       },
       "bovada": {
-        "line": -14.0,
+        "line": -13.5,
         "price": -115.0
       },
       "caesars": {
@@ -5692,30 +5933,85 @@
       },
       "draftkings": {
         "line": -13.5,
-        "price": -118.0
+        "price": -112.0
       },
       "espnbet": {
         "line": -13.5,
-        "price": -115.0
+        "price": -110.0
       },
       "fanduel": {
-        "line": -14.5,
+        "line": -13.5,
         "price": -108.0
       },
       "pointsbet": {
-        "line": -14.0,
-        "price": -115.0
+        "line": -13.5,
+        "price": -111.0
       },
       "unibet": {
         "line": -14.5,
-        "price": -111.0
+        "price": -112.0
       }
     }
   },
   "PCiFiRfwY7r4ta7iveD8": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "caesars": {
+        "line": null,
+        "price": -335.0
+      },
+      "draftkings": {
+        "line": null,
+        "price": -325.0
+      },
+      "fanduel": {
+        "line": null,
+        "price": -315.0
+      },
+      "unibet": {
+        "line": null,
+        "price": -357.0
+      }
+    },
+    "ou": {
+      "caesars": {
+        "line": 151.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 151.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 151.5,
+        "price": -105.0
+      },
+      "fanduel": {
+        "line": 151.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -7.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -7.5,
+        "price": -102.0
+      },
+      "espnbet": {
+        "line": -6.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": -7.5,
+        "price": -106.0
+      },
+      "unibet": {
+        "line": -7.5,
+        "price": -114.0
+      }
+    }
   },
   "PI34B81cVG4YhwrHRJUN": {
     "ml": {
@@ -5822,9 +6118,32 @@
     }
   },
   "PIRxESyStSSy8IXY2hic": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": -225.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 151.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 151.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -5.5,
+        "price": -102.0
+      },
+      "espnbet": {
+        "line": -5.5,
+        "price": 100.0
+      }
+    }
   },
   "PRxbkr3v0FYrZoHvGMhd": {
     "ml": {
@@ -6102,11 +6421,11 @@
       },
       "bovada": {
         "line": null,
-        "price": -1800.0
+        "price": -1600.0
       },
       "caesars": {
         "line": null,
-        "price": -2000.0
+        "price": -1600.0
       },
       "draftkings": {
         "line": null,
@@ -6122,7 +6441,7 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -2000.0
+        "price": -1667.0
       },
       "unibet": {
         "line": null,
@@ -6140,7 +6459,7 @@
       },
       "bovada": {
         "line": 165.5,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
         "line": 165.5,
@@ -6178,7 +6497,7 @@
       },
       "draftkings": {
         "line": -15.5,
-        "price": 100.0
+        "price": -102.0
       },
       "espnbet": {
         "line": -15.5,
@@ -6194,7 +6513,7 @@
       },
       "unibet": {
         "line": -15.5,
-        "price": -108.0
+        "price": -109.0
       }
     }
   },
@@ -6216,6 +6535,10 @@
         "line": null,
         "price": -5000.0
       },
+      "espnbet": {
+        "line": null,
+        "price": -10000.0
+      },
       "fanduel": {
         "line": null,
         "price": -10000.0
@@ -6227,66 +6550,66 @@
     },
     "ou": {
       "betmgm": {
-        "line": 158.5,
-        "price": -115.0
+        "line": 157.5,
+        "price": -110.0
       },
       "bovada": {
         "line": 157.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 158.5,
+        "line": 157.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 159.5,
-        "price": -108.0
+        "line": 157.5,
+        "price": -110.0
       },
       "espnbet": {
-        "line": 159.5,
-        "price": -110.0
+        "line": 157.5,
+        "price": -105.0
       },
       "fanduel": {
-        "line": 158.5,
-        "price": -110.0
+        "line": 157.5,
+        "price": -115.0
       },
       "pointsbet": {
-        "line": 158.5,
+        "line": 157.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -22.5,
-        "price": -115.0
-      },
-      "bovada": {
-        "line": -23.0,
+        "line": -23.5,
         "price": -110.0
       },
+      "bovada": {
+        "line": -23.5,
+        "price": -105.0
+      },
       "caesars": {
-        "line": -23.0,
+        "line": -23.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": -22.5,
-        "price": -112.0
+        "line": -23.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": -22.5,
+        "line": -23.5,
         "price": -110.0
       },
       "fanduel": {
         "line": -22.5,
-        "price": -110.0
+        "price": -120.0
       },
       "pointsbet": {
-        "line": -22.5,
+        "line": -23.5,
         "price": -111.0
       },
       "unibet": {
-        "line": -22.5,
-        "price": -116.0
+        "line": -23.5,
+        "price": -120.0
       }
     }
   },
@@ -6500,9 +6823,48 @@
     "sp": {}
   },
   "QykPUTtCYGym1GjDDWGv": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": -600.0
+      }
+    },
+    "ou": {
+      "caesars": {
+        "line": 151.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 151.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 151.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 152.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -10.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -10.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": -10.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": -10.5,
+        "price": -106.0
+      }
+    }
   },
   "RqRxh19tdHOdRqVSul65": {
     "ml": {},
@@ -6709,9 +7071,48 @@
     }
   },
   "TXopshcA3hdd81fd1TdG": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": 245.0
+      },
+      "fanduel": {
+        "line": null,
+        "price": 275.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 160.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 160.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 160.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": 7.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 7.5,
+        "price": -112.0
+      },
+      "espnbet": {
+        "line": 7.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 7.5,
+        "price": -108.0
+      }
+    }
   },
   "TjAkgmEpxtoiEjNtyfVC": {
     "ml": {
@@ -7023,31 +7424,31 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -220.0
+        "price": -250.0
       },
       "bovada": {
         "line": null,
-        "price": -230.0
+        "price": -245.0
       },
       "caesars": {
         "line": null,
-        "price": -225.0
+        "price": -250.0
       },
       "draftkings": {
         "line": null,
-        "price": -230.0
+        "price": -250.0
       },
       "espnbet": {
         "line": null,
-        "price": -225.0
+        "price": -240.0
       },
       "fanduel": {
         "line": null,
-        "price": -220.0
+        "price": -240.0
       },
       "pointsbet": {
         "line": null,
-        "price": -227.0
+        "price": -250.0
       },
       "unibet": {
         "line": null,
@@ -7056,66 +7457,66 @@
     },
     "ou": {
       "betmgm": {
-        "line": 153.5,
-        "price": -110.0
+        "line": 155.5,
+        "price": -105.0
       },
       "bovada": {
-        "line": 153.5,
-        "price": -115.0
+        "line": 155.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": 153.5,
+        "line": 155.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 153.5,
+        "line": 155.5,
         "price": -110.0
       },
       "espnbet": {
-        "line": 153.5,
+        "line": 155.5,
         "price": -110.0
       },
       "fanduel": {
-        "line": 153.5,
+        "line": 154.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 154.0,
+        "line": 155.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -4.5,
-        "price": -118.0
+        "line": -5.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": -5.0,
-        "price": -110.0
+        "line": -5.5,
+        "price": -115.0
       },
       "caesars": {
-        "line": -5.0,
+        "line": -5.5,
         "price": -110.0
       },
       "draftkings": {
         "line": -5.5,
-        "price": -102.0
+        "price": -112.0
       },
       "espnbet": {
         "line": -5.5,
-        "price": 100.0
+        "price": -110.0
       },
       "fanduel": {
-        "line": -4.5,
-        "price": -120.0
+        "line": -5.5,
+        "price": -114.0
       },
       "pointsbet": {
-        "line": -5.0,
+        "line": -5.5,
         "price": -111.0
       },
       "unibet": {
         "line": -5.5,
-        "price": -116.0
+        "price": -119.0
       }
     }
   },
@@ -7216,7 +7617,7 @@
       },
       "bovada": {
         "line": null,
-        "price": 100.0
+        "price": -105.0
       },
       "caesars": {
         "line": null,
@@ -7232,7 +7633,7 @@
       },
       "fanduel": {
         "line": null,
-        "price": -106.0
+        "price": -108.0
       },
       "pointsbet": {
         "line": null,
@@ -7244,36 +7645,36 @@
       },
       "williamhill": {
         "line": null,
-        "price": 100.0
+        "price": -118.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 144.5,
-        "price": -105.0
+        "line": 145.5,
+        "price": -110.0
       },
       "bovada": {
-        "line": 143.5,
-        "price": -115.0
+        "line": 145.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": 144.0,
+        "line": 145.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 143.5,
-        "price": -115.0
+        "line": 145.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 143.5,
-        "price": -110.0
+        "line": 145.5,
+        "price": -105.0
       },
       "fanduel": {
-        "line": 144.5,
+        "line": 145.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 143.5,
+        "line": 144.5,
         "price": -111.0
       }
     },
@@ -7283,8 +7684,8 @@
         "price": -118.0
       },
       "bovada": {
-        "line": 1.5,
-        "price": -110.0
+        "line": 1.0,
+        "price": -105.0
       },
       "caesars": {
         "line": 1.0,
@@ -7429,19 +7830,19 @@
         "price": -110.0
       },
       "bovada": {
-        "line": 156.0,
-        "price": -105.0
+        "line": 157.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": 156.5,
+        "line": 158.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 156.5,
-        "price": -108.0
+        "line": 157.5,
+        "price": -112.0
       },
       "espnbet": {
-        "line": 156.5,
+        "line": 157.5,
         "price": -110.0
       },
       "fanduel": {
@@ -7449,21 +7850,21 @@
         "price": -110.0
       },
       "pointsbet": {
-        "line": 155.5,
+        "line": 157.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -35.5,
-        "price": -118.0
+        "line": -36.5,
+        "price": -102.0
       },
       "bovada": {
-        "line": -35.5,
-        "price": -115.0
+        "line": -36.0,
+        "price": -110.0
       },
       "caesars": {
-        "line": -36.0,
+        "line": -36.5,
         "price": -110.0
       },
       "draftkings": {
@@ -7471,7 +7872,7 @@
         "price": -112.0
       },
       "espnbet": {
-        "line": -35.5,
+        "line": -36.5,
         "price": -110.0
       },
       "fanduel": {
@@ -7576,7 +7977,7 @@
       },
       "bovada": {
         "line": null,
-        "price": 130.0
+        "price": 125.0
       },
       "caesars": {
         "line": null,
@@ -7592,11 +7993,11 @@
       },
       "fanduel": {
         "line": null,
-        "price": 115.0
+        "price": 114.0
       },
       "pointsbet": {
         "line": null,
-        "price": 125.0
+        "price": 120.0
       },
       "unibet": {
         "line": null,
@@ -7606,26 +8007,26 @@
     "ou": {
       "betmgm": {
         "line": 166.5,
-        "price": -115.0
-      },
-      "bovada": {
-        "line": 167.0,
         "price": -110.0
       },
+      "bovada": {
+        "line": 166.0,
+        "price": -115.0
+      },
       "caesars": {
-        "line": 167.0,
+        "line": 166.0,
         "price": -110.0
       },
       "draftkings": {
         "line": 166.5,
-        "price": -115.0
+        "price": -112.0
       },
       "espnbet": {
         "line": 166.5,
-        "price": -115.0
+        "price": -110.0
       },
       "fanduel": {
-        "line": 167.5,
+        "line": 166.5,
         "price": -110.0
       },
       "pointsbet": {
@@ -7640,7 +8041,7 @@
       },
       "bovada": {
         "line": 2.5,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
         "line": 2.5,
@@ -7648,11 +8049,11 @@
       },
       "draftkings": {
         "line": 2.5,
-        "price": -118.0
+        "price": -115.0
       },
       "espnbet": {
         "line": 2.5,
-        "price": -115.0
+        "price": -110.0
       },
       "fanduel": {
         "line": 2.5,
@@ -7776,15 +8177,15 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -800.0
+        "price": -700.0
       },
       "bovada": {
         "line": null,
-        "price": -800.0
+        "price": -750.0
       },
       "caesars": {
         "line": null,
-        "price": -800.0
+        "price": -700.0
       },
       "draftkings": {
         "line": null,
@@ -7796,11 +8197,11 @@
       },
       "fanduel": {
         "line": null,
-        "price": -850.0
+        "price": -720.0
       },
       "pointsbet": {
         "line": null,
-        "price": -909.0
+        "price": -769.0
       },
       "unibet": {
         "line": null,
@@ -7809,62 +8210,62 @@
     },
     "ou": {
       "betmgm": {
-        "line": 148.5,
+        "line": 147.5,
         "price": -110.0
       },
       "bovada": {
-        "line": 148.5,
+        "line": 147.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 148.0,
+        "line": 147.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 148.5,
-        "price": -105.0
+        "line": 147.5,
+        "price": -112.0
       },
       "espnbet": {
         "line": 147.5,
-        "price": -120.0
+        "price": -105.0
       },
       "fanduel": {
-        "line": 148.5,
+        "line": 147.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 148.5,
+        "line": 148.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -11.5,
-        "price": -115.0
+        "price": -105.0
       },
       "bovada": {
-        "line": -12.0,
+        "line": -11.5,
         "price": -105.0
       },
       "caesars": {
-        "line": -12.0,
+        "line": -11.5,
         "price": -110.0
       },
       "draftkings": {
         "line": -11.5,
-        "price": -115.0
+        "price": -108.0
       },
       "espnbet": {
         "line": -11.5,
-        "price": -115.0
+        "price": -110.0
       },
       "fanduel": {
         "line": -11.5,
-        "price": -114.0
+        "price": -105.0
       },
       "pointsbet": {
-        "line": -12.0,
-        "price": -105.0
+        "line": -11.5,
+        "price": -111.0
       },
       "unibet": {
         "line": -11.5,
@@ -7988,15 +8389,15 @@
       },
       "draftkings": {
         "line": null,
-        "price": -102.0
+        "price": -105.0
       },
       "espnbet": {
         "line": null,
-        "price": 100.0
+        "price": -105.0
       },
       "fanduel": {
         "line": null,
-        "price": 105.0
+        "price": 104.0
       },
       "pointsbet": {
         "line": null,
@@ -8009,38 +8410,38 @@
     },
     "ou": {
       "betmgm": {
-        "line": 158.5,
-        "price": -115.0
+        "line": 157.5,
+        "price": -105.0
       },
       "bovada": {
-        "line": 158.5,
+        "line": 157.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 159.0,
+        "line": 156.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 159.5,
-        "price": -105.0
+        "line": 156.5,
+        "price": -115.0
       },
       "espnbet": {
-        "line": 159.5,
-        "price": -105.0
+        "line": 157.5,
+        "price": -110.0
       },
       "fanduel": {
-        "line": 159.5,
+        "line": 157.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 158.5,
+        "line": 157.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": 1.5,
-        "price": -115.0
+        "price": -118.0
       },
       "bovada": {
         "line": 1.0,
@@ -8052,11 +8453,11 @@
       },
       "draftkings": {
         "line": 1.5,
-        "price": -110.0
+        "price": -122.0
       },
       "espnbet": {
         "line": 1.5,
-        "price": -110.0
+        "price": -125.0
       },
       "fanduel": {
         "line": 1.5,
@@ -8068,7 +8469,7 @@
       },
       "unibet": {
         "line": 1.5,
-        "price": -120.0
+        "price": -119.0
       }
     }
   },
@@ -8453,7 +8854,7 @@
       },
       "bovada": {
         "line": null,
-        "price": -950.0
+        "price": -1000.0
       },
       "caesars": {
         "line": null,
@@ -8469,7 +8870,7 @@
       },
       "fanduel": {
         "line": null,
-        "price": -1000.0
+        "price": -880.0
       },
       "pointsbet": {
         "line": null,
@@ -8477,7 +8878,7 @@
       },
       "unibet": {
         "line": null,
-        "price": -1000.0
+        "price": -833.0
       }
     },
     "ou": {
@@ -8495,11 +8896,11 @@
       },
       "draftkings": {
         "line": 151.5,
-        "price": -108.0
+        "price": -102.0
       },
       "espnbet": {
         "line": 151.5,
-        "price": -110.0
+        "price": 100.0
       },
       "fanduel": {
         "line": 150.5,
@@ -8532,16 +8933,16 @@
         "price": -105.0
       },
       "fanduel": {
-        "line": -12.5,
-        "price": -110.0
+        "line": -11.5,
+        "price": -120.0
       },
       "pointsbet": {
         "line": -12.5,
-        "price": -105.0
+        "price": -111.0
       },
       "unibet": {
-        "line": -12.5,
-        "price": -123.0
+        "line": -11.5,
+        "price": -119.0
       }
     }
   },
@@ -8987,7 +9388,7 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -5000.0
+        "price": -10000.0
       },
       "williamhill": {
         "line": null,
@@ -8996,42 +9397,42 @@
     },
     "ou": {
       "betmgm": {
-        "line": 159.5,
+        "line": 157.5,
         "price": -110.0
       },
       "bovada": {
-        "line": 159.5,
+        "line": 158.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 159.5,
+        "line": 158.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 159.5,
-        "price": -115.0
+        "line": 157.5,
+        "price": -112.0
       },
       "espnbet": {
-        "line": 159.5,
-        "price": -115.0
+        "line": 157.5,
+        "price": -110.0
       },
       "fanduel": {
-        "line": 159.5,
+        "line": 157.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 160.0,
+        "line": 157.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -21.5,
-        "price": -105.0
+        "line": -20.5,
+        "price": -118.0
       },
       "bovada": {
         "line": -21.0,
-        "price": -115.0
+        "price": -105.0
       },
       "caesars": {
         "line": -21.0,
@@ -9042,27 +9443,53 @@
         "price": -115.0
       },
       "espnbet": {
-        "line": -21.5,
-        "price": -120.0
+        "line": -20.5,
+        "price": -115.0
       },
       "fanduel": {
-        "line": -21.5,
-        "price": -110.0
+        "line": -20.5,
+        "price": -118.0
       },
       "pointsbet": {
-        "line": -21.0,
+        "line": -20.5,
         "price": -111.0
       },
       "unibet": {
         "line": -21.5,
-        "price": -112.0
+        "price": -108.0
       }
     }
   },
   "ZeZCZvyjWaitgBajMfpL": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "caesars": {
+        "line": 153.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 153.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 153.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -5.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -5.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": -5.5,
+        "price": -110.0
+      }
+    }
   },
   "ZpqerJ4l4KMi7HTO5TFq": {
     "ml": {
@@ -9173,35 +9600,35 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -600.0
+        "price": -550.0
       },
       "bovada": {
         "line": null,
-        "price": -625.0
+        "price": -600.0
       },
       "caesars": {
         "line": null,
-        "price": -600.0
+        "price": -550.0
       },
       "draftkings": {
         "line": null,
-        "price": -625.0
+        "price": -575.0
       },
       "espnbet": {
         "line": null,
-        "price": -750.0
+        "price": -650.0
       },
       "fanduel": {
         "line": null,
-        "price": -550.0
+        "price": -490.0
       },
       "pointsbet": {
         "line": null,
-        "price": -625.0
+        "price": -588.0
       },
       "unibet": {
         "line": null,
-        "price": -625.0
+        "price": -526.0
       },
       "williamhill": {
         "line": null,
@@ -9211,64 +9638,64 @@
     "ou": {
       "betmgm": {
         "line": 137.5,
-        "price": -105.0
+        "price": -115.0
       },
       "bovada": {
-        "line": 137.5,
-        "price": -110.0
+        "line": 138.5,
+        "price": -105.0
       },
       "caesars": {
-        "line": 137.5,
+        "line": 138.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 137.5,
+        "line": 138.5,
         "price": -105.0
       },
       "espnbet": {
-        "line": 137.5,
-        "price": -105.0
+        "line": 138.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": 137.5,
-        "price": -110.0
+        "price": -115.0
       },
       "pointsbet": {
-        "line": 137.5,
+        "line": 138.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -10.5,
-        "price": -105.0
+        "line": -9.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": -10.0,
+        "line": -9.5,
         "price": -115.0
       },
       "caesars": {
-        "line": -10.0,
+        "line": -9.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": -10.5,
-        "price": -102.0
+        "line": -9.5,
+        "price": -115.0
       },
       "espnbet": {
-        "line": -10.5,
-        "price": 100.0
+        "line": -9.5,
+        "price": -115.0
       },
       "fanduel": {
-        "line": -10.5,
-        "price": -105.0
+        "line": -9.5,
+        "price": -114.0
       },
       "pointsbet": {
-        "line": -10.0,
+        "line": -9.5,
         "price": -111.0
       },
       "unibet": {
-        "line": -10.5,
+        "line": -9.5,
         "price": -115.0
       }
     }
@@ -9405,33 +9832,33 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -1111.0
+        "price": -1429.0
       },
       "unibet": {
         "line": null,
-        "price": -1111.0
+        "price": -1250.0
       }
     },
     "ou": {
       "betmgm": {
         "line": 151.5,
-        "price": -110.0
+        "price": -105.0
       },
       "bovada": {
-        "line": 151.5,
-        "price": -110.0
+        "line": 151.0,
+        "price": -115.0
       },
       "caesars": {
-        "line": 151.5,
+        "line": 151.0,
         "price": -110.0
       },
       "draftkings": {
         "line": 151.5,
-        "price": -115.0
+        "price": -105.0
       },
       "espnbet": {
         "line": 151.5,
-        "price": -115.0
+        "price": -105.0
       },
       "fanduel": {
         "line": 151.5,
@@ -9473,7 +9900,7 @@
       },
       "unibet": {
         "line": -13.5,
-        "price": -118.0
+        "price": -116.0
       }
     }
   },
@@ -9797,7 +10224,7 @@
       },
       "unibet": {
         "line": null,
-        "price": -104.0
+        "price": -105.0
       },
       "williamhill": {
         "line": null,
@@ -9807,10 +10234,10 @@
     "ou": {
       "betmgm": {
         "line": 133.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
-        "line": 133.5,
+        "line": 134.5,
         "price": -110.0
       },
       "caesars": {
@@ -9818,12 +10245,12 @@
         "price": -110.0
       },
       "draftkings": {
-        "line": 133.5,
-        "price": -108.0
+        "line": 134.5,
+        "price": -105.0
       },
       "espnbet": {
         "line": 133.5,
-        "price": -110.0
+        "price": -115.0
       },
       "fanduel": {
         "line": 133.5,
@@ -9848,16 +10275,16 @@
         "price": -118.0
       },
       "espnbet": {
-        "line": 1.5,
-        "price": -125.0
+        "line": -1.5,
+        "price": 100.0
       },
       "fanduel": {
         "line": 1.5,
         "price": -122.0
       },
       "unibet": {
-        "line": 0.5,
-        "price": -108.0
+        "line": -0.5,
+        "price": -109.0
       }
     }
   },
@@ -9873,15 +10300,15 @@
       },
       "caesars": {
         "line": null,
-        "price": 170.0
+        "price": 180.0
       },
       "draftkings": {
         "line": null,
-        "price": 170.0
+        "price": 180.0
       },
       "espnbet": {
         "line": null,
-        "price": 175.0
+        "price": 190.0
       },
       "fanduel": {
         "line": null,
@@ -9889,11 +10316,11 @@
       },
       "pointsbet": {
         "line": null,
-        "price": 175.0
+        "price": 185.0
       },
       "unibet": {
         "line": null,
-        "price": 170.0
+        "price": 185.0
       },
       "williamhill": {
         "line": null,
@@ -9902,11 +10329,11 @@
     },
     "ou": {
       "betmgm": {
-        "line": 157.5,
+        "line": 158.5,
         "price": -110.0
       },
       "bovada": {
-        "line": 158.0,
+        "line": 159.0,
         "price": -110.0
       },
       "caesars": {
@@ -9915,7 +10342,7 @@
       },
       "draftkings": {
         "line": 158.5,
-        "price": -108.0
+        "price": -112.0
       },
       "espnbet": {
         "line": 158.5,
@@ -9940,7 +10367,7 @@
         "price": -115.0
       },
       "caesars": {
-        "line": 5.0,
+        "line": 4.5,
         "price": -110.0
       },
       "draftkings": {
@@ -9949,19 +10376,19 @@
       },
       "espnbet": {
         "line": 4.5,
-        "price": 100.0
+        "price": -105.0
       },
       "fanduel": {
         "line": 5.5,
         "price": -120.0
       },
       "pointsbet": {
-        "line": 4.5,
+        "line": 5.0,
         "price": -111.0
       },
       "unibet": {
-        "line": 4.5,
-        "price": -115.0
+        "line": 5.5,
+        "price": -123.0
       }
     }
   },
@@ -10199,32 +10626,32 @@
       },
       "fanduel": {
         "line": null,
-        "price": -30000.0
+        "price": -50000.0
       },
       "pointsbet": {
         "line": null,
-        "price": -20000.0
+        "price": -10000.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 160.5,
+        "line": 161.5,
         "price": -105.0
       },
       "bovada": {
         "line": 161.0,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
-        "line": 160.5,
+        "line": 161.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 160.5,
-        "price": -110.0
+        "line": 161.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": 160.5,
+        "line": 161.5,
         "price": -110.0
       },
       "fanduel": {
@@ -10232,42 +10659,42 @@
         "price": -115.0
       },
       "pointsbet": {
-        "line": 160.5,
+        "line": 161.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -26.5,
-        "price": -115.0
+        "line": -27.5,
+        "price": -110.0
       },
       "bovada": {
-        "line": -26.5,
+        "line": -27.0,
         "price": -115.0
       },
       "caesars": {
-        "line": -26.5,
+        "line": -27.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": -26.5,
-        "price": -115.0
+        "line": -27.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": -26.5,
-        "price": -110.0
+        "line": -27.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": -26.5,
-        "price": -110.0
+        "price": -120.0
       },
       "pointsbet": {
-        "line": -27.0,
+        "line": -27.5,
         "price": -111.0
       },
       "unibet": {
         "line": -26.5,
-        "price": -114.0
+        "price": -116.0
       }
     }
   },
@@ -10309,7 +10736,7 @@
     "ou": {
       "betmgm": {
         "line": 133.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
         "line": 133.5,
@@ -10320,33 +10747,33 @@
         "price": -110.0
       },
       "draftkings": {
-        "line": 133.5,
-        "price": -112.0
+        "line": 134.5,
+        "price": -105.0
       },
       "espnbet": {
-        "line": 133.5,
-        "price": -110.0
+        "line": 134.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": 133.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 133.5,
+        "line": 134.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -18.5,
-        "price": -115.0
+        "price": -110.0
       },
       "bovada": {
-        "line": -19.0,
-        "price": -105.0
+        "line": -18.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": -19.0,
+        "line": -18.5,
         "price": -110.0
       },
       "draftkings": {
@@ -10362,7 +10789,7 @@
         "price": -106.0
       },
       "pointsbet": {
-        "line": -19.0,
+        "line": -18.5,
         "price": -111.0
       },
       "unibet": {
@@ -10434,11 +10861,11 @@
       },
       "bovada": {
         "line": null,
-        "price": -175.0
+        "price": -170.0
       },
       "caesars": {
         "line": null,
-        "price": -175.0
+        "price": -165.0
       },
       "draftkings": {
         "line": null,
@@ -10446,7 +10873,7 @@
       },
       "espnbet": {
         "line": null,
-        "price": -165.0
+        "price": -155.0
       },
       "fanduel": {
         "line": null,
@@ -10454,17 +10881,17 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -175.0
+        "price": -169.0
       },
       "unibet": {
         "line": null,
-        "price": -200.0
+        "price": -179.0
       }
     },
     "ou": {
       "betmgm": {
         "line": 150.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
         "line": 151.0,
@@ -10476,18 +10903,18 @@
       },
       "draftkings": {
         "line": 150.5,
-        "price": -112.0
+        "price": -115.0
       },
       "espnbet": {
         "line": 150.5,
-        "price": -105.0
+        "price": -110.0
       },
       "fanduel": {
-        "line": 149.5,
+        "line": 150.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 150.5,
+        "line": 151.0,
         "price": -111.0
       }
     },
@@ -10498,19 +10925,19 @@
       },
       "bovada": {
         "line": -3.5,
-        "price": -115.0
+        "price": -110.0
       },
       "caesars": {
-        "line": -4.0,
+        "line": -3.5,
         "price": -110.0
       },
       "draftkings": {
         "line": -3.5,
-        "price": -110.0
+        "price": -115.0
       },
       "espnbet": {
-        "line": -4.5,
-        "price": -110.0
+        "line": -3.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": -3.5,
@@ -10521,8 +10948,8 @@
         "price": -111.0
       },
       "unibet": {
-        "line": -4.5,
-        "price": -109.0
+        "line": -3.5,
+        "price": -115.0
       }
     }
   },
@@ -10585,8 +11012,26 @@
   },
   "eH77OQNUZYxaP7TQzH6I": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "draftkings": {
+        "line": 147.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 147.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -14.5,
+        "price": -118.0
+      },
+      "espnbet": {
+        "line": -15.5,
+        "price": -105.0
+      }
+    }
   },
   "eQOz1LRzrB4X8y46vVpN": {
     "ml": {
@@ -10596,7 +11041,7 @@
       },
       "bovada": {
         "line": null,
-        "price": 200.0
+        "price": 210.0
       },
       "caesars": {
         "line": null,
@@ -10608,7 +11053,7 @@
       },
       "espnbet": {
         "line": null,
-        "price": 195.0
+        "price": 200.0
       },
       "fanduel": {
         "line": null,
@@ -10625,23 +11070,23 @@
     },
     "ou": {
       "betmgm": {
-        "line": 138.5,
+        "line": 137.5,
         "price": -115.0
       },
       "bovada": {
-        "line": 139.0,
+        "line": 138.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 139.0,
+        "line": 138.0,
         "price": -110.0
       },
       "draftkings": {
         "line": 138.5,
-        "price": -115.0
+        "price": -105.0
       },
       "espnbet": {
-        "line": 138.5,
+        "line": 137.5,
         "price": -115.0
       },
       "fanduel": {
@@ -10649,42 +11094,42 @@
         "price": -110.0
       },
       "pointsbet": {
-        "line": 139.0,
+        "line": 138.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": 5.5,
-        "price": -118.0
+        "price": -110.0
       },
       "bovada": {
-        "line": 5.0,
+        "line": 5.5,
         "price": -105.0
       },
       "caesars": {
-        "line": 5.0,
+        "line": 5.5,
         "price": -110.0
       },
       "draftkings": {
         "line": 5.5,
-        "price": -115.0
+        "price": -108.0
       },
       "espnbet": {
-        "line": 4.5,
-        "price": -110.0
+        "line": 5.5,
+        "price": -105.0
       },
       "fanduel": {
         "line": 5.5,
         "price": -120.0
       },
       "pointsbet": {
-        "line": 5.0,
+        "line": 5.5,
         "price": -111.0
       },
       "unibet": {
         "line": 5.5,
-        "price": -118.0
+        "price": -119.0
       }
     }
   },
@@ -10695,8 +11140,34 @@
   },
   "egc19AUtlVt4XDmdlJLn": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "caesars": {
+        "line": 147.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 147.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 146.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": 3.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 3.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 3.5,
+        "price": -105.0
+      }
+    }
   },
   "f3Mad4DN1fLmXJm2vXIu": {
     "ml": {},
@@ -10741,10 +11212,10 @@
     "ou": {
       "betmgm": {
         "line": 154.5,
-        "price": -115.0
+        "price": -110.0
       },
       "bovada": {
-        "line": 154.0,
+        "line": 154.5,
         "price": -110.0
       },
       "caesars": {
@@ -10752,15 +11223,15 @@
         "price": -110.0
       },
       "draftkings": {
-        "line": 155.5,
-        "price": -105.0
-      },
-      "espnbet": {
         "line": 154.5,
         "price": -115.0
       },
+      "espnbet": {
+        "line": 154.5,
+        "price": -110.0
+      },
       "fanduel": {
-        "line": 155.5,
+        "line": 154.5,
         "price": -115.0
       },
       "pointsbet": {
@@ -10787,7 +11258,7 @@
       },
       "espnbet": {
         "line": -16.5,
-        "price": -105.0
+        "price": -110.0
       },
       "fanduel": {
         "line": -16.5,
@@ -10812,23 +11283,23 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -118.0
+        "price": -120.0
       },
       "bovada": {
         "line": null,
-        "price": -115.0
+        "price": -125.0
       },
       "caesars": {
         "line": null,
-        "price": -115.0
+        "price": -125.0
       },
       "draftkings": {
         "line": null,
-        "price": -115.0
+        "price": -125.0
       },
       "espnbet": {
         "line": null,
-        "price": -115.0
+        "price": -125.0
       },
       "fanduel": {
         "line": null,
@@ -10836,11 +11307,11 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -120.0
+        "price": -125.0
       },
       "unibet": {
         "line": null,
-        "price": -120.0
+        "price": -122.0
       },
       "williamhill": {
         "line": null,
@@ -10865,50 +11336,50 @@
         "price": -105.0
       },
       "espnbet": {
-        "line": 165.5,
-        "price": -105.0
+        "line": 164.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": 164.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 164.5,
+        "line": 165.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -1.5,
-        "price": -105.0
+        "price": -110.0
       },
       "bovada": {
-        "line": -1.0,
+        "line": -1.5,
         "price": -110.0
       },
       "caesars": {
-        "line": -1.0,
+        "line": -1.5,
         "price": -110.0
       },
       "draftkings": {
         "line": -1.5,
-        "price": -102.0
+        "price": -110.0
       },
       "espnbet": {
         "line": -1.5,
-        "price": 100.0
+        "price": -110.0
       },
       "fanduel": {
         "line": -0.5,
         "price": -118.0
       },
       "pointsbet": {
-        "line": -1.5,
+        "line": -2.0,
         "price": -111.0
       },
       "unibet": {
         "line": -1.5,
-        "price": -106.0
+        "price": -108.0
       }
     }
   },
@@ -11127,9 +11598,40 @@
     "sp": {}
   },
   "glTDfmKEG3hZNFGYbaCL": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": -210.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 162.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 162.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": 163.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -5.5,
+        "price": -108.0
+      },
+      "espnbet": {
+        "line": -5.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": -4.5,
+        "price": -120.0
+      }
+    }
   },
   "gySNv731Pg0f2USkSDe7": {
     "ml": {
@@ -11309,8 +11811,26 @@
   },
   "hSTH4IJ5aQjI3ikBbVy3": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "draftkings": {
+        "line": 154.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 154.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -8.5,
+        "price": -102.0
+      },
+      "espnbet": {
+        "line": -7.5,
+        "price": -115.0
+      }
+    }
   },
   "hUnjWdgoPHhScXCvuatt": {
     "ml": {},
@@ -11428,14 +11948,71 @@
     }
   },
   "iV1SlTfSFJLF5ALFf9LR": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": 198.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 138.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 137.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": 138.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": 6.5,
+        "price": -118.0
+      },
+      "espnbet": {
+        "line": 5.5,
+        "price": 100.0
+      },
+      "fanduel": {
+        "line": 6.5,
+        "price": -118.0
+      }
+    }
   },
   "iVyBMGomFqEk2Fw1ZX4l": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "caesars": {
+        "line": 146.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 147.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 147.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -5.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -5.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": -5.5,
+        "price": -110.0
+      }
+    }
   },
   "ivsyQiIIPLyrS8fqbEn2": {
     "ml": {},
@@ -11624,6 +12201,10 @@
   },
   "kE7fIQP0G1AO1oIOWC3g": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "bovada": {
         "line": null,
         "price": -100000.0
@@ -11677,23 +12258,23 @@
     },
     "sp": {
       "betmgm": {
-        "line": -31.5,
-        "price": -110.0
+        "line": -30.5,
+        "price": -115.0
       },
       "bovada": {
         "line": -30.5,
         "price": -115.0
       },
       "caesars": {
-        "line": -31.0,
+        "line": -30.5,
         "price": -110.0
       },
       "draftkings": {
         "line": -30.5,
-        "price": -115.0
+        "price": -110.0
       },
       "espnbet": {
-        "line": -31.5,
+        "line": -30.5,
         "price": -110.0
       },
       "fanduel": {
@@ -11701,12 +12282,12 @@
         "price": -105.0
       },
       "pointsbet": {
-        "line": -31.0,
+        "line": -30.5,
         "price": -111.0
       },
       "unibet": {
         "line": -30.5,
-        "price": -123.0
+        "price": -110.0
       }
     }
   },
@@ -11726,7 +12307,7 @@
       },
       "draftkings": {
         "line": null,
-        "price": -800.0
+        "price": -750.0
       },
       "espnbet": {
         "line": null,
@@ -11734,7 +12315,7 @@
       },
       "fanduel": {
         "line": null,
-        "price": -800.0
+        "price": -780.0
       },
       "pointsbet": {
         "line": null,
@@ -11742,40 +12323,40 @@
       },
       "unibet": {
         "line": null,
-        "price": -769.0
+        "price": -833.0
       },
       "williamhill": {
         "line": null,
-        "price": -900.0
+        "price": -1000.0
       }
     },
     "ou": {
       "betmgm": {
-        "line": 139.5,
-        "price": -105.0
+        "line": 141.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": 139.0,
+        "line": 142.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 139.0,
+        "line": 141.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": 139.5,
-        "price": -105.0
+        "line": 141.5,
+        "price": -115.0
       },
       "espnbet": {
-        "line": 139.5,
-        "price": -105.0
-      },
-      "fanduel": {
-        "line": 139.5,
+        "line": 141.5,
         "price": -110.0
       },
+      "fanduel": {
+        "line": 141.5,
+        "price": -115.0
+      },
       "pointsbet": {
-        "line": 139.5,
+        "line": 141.5,
         "price": -111.0
       }
     },
@@ -11786,7 +12367,7 @@
       },
       "bovada": {
         "line": -11.5,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
         "line": -11.5,
@@ -11810,14 +12391,45 @@
       },
       "unibet": {
         "line": -11.5,
-        "price": -112.0
+        "price": -115.0
       }
     }
   },
   "kJw8WPI3OgodEpKsKGH5": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": -255.0
+      }
+    },
+    "ou": {
+      "caesars": {
+        "line": 160.5,
+        "price": -115.0
+      },
+      "draftkings": {
+        "line": 160.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": 160.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -6.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -6.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": -6.5,
+        "price": -104.0
+      }
+    }
   },
   "kdvk9lQQZ5lhAqD8qnRi": {
     "ml": {
@@ -11835,83 +12447,87 @@
       },
       "draftkings": {
         "line": null,
-        "price": -6500.0
+        "price": -4500.0
       },
       "espnbet": {
         "line": null,
-        "price": -10000.0
+        "price": -6000.0
       },
       "fanduel": {
         "line": null,
-        "price": -4500.0
+        "price": -4000.0
       },
       "pointsbet": {
         "line": null,
-        "price": -3333.0
+        "price": -5000.0
+      },
+      "unibet": {
+        "line": null,
+        "price": -10000.0
       }
     },
     "ou": {
       "betmgm": {
         "line": 150.5,
-        "price": -105.0
+        "price": -110.0
       },
       "bovada": {
-        "line": 150.0,
+        "line": 151.5,
         "price": -110.0
       },
       "caesars": {
-        "line": 150.0,
+        "line": 150.5,
         "price": -110.0
       },
       "draftkings": {
         "line": 150.5,
-        "price": -105.0
+        "price": -115.0
       },
       "espnbet": {
         "line": 150.5,
-        "price": -105.0
+        "price": -115.0
       },
       "fanduel": {
         "line": 149.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 150.0,
+        "line": 151.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -19.5,
-        "price": -115.0
+        "line": -18.5,
+        "price": -110.0
       },
       "bovada": {
-        "line": -19.5,
-        "price": -115.0
+        "line": -18.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": -19.5,
+        "line": -18.5,
         "price": -110.0
       },
       "draftkings": {
-        "line": -19.5,
-        "price": -115.0
+        "line": -18.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": -19.5,
-        "price": -110.0
+        "line": -18.5,
+        "price": -105.0
       },
       "fanduel": {
-        "line": -19.5,
-        "price": -110.0
+        "line": -17.5,
+        "price": -120.0
       },
       "pointsbet": {
-        "line": -19.5,
+        "line": -18.5,
         "price": -111.0
       },
       "unibet": {
-        "line": -19.5,
-        "price": -116.0
+        "line": -18.5,
+        "price": -111.0
       }
     }
   },
@@ -12075,35 +12691,35 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": -1100.0
+        "price": -900.0
       },
       "bovada": {
         "line": null,
-        "price": -1200.0
+        "price": -1100.0
       },
       "caesars": {
         "line": null,
-        "price": -1100.0
+        "price": -1000.0
       },
       "draftkings": {
         "line": null,
-        "price": -1200.0
+        "price": -1000.0
       },
       "espnbet": {
         "line": null,
-        "price": -1400.0
+        "price": -1000.0
       },
       "fanduel": {
         "line": null,
-        "price": -1200.0
+        "price": -820.0
       },
       "pointsbet": {
         "line": null,
-        "price": -1111.0
+        "price": -1000.0
       },
       "unibet": {
         "line": null,
-        "price": -909.0
+        "price": -1000.0
       }
     },
     "ou": {
@@ -12132,42 +12748,42 @@
         "price": -115.0
       },
       "pointsbet": {
-        "line": 155.5,
+        "line": 154.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -13.5,
+        "line": -12.5,
         "price": -105.0
       },
       "bovada": {
-        "line": -13.0,
-        "price": -105.0
+        "line": -12.5,
+        "price": -110.0
       },
       "caesars": {
-        "line": -13.0,
+        "line": -12.5,
         "price": -110.0
       },
       "draftkings": {
         "line": -12.5,
-        "price": -120.0
+        "price": -102.0
       },
       "espnbet": {
         "line": -12.5,
-        "price": -115.0
+        "price": 100.0
       },
       "fanduel": {
-        "line": -13.5,
-        "price": -105.0
+        "line": -11.5,
+        "price": -120.0
       },
       "pointsbet": {
-        "line": -13.0,
+        "line": -12.5,
         "price": -111.0
       },
       "unibet": {
         "line": -12.5,
-        "price": -114.0
+        "price": -123.0
       }
     }
   },
@@ -12756,6 +13372,10 @@
   },
   "oDXmpUa61IKNRtESkT5Y": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "bovada": {
         "line": null,
         "price": -100000.0
@@ -12806,14 +13426,14 @@
     "sp": {
       "betmgm": {
         "line": -25.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
         "line": -26.0,
         "price": -105.0
       },
       "caesars": {
-        "line": -25.5,
+        "line": -26.0,
         "price": -110.0
       },
       "draftkings": {
@@ -12829,7 +13449,7 @@
         "price": -110.0
       },
       "pointsbet": {
-        "line": -25.5,
+        "line": -26.0,
         "price": -111.0
       },
       "unibet": {
@@ -12839,9 +13459,32 @@
     }
   },
   "okSjaMyUzYignpK6rQgx": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": -105.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 150.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 150.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": 1.5,
+        "price": -125.0
+      },
+      "espnbet": {
+        "line": 1.5,
+        "price": -125.0
+      }
+    }
   },
   "ovzETmZO2uFYLmkrWEcP": {
     "ml": {
@@ -12873,14 +13516,14 @@
     "ou": {
       "betmgm": {
         "line": 128.5,
-        "price": -110.0
-      },
-      "bovada": {
-        "line": 128.5,
         "price": -105.0
       },
+      "bovada": {
+        "line": 128.0,
+        "price": -110.0
+      },
       "caesars": {
-        "line": 128.5,
+        "line": 128.0,
         "price": -110.0
       },
       "draftkings": {
@@ -12888,50 +13531,50 @@
         "price": -105.0
       },
       "espnbet": {
-        "line": 128.5,
-        "price": -105.0
+        "line": 127.5,
+        "price": -110.0
       },
       "fanduel": {
-        "line": 128.5,
+        "line": 127.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 128.5,
+        "line": 127.5,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
-        "line": -27.5,
+        "line": -26.5,
         "price": -110.0
       },
       "bovada": {
-        "line": -26.5,
-        "price": -115.0
+        "line": -26.0,
+        "price": -110.0
       },
       "caesars": {
-        "line": -27.0,
+        "line": -26.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": -27.5,
-        "price": -105.0
+        "line": -26.5,
+        "price": -108.0
       },
       "espnbet": {
-        "line": -27.5,
-        "price": -105.0
+        "line": -26.5,
+        "price": -110.0
       },
       "fanduel": {
         "line": -26.5,
-        "price": -120.0
+        "price": -110.0
       },
       "pointsbet": {
-        "line": -27.0,
+        "line": -26.0,
         "price": -111.0
       },
       "unibet": {
         "line": -26.5,
-        "price": -125.0
+        "price": -110.0
       }
     }
   },
@@ -13460,9 +14103,48 @@
     }
   },
   "qhUxuUlu2dETzR1vmBrS": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": -100000.0
+      }
+    },
+    "ou": {
+      "caesars": {
+        "line": 137.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 137.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 137.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 137.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -34.5,
+        "price": -115.0
+      },
+      "draftkings": {
+        "line": -34.5,
+        "price": -112.0
+      },
+      "espnbet": {
+        "line": -34.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": -34.5,
+        "price": -120.0
+      }
+    }
   },
   "rMyOQqgMnrCaNVj3utoh": {
     "ml": {
@@ -13569,9 +14251,44 @@
     }
   },
   "rPAyLK4A2dhCBuakYZH6": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": null,
+        "price": -110.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 153.5,
+        "price": -108.0
+      },
+      "espnbet": {
+        "line": 153.5,
+        "price": -110.0
+      },
+      "fanduel": {
+        "line": 153.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -1.5,
+        "price": 105.0
+      },
+      "espnbet": {
+        "line": -1.5,
+        "price": 105.0
+      },
+      "fanduel": {
+        "line": 1.5,
+        "price": -122.0
+      }
+    }
   },
   "rQgMfpGIioXKOSWccHHX": {
     "ml": {
@@ -13773,7 +14490,7 @@
     "ml": {
       "betmgm": {
         "line": null,
-        "price": 110.0
+        "price": 105.0
       },
       "bovada": {
         "line": null,
@@ -13781,15 +14498,15 @@
       },
       "caesars": {
         "line": null,
-        "price": 110.0
+        "price": 105.0
       },
       "draftkings": {
         "line": null,
-        "price": 110.0
+        "price": 105.0
       },
       "espnbet": {
         "line": null,
-        "price": 115.0
+        "price": 105.0
       },
       "fanduel": {
         "line": null,
@@ -13801,7 +14518,7 @@
       },
       "unibet": {
         "line": null,
-        "price": 110.0
+        "price": 108.0
       },
       "williamhill": {
         "line": null,
@@ -13810,31 +14527,31 @@
     },
     "ou": {
       "betmgm": {
-        "line": 143.5,
-        "price": -105.0
+        "line": 142.5,
+        "price": -115.0
       },
       "bovada": {
-        "line": 143.5,
+        "line": 143.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 143.5,
+        "line": 142.5,
         "price": -110.0
       },
       "draftkings": {
         "line": 143.5,
-        "price": -110.0
+        "price": -105.0
       },
       "espnbet": {
         "line": 143.5,
-        "price": -110.0
+        "price": -105.0
       },
       "fanduel": {
         "line": 143.5,
         "price": -110.0
       },
       "pointsbet": {
-        "line": 143.5,
+        "line": 143.0,
         "price": -111.0
       }
     },
@@ -13857,14 +14574,14 @@
       },
       "espnbet": {
         "line": 1.5,
-        "price": 100.0
+        "price": -105.0
       },
       "fanduel": {
         "line": 2.5,
         "price": -120.0
       },
       "pointsbet": {
-        "line": 2.0,
+        "line": 1.5,
         "price": -111.0
       },
       "unibet": {
@@ -13974,14 +14691,76 @@
     }
   },
   "s8uqJu0RNRoALLrKMwMt": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "fanduel": {
+        "line": null,
+        "price": 280.0
+      }
+    },
+    "ou": {
+      "caesars": {
+        "line": 155.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 154.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": 154.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": 154.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": 8.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 8.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 8.5,
+        "price": -105.0
+      },
+      "fanduel": {
+        "line": 8.5,
+        "price": -120.0
+      }
+    }
   },
   "sEwUg7k9dUIWdo90DveT": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": -192.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 137.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": 137.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "draftkings": {
+        "line": -4.5,
+        "price": -102.0
+      },
+      "espnbet": {
+        "line": -4.5,
+        "price": 100.0
+      }
+    }
   },
   "stpo0UIbSINKvx8stY37": {
     "ml": {
@@ -14248,7 +15027,7 @@
         "price": -110.0
       },
       "bovada": {
-        "line": 168.0,
+        "line": 168.5,
         "price": -110.0
       },
       "caesars": {
@@ -14309,6 +15088,10 @@
   },
   "tRmNNo75zMIjIDBPBDtU": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "fanduel": {
         "line": null,
         "price": -100000.0
@@ -14351,7 +15134,7 @@
       },
       "bovada": {
         "line": -35.5,
-        "price": -105.0
+        "price": -110.0
       },
       "caesars": {
         "line": -35.5,
@@ -14359,7 +15142,7 @@
       },
       "draftkings": {
         "line": -35.5,
-        "price": -112.0
+        "price": -110.0
       },
       "espnbet": {
         "line": -35.5,
@@ -14370,12 +15153,12 @@
         "price": -114.0
       },
       "pointsbet": {
-        "line": -35.5,
+        "line": -35.0,
         "price": -111.0
       },
       "unibet": {
-        "line": -35.5,
-        "price": -110.0
+        "line": -36.5,
+        "price": -109.0
       }
     }
   },
@@ -14631,8 +15414,34 @@
   },
   "ujzWyOBwTgBbPTve2YZb": {
     "ml": {},
-    "ou": {},
-    "sp": {}
+    "ou": {
+      "caesars": {
+        "line": 176.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": 177.5,
+        "price": -112.0
+      },
+      "espnbet": {
+        "line": 177.5,
+        "price": -110.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -18.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -18.5,
+        "price": -110.0
+      },
+      "espnbet": {
+        "line": -18.5,
+        "price": -110.0
+      }
+    }
   },
   "uz4pqYmoTBwFygji4ns3": {
     "ml": {
@@ -14856,6 +15665,10 @@
   },
   "wOScqqmgOJc7xpHNUwEo": {
     "ml": {
+      "betmgm": {
+        "line": null,
+        "price": -10000.0
+      },
       "fanduel": {
         "line": null,
         "price": -100000.0
@@ -14906,11 +15719,11 @@
       },
       "draftkings": {
         "line": -33.5,
-        "price": -112.0
+        "price": -108.0
       },
       "espnbet": {
         "line": -33.5,
-        "price": -110.0
+        "price": -105.0
       },
       "fanduel": {
         "line": -33.5,
@@ -14922,7 +15735,7 @@
       },
       "unibet": {
         "line": -33.5,
-        "price": -111.0
+        "price": -115.0
       }
     }
   },
@@ -15060,24 +15873,24 @@
       },
       "pointsbet": {
         "line": null,
-        "price": -250.0
+        "price": -278.0
       },
       "unibet": {
         "line": null,
-        "price": -278.0
+        "price": -270.0
       }
     },
     "ou": {
       "betmgm": {
+        "line": 146.5,
+        "price": -105.0
+      },
+      "bovada": {
         "line": 145.5,
         "price": -110.0
       },
-      "bovada": {
-        "line": 146.0,
-        "price": -110.0
-      },
       "caesars": {
-        "line": 146.0,
+        "line": 145.0,
         "price": -110.0
       },
       "draftkings": {
@@ -15085,15 +15898,15 @@
         "price": -115.0
       },
       "espnbet": {
-        "line": 146.5,
-        "price": -105.0
+        "line": 145.5,
+        "price": -115.0
       },
       "fanduel": {
         "line": 146.5,
         "price": -106.0
       },
       "pointsbet": {
-        "line": 146.5,
+        "line": 145.5,
         "price": -111.0
       }
     },
@@ -15107,7 +15920,7 @@
         "price": -110.0
       },
       "caesars": {
-        "line": -5.5,
+        "line": -6.0,
         "price": -110.0
       },
       "draftkings": {
@@ -15127,8 +15940,8 @@
         "price": -111.0
       },
       "unibet": {
-        "line": -6.5,
-        "price": -108.0
+        "line": -5.5,
+        "price": -125.0
       }
     }
   },
@@ -15138,9 +15951,48 @@
     "sp": {}
   },
   "yrKV0SzSuSjuqeuhzqJS": {
-    "ml": {},
-    "ou": {},
-    "sp": {}
+    "ml": {
+      "draftkings": {
+        "line": null,
+        "price": -100000.0
+      },
+      "fanduel": {
+        "line": null,
+        "price": -100000.0
+      }
+    },
+    "ou": {
+      "draftkings": {
+        "line": 156.5,
+        "price": -105.0
+      },
+      "espnbet": {
+        "line": 155.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": 154.5,
+        "price": -115.0
+      }
+    },
+    "sp": {
+      "caesars": {
+        "line": -29.5,
+        "price": -110.0
+      },
+      "draftkings": {
+        "line": -29.5,
+        "price": -115.0
+      },
+      "espnbet": {
+        "line": -29.5,
+        "price": -115.0
+      },
+      "fanduel": {
+        "line": -29.5,
+        "price": -110.0
+      }
+    }
   },
   "yvbXN944WztkvoUPDsRF": {
     "ml": {
@@ -15179,42 +16031,42 @@
     },
     "ou": {
       "betmgm": {
-        "line": 157.5,
+        "line": 158.5,
         "price": -105.0
       },
       "bovada": {
-        "line": 157.5,
+        "line": 158.0,
         "price": -110.0
       },
       "caesars": {
-        "line": 157.5,
+        "line": 158.0,
         "price": -110.0
       },
       "draftkings": {
-        "line": 157.5,
+        "line": 158.5,
         "price": -108.0
       },
       "espnbet": {
-        "line": 157.5,
+        "line": 158.5,
         "price": -110.0
       },
       "fanduel": {
-        "line": 156.5,
+        "line": 157.5,
         "price": -115.0
       },
       "pointsbet": {
-        "line": 157.5,
+        "line": 158.0,
         "price": -111.0
       }
     },
     "sp": {
       "betmgm": {
         "line": -19.5,
-        "price": -110.0
+        "price": -115.0
       },
       "bovada": {
         "line": -19.5,
-        "price": -110.0
+        "price": -115.0
       },
       "caesars": {
         "line": -19.5,
@@ -15233,12 +16085,12 @@
         "price": -110.0
       },
       "pointsbet": {
-        "line": -20.0,
+        "line": -19.5,
         "price": -111.0
       },
       "unibet": {
         "line": -19.5,
-        "price": -119.0
+        "price": -120.0
       }
     }
   },
