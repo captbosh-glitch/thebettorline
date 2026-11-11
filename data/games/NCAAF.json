@@ -15040,6 +15040,55 @@
       }
     }
   },
+  "g6IXUlTpzy9NhfkVcnV1": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-13T02:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-13T01:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-13T02:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Louisiana",
+          "medium": "Lafayette",
+          "short": "ULL"
+        },
+        "statEntityID": "away",
+        "teamID": "LOUISIANA_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "UL Monroe",
+          "medium": "ULM",
+          "short": "ULM"
+        },
+        "statEntityID": "home",
+        "teamID": "UL_MONROE_NCAAF"
+      }
+    }
+  },
   "gkGXTBJOd3D2azsKb34V": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-17T17:00:00.000Z",
@@ -17432,6 +17481,55 @@
         },
         "statEntityID": "home",
         "teamID": "MINNESOTA_NCAAF"
+      }
+    }
+  },
+  "naU7rmIsNSaJ10dYfqfd": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-13T01:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-13T00:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-13T01:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Memphis",
+          "medium": "Memphis",
+          "short": "MEM"
+        },
+        "statEntityID": "away",
+        "teamID": "MEMPHIS_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "South Florida",
+          "medium": "South Florida",
+          "short": "USF"
+        },
+        "statEntityID": "home",
+        "teamID": "SOUTH_FLORIDA_NCAAF"
       }
     }
   },

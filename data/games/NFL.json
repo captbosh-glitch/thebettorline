@@ -1196,6 +1196,67 @@
       }
     }
   },
+  "Qq8Zi9AOEqVNhRnPgzcx": {
+    "league_id": "NFL",
+    "starts_at": "2026-11-13T01:15:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [],
+      "started": false,
+      "startsAt": "2026-11-13T01:15:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "colors": {
+          "primary": "#5A1414",
+          "primaryContrast": "#FFB612",
+          "secondary": "#FFB612",
+          "secondaryContrast": "#5A1414"
+        },
+        "names": {
+          "location": "Washington",
+          "long": "Washington Commanders",
+          "medium": "Commanders",
+          "short": "WAS"
+        },
+        "statEntityID": "away",
+        "teamID": "WASHINGTON_COMMANDERS_NFL"
+      },
+      "home": {
+        "colors": {
+          "primary": "#0B2265",
+          "primaryContrast": "#FFFFFF",
+          "secondary": "#A71930",
+          "secondaryContrast": "#000000"
+        },
+        "names": {
+          "location": "New York",
+          "long": "New York Giants",
+          "medium": "Giants",
+          "short": "NYG"
+        },
+        "statEntityID": "home",
+        "teamID": "NEW_YORK_GIANTS_NFL"
+      }
+    }
+  },
   "RBaqzdoQyTFQ6OuzhHv5": {
     "league_id": "NFL",
     "starts_at": "2026-11-08T18:00:00.000Z",
