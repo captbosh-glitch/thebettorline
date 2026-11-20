@@ -82,6 +82,73 @@
       }
     }
   },
+  "0Sxqa4AH4XGsep4Emd4e": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9807598003865348
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.9807598003865348
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9807598003865348
+      },
+      "movement_vs_opener_pp": null,
+      "opener": null
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 150.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -36.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -36.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -36.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -36.5
+      }
+    }
+  },
   "0VugGXcDZU19ziGbHeQa": {
     "ml": {
       "close": null,
@@ -102,7 +169,98 @@
       "opener": null
     }
   },
+  "0aE2ARtifyK8JJppXeO4": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.23653206963504128
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.23653206963504128
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.23653206963504128
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.23653206963504128
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 166.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 166.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 166.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 166.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 8.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 8.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 8.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 8.5
+      }
+    }
+  },
   "0bfpVDrYwsLGp5uqoywv": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "0eEXuoaABQOg4L4lyhNh": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -866,6 +1024,77 @@
       }
     }
   },
+  "28pCmLEyIxqCQA6abvhZ": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9062785296907522
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.9062785296907522
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9062785296907522
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9062785296907522
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 146.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 146.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 146.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 146.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -15.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -15.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -15.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -15.5
+      }
+    }
+  },
   "2JKgsMVle2llOFYj8fYP": {
     "ml": {
       "close": null,
@@ -1074,6 +1303,77 @@
       }
     }
   },
+  "2Vy66ZzaGbwohYvaAZYV": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6118901228312816
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.6118901228312816
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6118901228312816
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6118901228312816
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 140.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      }
+    }
+  },
   "2o8udtUScgcx1re1CocT": {
     "ml": {
       "close": null,
@@ -1276,6 +1576,77 @@
       }
     }
   },
+  "3CZpXWWPQvVj8DeUb1SK": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.391183035822105
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.391183035822105
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.391183035822105
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.391183035822105
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 136.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 136.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 136.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 136.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      }
+    }
+  },
   "3H2vEYP0zLLQIVkDAiy0": {
     "ml": {
       "close": {
@@ -1426,6 +1797,77 @@
       }
     }
   },
+  "3cxQII83eWAv5LdIuKZQ": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5217391304347826
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5217391304347826
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5217391304347826
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5217391304347826
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 137.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 137.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 137.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 137.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      }
+    }
+  },
   "3dMxl52g4Dnma3cyfeYy": {
     "ml": {
       "close": {
@@ -1557,6 +1999,97 @@
     }
   },
   "4B0RdyqpVDKQcJlIjDBX": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "4IsbUrLRL6XJmbF7SbIo": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.2657699735806021
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.2657699735806021
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.2657699735806021
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.2657699735806021
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 143.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 143.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 143.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 143.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 7.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 7.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 7.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 7.5
+      }
+    }
+  },
+  "4QRdxUVP9vxHovSJ0z7G": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -1797,6 +2330,77 @@
       }
     }
   },
+  "53qxkvGOkgpk6Mf7gw90": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9334061135371179
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.9334061135371179
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9334061135371179
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9334061135371179
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 157.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 157.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 157.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 157.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -18.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -18.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -18.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -18.5
+      }
+    }
+  },
   "56tepo9hhj9LGvWqE9e6": {
     "ml": {
       "close": null,
@@ -1815,6 +2419,148 @@
       "consensus_history": [],
       "current": null,
       "opener": null
+    }
+  },
+  "5FUcQz7wIRFkCaQoDesM": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7085889570552146
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.7085889570552146
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7085889570552146
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7085889570552146
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 138.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 138.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 138.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 138.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -6.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -6.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -6.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -6.5
+      }
+    }
+  },
+  "5WZeXuDhAZhHwKCo6KQb": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9216611609249645
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.9216611609249645
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9216611609249645
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9216611609249645
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 156.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 156.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 156.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 156.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -16.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -16.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -16.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -16.5
+      }
     }
   },
   "5eStMwV829X9CuSQ3nRz": {
@@ -1918,6 +2664,97 @@
       "consensus_history": [],
       "current": null,
       "opener": null
+    }
+  },
+  "5yHjQeRtuQJy9ZEkptUQ": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "5z0l1iZlkKWogo2mctEx": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7533760716505333
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.7533760716505333
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7533760716505333
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7533760716505333
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 144.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 144.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 144.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 144.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -8.25
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -8.25
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -8.25
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -8.25
+      }
     }
   },
   "6Aou7LVzSa8h0cZOa6ew": {
@@ -2062,6 +2899,117 @@
       }
     }
   },
+  "6QWJHZv0SdGvVA7SkfQn": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "6ikdAkGMdefWzh4alW54": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.32075471698113206
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.32075471698113206
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.32075471698113206
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 9,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.32075471698113206
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 142.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 142.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 142.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 142.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 5.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 5.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 5.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 5.5
+      }
+    }
+  },
+  "6jtPoL2a6Po4GiTBvzjl": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "73WVncYpu8Eks12LGm04": {
     "ml": {
       "close": null,
@@ -2154,6 +3102,26 @@
     }
   },
   "75tEN2nAFM05Xukk4rFm": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "76NcE0Uq5LcHNFjt9bZE": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -2316,6 +3284,77 @@
         "books_count": 8,
         "timestamp": "2026-11-10T18:50:01Z",
         "value": -25.5
+      }
+    }
+  },
+  "7VQhiP7K54ChCwPEMbbB": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 9,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 141.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 141.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 141.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 141.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -1.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.0
       }
     }
   },
@@ -3104,6 +4143,77 @@
       "opener": null
     }
   },
+  "9HAt0W9cOne4As6RMIYx": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.91699604743083
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.91699604743083
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.91699604743083
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.91699604743083
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 154.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 154.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 154.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 154.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -16.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -16.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -16.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -16.5
+      }
+    }
+  },
   "9bgCsP7CEpzp0raucDxI": {
     "ml": {
       "close": {
@@ -3274,6 +4384,60 @@
       "opener": null
     }
   },
+  "ABRwE5ncdERRkLPydTlU": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 165.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 165.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 165.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 165.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -48.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -48.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -48.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -48.5
+      }
+    }
+  },
   "ARv6pwKsMBsduIyPeVqZ": {
     "ml": {
       "close": null,
@@ -3371,6 +4535,77 @@
       "consensus_history": [],
       "current": null,
       "opener": null
+    }
+  },
+  "AX3SFNLntJSgQg5aQZEx": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7777127844382933
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.7777127844382933
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7777127844382933
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7777127844382933
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 146.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 146.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 146.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 146.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -8.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -8.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -8.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -8.5
+      }
     }
   },
   "Aw3oK7PBGQqn31xvebO8": {
@@ -3710,6 +4945,148 @@
         "books_count": 8,
         "timestamp": "2026-11-11T18:50:06Z",
         "value": 3.5
+      }
+    }
+  },
+  "BHCEWb4W7gVMmcqsu0VJ": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.49575009549117494
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.49575009549117494
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.49575009549117494
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.49575009549117494
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 149.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 149.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 149.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 149.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 1.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 1.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 1.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 1.0
+      }
+    }
+  },
+  "BIjj7jxeMbWQZGqJEnjc": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.1308435109978064
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.1308435109978064
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.1308435109978064
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.1308435109978064
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 137.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 137.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 137.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 137.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 12.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 12.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 12.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 12.5
       }
     }
   },
@@ -4247,6 +5624,26 @@
       }
     }
   },
+  "DE8HxUmW19BbK0fbUAvA": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "DEcKfQ1O0rqccxNKAU7M": {
     "ml": {
       "close": null,
@@ -4352,6 +5749,77 @@
       "consensus_history": [],
       "current": null,
       "opener": null
+    }
+  },
+  "DjD6OumbOpChJBqnjYBk": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.8405607476635514
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.8405607476635514
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.8405607476635514
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.8405607476635514
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 155.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 155.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 155.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 155.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -11.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -11.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -11.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -11.5
+      }
     }
   },
   "DnnInbVE56nWcINSslGn": {
@@ -4732,6 +6200,46 @@
       "opener": null
     }
   },
+  "EgcNqYTadAvA14JQhnBm": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "EpKZ6XZRp9s49sZFXFfG": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "EplqcWDM6kWv20nqjnXi": {
     "ml": {
       "close": {
@@ -5049,6 +6557,26 @@
     }
   },
   "F9utQbGEOyruis8hepHV": {},
+  "FALsB6lcFGT8z8yveNsj": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "FFIu19XYkFYng3jXaeGC": {
     "ml": {
       "close": {
@@ -5745,6 +7273,26 @@
       "opener": null
     }
   },
+  "G0XDASFX9r5HUuvIOQBD": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "G1vTniVHJLlKQyN1XLUG": {
     "ml": {
       "close": null,
@@ -5834,6 +7382,26 @@
         "timestamp": "2026-11-13T23:35:19Z",
         "value": -18.5
       }
+    }
+  },
+  "GAVqYtWoCTjzTuXcsgvI": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "GL8pgrIjvwQYUqxz8sBc": {
@@ -5976,6 +7544,26 @@
         "timestamp": "2026-11-08T23:11:59Z",
         "value": -12.5
       }
+    }
+  },
+  "GRoIoeC1yMnYW8NttUXA": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "GgSFwLTF46mLAlBv1Ae3": {
@@ -7011,6 +8599,26 @@
       "opener": null
     }
   },
+  "JRbCMh6uE5SIqNy7rtEN": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "JRuGdne0Chsp4cUM0llm": {
     "ml": {
       "close": {
@@ -7678,6 +9286,77 @@
       "opener": null
     }
   },
+  "LMTi6zmuEJUrON5Znvbw": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5324675324675325
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5324675324675325
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5324675324675325
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5324675324675325
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 161.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 161.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 161.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 161.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      }
+    }
+  },
   "LSNsSv07AivJlMzyq2Pc": {
     "ml": {
       "close": {
@@ -7929,6 +9608,60 @@
       },
       "movement_vs_opener_pts": null,
       "opener": null
+    }
+  },
+  "Ltd4g1tmbYJGX5m6hvJ0": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 150.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -42.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -42.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -42.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -42.5
+      }
     }
   },
   "M2TqAR0YqF1UxVhMjCsk": {
@@ -8281,6 +10014,77 @@
       }
     }
   },
+  "MzLBa2LsdnqItF56TMjo": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6114135598690977
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.6114135598690977
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6114135598690977
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6114135598690977
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 148.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -4.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.0
+      }
+    }
+  },
   "N0APxN7COOEnWkyvnkBN": {
     "ml": {
       "close": null,
@@ -8599,6 +10403,77 @@
       "opener": null
     }
   },
+  "NeNpItJrGmhSrnWRKxiN": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.591301068750202
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.591301068750202
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.591301068750202
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.591301068750202
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 153.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 153.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 153.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 153.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      }
+    }
+  },
   "Nf1EQi8cB8PAxKLBsJ6b": {
     "ml": {
       "close": null,
@@ -8675,6 +10550,26 @@
         "value": -9.5
       },
       "movement_vs_opener_pts": null,
+      "opener": null
+    }
+  },
+  "O8bWJB8XcOmk3iGsIFAM": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
       "opener": null
     }
   },
@@ -9638,6 +11533,26 @@
       }
     }
   },
+  "PuspKTzbjIUnhetLXdJb": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "Q1q5IRrIHFH9C8yOabdB": {
     "ml": {
       "close": {
@@ -10435,6 +12350,77 @@
       }
     }
   },
+  "RVtvdfG4oF4k8Q9C6UTE": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5575129008657851
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5575129008657851
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5575129008657851
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5575129008657851
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.75
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 148.75
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.75
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.75
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -2.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -2.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -2.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -2.5
+      }
+    }
+  },
   "RZ29Nt6Y46aMHDtCdeeB": {
     "ml": {
       "close": {
@@ -10630,6 +12616,26 @@
     }
   },
   "S2OLsiLo1dltD8RWB9Ou": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "SCKuy3cMrRg0XnaCeLez": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -10928,6 +12934,26 @@
         "timestamp": "2026-11-08T23:11:59Z",
         "value": -28.5
       }
+    }
+  },
+  "T36YP5oW1H5li2lYBzSk": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "TAtuirEDiN5PBV200U8F": {
@@ -11383,6 +13409,77 @@
       "opener": null
     }
   },
+  "UKOjDil4x6aIk5uxGzIh": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6233894945490586
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.6233894945490586
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6233894945490586
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 9,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6233894945490586
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 145.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -4.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.0
+      }
+    }
+  },
   "UbjupXvup3zDovMXfgOs": {
     "ml": {
       "close": {
@@ -11798,6 +13895,26 @@
       }
     }
   },
+  "ViEirpJjhUFBpb7QE2Wj": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "Vw3FHvvYQB0K7ujtEaYG": {
     "ml": {
       "close": {
@@ -11879,6 +13996,26 @@
         "timestamp": "2026-11-07T14:11:33Z",
         "value": 9.5
       }
+    }
+  },
+  "W4MvI6n7z6yBgmE69MAL": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "WCTOTHQxleSu60RsMjy0": {
@@ -12205,6 +14342,77 @@
       }
     }
   },
+  "Wes3RgdOvKY3f0jzjAAg": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7335423197492164
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.7335423197492164
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7335423197492164
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7335423197492164
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 151.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 151.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 151.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 151.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -7.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -7.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -7.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -7.5
+      }
+    }
+  },
   "WfRyRCgAAZ0Cu459FcL7": {
     "ml": {
       "close": {
@@ -12371,6 +14579,46 @@
       }
     }
   },
+  "WmXIRgOjyl7M7kCUWkTK": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "Wnt1oWkB9y8qmGHgmrCi": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "XAevc1dOoEjb3o220EVD": {
     "ml": {
       "close": {
@@ -12511,6 +14759,77 @@
       },
       "movement_vs_opener_pts": null,
       "opener": null
+    }
+  },
+  "XPvt64JheBbiILVKItJ3": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.15999999999999998
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.15999999999999998
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.15999999999999998
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.15999999999999998
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 142.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 142.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 142.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 142.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 11.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 11.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 11.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 11.5
+      }
     }
   },
   "XVheFsUMntvNiI0DUPwU": {
@@ -12925,6 +15244,77 @@
       },
       "movement_vs_opener_pts": null,
       "opener": null
+    }
+  },
+  "YG4oLBVg6YArFMBiyVDG": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.343018112093037
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.343018112093037
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.343018112093037
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.343018112093037
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 149.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 149.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 149.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 149.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 4.75
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 4.75
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 4.75
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 4.75
+      }
     }
   },
   "YGtxP8v8DM2B6pJDUqbo": {
@@ -13439,6 +15829,26 @@
         "timestamp": "2026-11-07T14:11:33Z",
         "value": -21.5
       }
+    }
+  },
+  "Z0nJoIYCo0Klm818x0du": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "ZAXDQBMO8dIZEU2oy6CJ": {
@@ -14066,6 +16476,26 @@
       "opener": null
     }
   },
+  "ajj01qsZtuKJoxtNZ0AS": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "akCyZpjjxtFulCc5fGpG": {
     "ml": {
       "close": {
@@ -14304,6 +16734,26 @@
     }
   },
   "b54uDJzQe3F0vLG1bWFw": {},
+  "bIodeTuqaKltGIPggFQi": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "bOaPFhHYmbmuJ7561pwn": {
     "ml": {
       "close": {
@@ -14368,6 +16818,77 @@
         "books_count": 4,
         "timestamp": "2026-11-13T23:35:19Z",
         "value": 5.5
+      }
+    }
+  },
+  "bPLVm7yO56QISfrjhnFC": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9539672925499698
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.9539672925499698
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9539672925499698
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 5,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9539672925499698
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 144.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 144.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 144.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 144.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -21.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -21.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -21.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -21.5
       }
     }
   },
@@ -14534,6 +17055,77 @@
         "books_count": 8,
         "timestamp": "2026-11-07T14:11:33Z",
         "value": 4.5
+      }
+    }
+  },
+  "bXSTcgF3IW3qJNRr3kr7": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5315065461485613
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5315065461485613
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5315065461485613
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5315065461485613
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 133.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 133.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 133.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 133.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.5
       }
     }
   },
@@ -15102,6 +17694,77 @@
       }
     }
   },
+  "c9kjLKeQ7pa9qOu2E5Sd": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.447405997144217
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.447405997144217
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.447405997144217
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.447405997144217
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 132.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 132.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 132.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 132.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 2.25
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 2.25
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 2.25
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 2.25
+      }
+    }
+  },
   "cCkrRFvdFCUgVLk4SY2D": {
     "ml": {
       "close": {
@@ -15570,6 +18233,77 @@
       "consensus_history": [],
       "current": null,
       "opener": null
+    }
+  },
+  "d7mj9vHmYARKRKxIjROn": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5427435387673957
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5427435387673957
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5427435387673957
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5427435387673957
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 153.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 153.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 153.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 153.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.75
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -1.75
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.75
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -1.75
+      }
     }
   },
   "dFBSfHkZHOJSGNMyQGrh": {
@@ -16622,6 +19356,60 @@
       "opener": null
     }
   },
+  "fBUG1bTFzppcUorIdD5J": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 148.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 148.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -34.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -34.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -34.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -34.5
+      }
+    }
+  },
   "fDDbt1N7PeVbdTAEeOfl": {
     "ml": {
       "close": {
@@ -16954,6 +19742,26 @@
       }
     }
   },
+  "gTIykG6MbtszIXzMbfVX": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "gTJsGkwXx7UqFTtOkWPX": {
     "ml": {
       "close": null,
@@ -17077,6 +19885,46 @@
       }
     }
   },
+  "gsqn7r3XroRWpw946wpt": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "gwqbkHlaiLte8tXTrZ3f": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "gySNv731Pg0f2USkSDe7": {
     "ml": {
       "close": null,
@@ -17128,6 +19976,60 @@
         "books_count": 8,
         "timestamp": "2026-11-03T23:40:07Z",
         "value": -31.5
+      }
+    }
+  },
+  "h2vulPiX6rwF7pfxYuFO": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 152.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 152.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 152.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 152.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -38.25
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -38.25
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -38.25
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -38.25
       }
     }
   },
@@ -17920,6 +20822,26 @@
       "opener": null
     }
   },
+  "iq7eFIUo5pIi6p85d0ow": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "ivsyQiIIPLyrS8fqbEn2": {
     "ml": {
       "close": null,
@@ -18007,6 +20929,77 @@
       }
     }
   },
+  "j5rCRmJnRcCUvmbCsavl": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6281188863001587
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.6281188863001587
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6281188863001587
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6281188863001587
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 140.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -4.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -4.5
+      }
+    }
+  },
   "jADm64rAzG5nyG8maw9S": {
     "ml": {
       "close": {
@@ -18076,6 +21069,26 @@
         "timestamp": "2026-11-13T23:35:19Z",
         "value": -22.5
       }
+    }
+  },
+  "jOxMoZ3mlL9U57dvhtjN": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "jghIHBTlhxrHsZXDqVHh": {
@@ -18232,6 +21245,148 @@
         "books_count": 8,
         "timestamp": "2026-11-07T14:11:33Z",
         "value": -2.5
+      }
+    }
+  },
+  "jp7GEjOvwnNGnowsZtlM": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.8528704348376479
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.8528704348376479
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.8528704348376479
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.8528704348376479
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 170.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 170.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 170.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 170.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -12.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -12.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -12.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -12.5
+      }
+    }
+  },
+  "k3GWTdQchHmqXrnKyfuJ": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3920315550214166
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.3920315550214166
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3920315550214166
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3920315550214166
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 138.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 138.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 138.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 138.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
       }
     }
   },
@@ -18693,6 +21848,77 @@
       }
     }
   },
+  "kalw1UIc0lU70lVDnJap": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9728415079043372
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.9728415079043372
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9728415079043372
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 3,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.9728415079043372
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 147.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 147.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 147.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 147.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -27.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -27.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -27.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -27.0
+      }
+    }
+  },
   "kbbKpDbANV50NiPR0C6i": {
     "ml": {
       "close": null,
@@ -19050,6 +22276,77 @@
         "books_count": 8,
         "timestamp": "2026-11-10T18:50:01Z",
         "value": -13.0
+      }
+    }
+  },
+  "lRKSHzHJBV0GpwUnZi21": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5962310192884865
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.5962310192884865
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5962310192884865
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.5962310192884865
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 143.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 143.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 143.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 143.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
       }
     }
   },
@@ -19911,6 +23208,77 @@
       }
     }
   },
+  "noxgW2iPKnHlJWhrmxUm": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.4675324675324675
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.4675324675324675
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.4675324675324675
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 9,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.4675324675324675
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 139.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 139.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 139.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 139.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 1.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 1.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 1.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 1.5
+      }
+    }
+  },
   "nr4Au8hXBJjXqq9X1DZ7": {
     "ml": {
       "close": {
@@ -20365,6 +23733,60 @@
       }
     }
   },
+  "oRz9uVLJd53Q6FBtoyY4": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 155.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 155.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 155.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 155.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -36.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -36.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -36.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -36.5
+      }
+    }
+  },
   "oY5U5Y9pT2DRv8YnKuUJ": {
     "ml": {
       "close": {
@@ -20436,7 +23858,47 @@
       }
     }
   },
+  "oZBegUBRevKqzn9ZGL1l": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "oduKG3jAvLoy0IUK2T96": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "okQpQqihayWsxBbFB4pJ": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -20689,6 +24151,97 @@
       }
     }
   },
+  "p93LOdTuWwdOeQSN2NOy": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6106973595125254
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.6106973595125254
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6106973595125254
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6106973595125254
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 162.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 162.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 162.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 162.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      }
+    }
+  },
+  "pDk1BKP7rlfbi3VyqFc4": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "pRRm0dsZmXfXqEPNdKQS": {
     "ml": {
       "close": {
@@ -20934,6 +24487,97 @@
       "opener": null
     }
   },
+  "pyzlhfcJVhU3K0Hfpl0F": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3962430290578221
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.3962430290578221
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3962430290578221
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3962430290578221
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 140.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 6,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 140.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      }
+    }
+  },
+  "q3vfGZGIdZYf0xoIhGvP": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "qCuCX2osWfE2YM5iq3Oq": {
     "ml": {
       "close": {
@@ -20990,6 +24634,26 @@
         "value": -10.75
       },
       "movement_vs_opener_pts": null,
+      "opener": null
+    }
+  },
+  "qMBfhWBlAyglmoe1kJin": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
       "opener": null
     }
   },
@@ -21659,6 +25323,26 @@
       }
     }
   },
+  "rdzveOJ8BEstUTb2UxMw": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "roFZFhrQnPWurwa1Ro5w": {
     "ml": {
       "close": null,
@@ -21832,6 +25516,26 @@
         "timestamp": "2026-11-13T23:35:19Z",
         "value": 5.5
       }
+    }
+  },
+  "s30FQoG65CKZb1HyUSyT": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   },
   "s86VXMktfrJDgtvWz2O3": {
@@ -22080,6 +25784,97 @@
         "books_count": 8,
         "timestamp": "2026-11-11T18:50:06Z",
         "value": -4.75
+      }
+    }
+  },
+  "sJ7A26TyzpDxRRyfwpEg": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "sOMFs2dUcGDT6D3EQrFm": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7288943698738151
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.7288943698738151
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7288943698738151
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.7288943698738151
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 152.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 152.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 152.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 152.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -7.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -7.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -7.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -7.5
       }
     }
   },
@@ -22412,6 +26207,26 @@
     }
   },
   "t1u4DmpEsm6VNiQXOeF9": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "tEVJ4hXhwaVgRyGkkgKA": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -23004,6 +26819,26 @@
       }
     }
   },
+  "uhDTepmvJDt0tyExxE9Z": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "ujzWyOBwTgBbPTve2YZb": {
     "ml": {
       "close": {
@@ -23382,7 +27217,98 @@
       "opener": null
     }
   },
+  "v8AiufU8JRLgeaE7s6x8": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6001687333739094
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.6001687333739094
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6001687333739094
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.6001687333739094
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.0
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 145.0
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.0
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.0
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -3.5
+      }
+    }
+  },
   "vShj6sMm4OS0lcvR3zcc": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
+  "vV7PdypoLhILpOqIn7Et": {
     "ml": {
       "close": null,
       "consensus_history": [],
@@ -23946,6 +27872,148 @@
       }
     }
   },
+  "xKb3Du8q6xRpiuuE9GDy": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3920315550214166
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.3920315550214166
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3920315550214166
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.3920315550214166
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 145.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 145.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 3.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 3.5
+      }
+    }
+  },
+  "xYxnDVoG8K6mu48G83vB": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.949050949050949
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.949050949050949
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.949050949050949
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 5,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.949050949050949
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 147.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 147.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 147.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 147.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -21.25
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": -21.25
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -21.25
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": -21.25
+      }
+    }
+  },
   "xyx6u12laE49IEDkH15a": {
     "ml": {
       "close": null,
@@ -24064,6 +28132,77 @@
         "books_count": 5,
         "timestamp": "2026-11-13T23:35:19Z",
         "value": -11.5
+      }
+    }
+  },
+  "y6VsANLHSFv6PDbuEjbl": {
+    "ml": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.2132564841498559
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 0.2132564841498559
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.2132564841498559
+      },
+      "movement_vs_opener_pp": 0.0,
+      "opener": {
+        "books_count": 9,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 0.2132564841498559
+      }
+    },
+    "ou": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 150.5
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 7,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 150.5
+      }
+    },
+    "sp": {
+      "close": {
+        "source": "last_pulled",
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 8.75
+      },
+      "consensus_history": [
+        {
+          "timestamp": "2026-11-20T18:49:57Z",
+          "value": 8.75
+        }
+      ],
+      "current": {
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 8.75
+      },
+      "movement_vs_opener_pts": 0.0,
+      "opener": {
+        "books_count": 8,
+        "timestamp": "2026-11-20T18:49:57Z",
+        "value": 8.75
       }
     }
   },
@@ -24494,6 +28633,26 @@
       }
     }
   },
+  "z3g6tfm34KYH26RX01sl": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    }
+  },
   "z4bhxjqCJaEV5dgdfXbw": {
     "ml": {
       "close": {
@@ -24713,6 +28872,26 @@
         "timestamp": "2026-11-13T23:35:19Z",
         "value": 8.5
       }
+    }
+  },
+  "zvCyv5fIsT1ZYfBCRnAl": {
+    "ml": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "ou": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
+    },
+    "sp": {
+      "close": null,
+      "consensus_history": [],
+      "current": null,
+      "opener": null
     }
   }
 }
