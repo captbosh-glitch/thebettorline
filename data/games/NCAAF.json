@@ -15165,6 +15165,57 @@
       }
     }
   },
+  "Saspk6Yo7JL7tIrJD51Q": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-25T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-24T00:00:00.000Z",
+        "2026-11-24T04:00:00.000Z",
+        "2026-11-24T23:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-25T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Miami (OH)",
+          "medium": "Miami Ohio",
+          "short": "M-OH"
+        },
+        "statEntityID": "away",
+        "teamID": "MIAMI_OH_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Western Michigan",
+          "medium": "Western Michigan",
+          "short": "WMU"
+        },
+        "statEntityID": "home",
+        "teamID": "WESTERN_MICHIGAN_NCAAF"
+      }
+    }
+  },
   "SgwboL2hqW4dvfYqUA0S": {
     "league_id": "NCAAF",
     "starts_at": "2026-10-17T19:00:00.000Z",
@@ -28383,6 +28434,56 @@
         },
         "statEntityID": "home",
         "teamID": "NORTH_DAKOTA_NCAAF"
+      }
+    }
+  },
+  "pVgExwoSXZvcDQ6ohLRl": {
+    "league_id": "NCAAF",
+    "starts_at": "2026-11-25T00:00:00.000Z",
+    "status": {
+      "cancelled": false,
+      "completed": false,
+      "currentPeriodID": "",
+      "delayed": false,
+      "displayLong": "Upcoming",
+      "displayShort": "",
+      "ended": false,
+      "finalized": false,
+      "hardStart": true,
+      "inBreak": false,
+      "live": false,
+      "oddsAvailable": true,
+      "oddsPresent": true,
+      "periods": {
+        "ended": [],
+        "started": []
+      },
+      "previousPeriodID": "",
+      "previousStartsAt": [
+        "2026-11-24T00:00:00.000Z",
+        "2026-11-24T23:00:00.000Z"
+      ],
+      "started": false,
+      "startsAt": "2026-11-25T00:00:00.000Z"
+    },
+    "teams": {
+      "away": {
+        "names": {
+          "long": "Kent State",
+          "medium": "Kent State",
+          "short": "KNT"
+        },
+        "statEntityID": "away",
+        "teamID": "KENT_STATE_NCAAF"
+      },
+      "home": {
+        "names": {
+          "long": "Eastern Michigan",
+          "medium": "Eastern Michigan",
+          "short": "EMU"
+        },
+        "statEntityID": "home",
+        "teamID": "EASTERN_MICHIGAN_NCAAF"
       }
     }
   },
