@@ -1,32 +1,32 @@
 {
   "MLB": {
-    "last_error": null,
-    "last_error_at": null,
+    "last_error": "Rate limited on /events after retries",
+    "last_error_at": "2026-11-27T14:13:06Z",
     "last_success_at": "2026-11-24T18:43:23Z"
   },
   "NBA": {
     "last_error": null,
     "last_error_at": null,
-    "last_success_at": "2026-11-24T18:43:23Z"
+    "last_success_at": "2026-11-27T14:13:06Z"
   },
   "NCAAB": {
     "last_error": null,
     "last_error_at": null,
-    "last_success_at": "2026-11-24T18:43:23Z"
+    "last_success_at": "2026-11-27T14:13:06Z"
   },
   "NCAAF": {
     "last_error": null,
     "last_error_at": null,
-    "last_success_at": "2026-11-24T18:43:23Z"
+    "last_success_at": "2026-11-27T14:13:06Z"
   },
   "NFL": {
     "last_error": null,
     "last_error_at": null,
-    "last_success_at": "2026-11-24T18:43:23Z"
+    "last_success_at": "2026-11-27T14:13:06Z"
   },
   "NHL": {
-    "last_error": null,
-    "last_error_at": null,
+    "last_error": "Rate limited on /events after retries",
+    "last_error_at": "2026-11-27T14:13:06Z",
     "last_success_at": "2026-11-24T18:43:23Z"
   }
 }

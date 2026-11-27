@@ -1095,5 +1095,65 @@
     "pull_time_label": "14:00",
     "trigger": "schedule",
     "ts": "2026-11-24T18:43:23Z"
+  },
+  {
+    "api_calls_used": 17,
+    "errors": [
+      {
+        "error": "Rate limited on /events after retries",
+        "league_id": "NHL"
+      },
+      {
+        "error": "Rate limited on /events after retries",
+        "league_id": "MLB"
+      }
+    ],
+    "is_morning": true,
+    "leagues": [
+      {
+        "games_found": 1,
+        "grading": {
+          "graded": 3,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "NFL",
+        "snapshot_rows": 24
+      },
+      {
+        "games_found": 71,
+        "grading": {
+          "graded": 1,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "NCAAF",
+        "snapshot_rows": 1359
+      },
+      {
+        "games_found": 16,
+        "grading": {
+          "graded": 2,
+          "missing_closing_line": 0,
+          "missing_score": 0
+        },
+        "league_id": "NBA",
+        "snapshot_rows": 264
+      },
+      {
+        "games_found": 112,
+        "grading": {
+          "graded": 30,
+          "missing_closing_line": 3,
+          "missing_score": 0
+        },
+        "league_id": "NCAAB",
+        "snapshot_rows": 1098
+      }
+    ],
+    "note": null,
+    "pull_time_label": "09:00",
+    "trigger": "schedule",
+    "ts": "2026-11-27T14:13:06Z"
   }
 ]
